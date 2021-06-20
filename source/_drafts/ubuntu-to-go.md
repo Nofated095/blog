@@ -12,8 +12,6 @@ categories:
 <!--more-->
 
 {% raw %}<article class="message is-success"><div class="message-body">{% endraw %}
-本文内容仅供参考。文章参考了部分网络上的内容。
-
 特别鸣谢 
 - [StevenQiu](https://www.littlqiu.net)
 - [Ubuntu团队](https://www.ubuntu.com)
