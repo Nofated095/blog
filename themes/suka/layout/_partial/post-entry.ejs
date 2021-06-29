@@ -1,0 +1,18 @@
+<article class="post-entry container px-0 card">
+        <div class="columns col-gapless">
+            <% if (post.thumbnail) { %>
+                <div class="column column-thumbnail col-4 col-lg-12">
+                    <a href="<%= url_for(post.path) %>">
+                        <div class="post-thumbnail lazyload" data-bg="url(<%= post.thumbnail %>)"></div>
+                    </a>
+                </div>
+                <div class="column column-body col-8 col-lg-12">
+                    <%- partial('_partial/post-entry-content') %>
+                </div>
+            <% } else { %>
+                <div class="column col-12">
+                    <%- partial('_partial/post-entry-content') %>
+                </div>
+            <% } %>
+        </div>
+</article>

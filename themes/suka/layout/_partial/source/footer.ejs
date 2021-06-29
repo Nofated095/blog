@@ -1,0 +1,84 @@
+<!-- ### Footer JS Import ### -->
+
+<script>
+
+    <%- fragment_cache('footer_inline_js', () => {
+        let js = [];
+
+        /* Vanilla Lazyload Config */
+        js.push(`
+window.lazyLoadOptions = {
+    elements_selector: ".lazyload",
+    threshold: 50
+};`);
+
+        /* Copyright */
+        if (theme.footer.copyright_since > 0) {
+            js.push(`
+(function() {
+    var copyrightNow = new Date().getFullYear();
+    var copyrightContent = document.getElementById('copyright-year');
+    var copyrightSince = ${theme.footer.copyright_since};
+    if (copyrightSince === copyrightNow) {
+        copyrightContent.textContent = copyrightNow;
+    } else {
+        copyrightContent.textContent = copyrightSince + ' - ' + copyrightNow;
+    }
+})();`);
+        } else {
+            js.push(`document.getElementById('copyright-year').textContent = new Date().getFullYear();`);
+        }
+
+        /* Suka Theme Console.Log */
+        js.push(`console.log('\\n %c Suka Theme (hexo-theme-suka) | © SukkaW | Verision ${theme.verison} %c https://github.com/SukkaW/hexo-theme-suka \\n', 'color: #fff; background: #444; padding:5px 0;', 'background: #bbb; padding:5px 0;');`);
+
+        return js.join('\n');
+    }) %>
+
+</script>
+
+<%- fragment_cache('footer_common_js', () => {
+    let html = '';
+
+    /* vanilla-lazyload */
+    if (theme.vendors.lazyload) {
+        html += `<script src="${theme.vendors.lazyload}" async></script>`
+    } else {
+        html += `<script src="${url_for('lib/vanilla-lazyload/lazyload.min.js')}" async></script>`
+    }
+
+    /* Busuanzi */
+    if (theme.busuanzi.enable) html += partial('_plugin/busuanzi/import_js');
+
+    /* theme.hanabi.enable */
+    if (theme.hanabi.enable) html += partial('_plugin/highlight/hanabi/import_js');
+
+    return html
+}) %>
+
+<% if (theme.prettify.enable) { %>
+    <!-- prettify -->
+    <%- partial('_plugin/highlight/prettify/import_js') %>
+<% } %>
+
+<!-- Comment -->
+<% if (theme.comment.use) { %>
+    <% if ( (is_post()) ) { %>
+        <%- partial('_plugin/comment/' + theme.comment.use + '/common', {}, {cache: theme.fragment_cache}) %>
+    <% } %>
+<% } %>
+
+<!-- ### Custom Footer ### -->
+<%- fragment_cache('footer_custom_code', () => {
+    let html = '';
+    if (site.data.footer) {
+        for (const i in site.data.footer) {
+            if (Array.isArray(site.data.footer[i])) {
+                html += site.data.footer[i].join('');
+            } else if (site.data.footer[i] !== null) {
+                html += site.data.footer[i];
+            }
+        }
+    }
+    return html;
+}) %>

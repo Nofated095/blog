@@ -1,0 +1,34 @@
+<% if (post.title) { %>
+    <h2 class="h5 mb-0 card-header"><a class="card-title" href="<%= url_for(post.path) %>" rel="bookmark"><%- post.title %></a></h2>
+<% } %>
+
+<p class="mb-0 card-body">
+    <% if (post.excerpt) {%>
+        <%- strip_html(post.excerpt) %>
+    <% } else { %>
+        <%- strip_html(truncate(post.content, { length: theme.post.entry_excerpt })) %>
+    <% } %><a href="<%= url_for(post.path) %>"><%= __('post.continue') %></a>
+</p>
+
+<%
+    const lazyloadImgSrc = (theme.vendors.lazyload_img) ? theme.vendors.lazyload_img : url_for('img/suka-lazyload.gif');
+%>
+
+
+    <!-- Date & Category -->
+    <div class="card-footer post-entry-info text-gray">
+        <img class="author-thumb lazyload" data-src="<%= url_for(theme.img.avatar) %>" src="<%= lazyloadImgSrc %>" alt="<%= config.author %>'s Avatar">
+        <time><%= date(post.date, config.date_format) %></time>
+        <% if (post.categories && post.categories.length) { %>
+            <span class="suka-devide-dot"></span>
+            <%- list_categories(post.categories, {
+                show_count: false,
+                separator: '<span class="suka-devide-dot"></span>',
+                style: 'none'
+            }) %>
+        <% } %>
+        <% if ( (theme.valine_counter.enable) && (theme.valine_counter.index_post_pv.enable) ) { %>
+            <span class="suka-devide-dot"></span>
+            <%- partial('_plugin/valine-counter/index_post', {}, {cache: theme.fragment_cache}) %>
+        <% } %>
+    </div>

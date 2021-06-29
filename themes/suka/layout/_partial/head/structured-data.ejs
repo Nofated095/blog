@@ -1,0 +1,100 @@
+<% if ( is_home() ) { %>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Blog",
+    "author": {
+        "@type": "Person",
+        "name": "<%= config.author %>",
+        "image": {
+            "@type": "ImageObject",
+            "url": "<%= full_url_for(theme.img.avatar) %>"
+        },
+        "description": "<%- theme.uiux.slogan %>"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "<%= config.title %>",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "<%= site_logo() %>"
+        }
+    },
+    "url": "<%- config.url %>",
+    "logo": "<%= site_logo() %>",
+    "image": {
+        "@type": "ImageObject",
+        "url": "<%= site_logo() %>"
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "<%= config.url %>"
+    },
+    <% if ( (theme.search.use === "local") || (theme.nav.search.link) ) { %>
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "<%= full_url_for(theme.nav.search.link) %>?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+    },
+    <% } %>
+    "keywords": "<%= page_tags() %>",
+    "description": "<%= page_descr() %>"
+}
+</script>
+<% } %>
+
+<% if( (is_post()) ) { %>
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "url": "<%= page.permalink %>",
+    "@type": "BlogPosting",
+    "logo": "<%= site_logo() %>",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "<%= page.permalink %>"
+    },
+    "headline": "<%= page_title() %>",
+    <% if(page.thumbnail) { %>
+    "image": {
+        "@type": "ImageObject",
+        "url": "<%= full_url_for(page.thumbnail) %>"
+    },
+    <% } else { %>
+    "image": {
+        "@type": "ImageObject",
+        "url": "<%= site_logo() %>"
+    },
+    <% } %>
+    "datePublished": "<%= date_xml(page.date) %>",
+    "dateModified": "<%= date_xml(page.updated) %>",
+    "author": {
+        "@type": "Person",
+        "name": "<%= config.author %>",
+        "image": {
+            "@type": "ImageObject",
+            "url": "<%= full_url_for(theme.img.avatar) %>"
+        },
+        "description": "<%- theme.uiux.slogan %>"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "<%= config.title %>",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "<%= site_logo() %>"
+        }
+    },
+    <% if ( (theme.search.use === "local") || (theme.nav.search.link) ) { %>
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "<%= full_url_for(theme.nav.search.link) %>?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+    },
+    <% } %>
+    "keywords": "<%= page_tags() %>",
+    "description": "<%= page_descr() %>"
+}
+</script>
+<% } %>

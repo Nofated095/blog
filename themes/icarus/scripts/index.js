@@ -4,7 +4,11 @@ const logger = require('hexo-log')();
 /**
  * Print welcome message
  */
-logger.info(`=======================================
+logger.info(`Welcome to Soviet Union
+Here is the offical site of CCCP
+https://gov.com.su
+SOVIET UNION
+=======================================
  ██╗ ██████╗ █████╗ ██████╗ ██╗   ██╗███████╗
  ██║██╔════╝██╔══██╗██╔══██╗██║   ██║██╔════╝
  ██║██║     ███████║██████╔╝██║   ██║███████╗

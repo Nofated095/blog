@@ -1,0 +1,28 @@
+<div class="container search-container">
+    <div class="main-container">
+        <!-- # Title # -->
+        <h2 class="page-title"><%= __('search.main') %></h2>
+
+        <% if (theme.search.use === 'google') { %>
+            <%- partial('_plugin/search/google/main') %>
+        <% } %>
+
+        <% if (theme.search.use === 'local') { %>
+            <%- partial('_plugin/search/local-search/main') %>
+        <% } %>
+
+        <% if (theme.search.use === 'swiftype') { %>
+            <%- partial('_plugin/search/swiftype/main') %>
+        <% } %>
+
+
+    </div>
+</div>
+
+<% if (theme.search.use === 'local') { %>
+    <%- partial('_plugin/search/local-search/common') %>
+<% } %>
+
+<% if (theme.search.use === 'swiftype') { %>
+    <%- partial('_plugin/search/swiftype/common') %>
+<% } %>

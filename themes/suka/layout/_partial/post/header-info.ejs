@@ -1,0 +1,33 @@
+<% if (page.title) { %>
+    <h1 class="card-title h3 mb-2"><%- page.title %></h1>
+<% } %>
+
+<%
+    const lazyloadImgSrc = (theme.vendors.lazyload_img) ? theme.vendors.lazyload_img : url_for('img/suka-lazyload.gif');
+%>
+
+<div class="post-header-info">
+    <p class="post-header-info-left text-gray">
+        <img class="author-thumb lazyload" data-src="<%= url_for(theme.img.avatar) %>" src="<%= lazyloadImgSrc %>" alt="<%= config.author %>'s Avatar">
+        <span><%= date(page.date, config.date_format) %></span>
+        <% if (page.categories && page.categories.length) { %>
+            <span class="suka-devide-dot"></span>
+            <%- list_categories(page.categories, {
+                show_count: false,
+                separator: '<span class="suka-devide-dot"></span>',
+                style: 'none'
+            }) %>
+        <% } %>
+        <% if ( (theme.busuanzi.enable) && (theme.busuanzi.post_pv.enable) ) { %>
+            <%- partial('_plugin/busuanzi/post-counter', {}, {cache: theme.fragment_cache}) %>
+        <% } %>
+        <% if ( (theme.valine_counter.enable) && (theme.valine_counter.post_pv.enable) ) { %>
+            <%- partial('_plugin/valine-counter/post', {}, {cache: theme.fragment_cache}) %>
+        <% } %>
+    </p>
+    <div class="post-header-info-right">
+        <% if (theme.post.share) { %>
+            <%- partial('_partial/menu/post-share') %>
+        <% } %>
+    </div>
+</div>
