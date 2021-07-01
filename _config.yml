@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://nofated.gitee.io
+url: https://nofated095.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -98,6 +98,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+plugins:  hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
 theme: icarus
 
 # Deployment
@@ -110,3 +115,4 @@ deploy:
 
 aplayer:
   meting: true
+  

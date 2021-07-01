@@ -80,8 +80,7 @@ window.onload=function(){
 如果你确定你做好了分区，那么就点击「现在安装」进行下一步的配置。一般来说也是一路 Next 下去，设置一下个人信息就好了。如果确认设置无误，可以正式开始安装。因为 U 盘的读写性能比较低而且虚拟机有性能损耗，安装过程会比较长，不过一般都会在一个小时内结束。（所以建议拿读写速度快的硬盘安装）
 ![](https://pic.rmb.bdstatic.com/bjh/1351ecb335ec23b88b71797611c633af.png)
 ![安装完成后点击继续试用然后点击右上角关机](https://pic.rmb.bdstatic.com/bjh/11017f89f5246b1cc14eb2cc21d67f39.png)
-
-![关机后打开虚拟机设置，将「选项」选项卡中「高级」设置项中的「通过 EFI 而非 BIOS 引导」选中，然后点击「确定」](https://pic.rmb.bdstatic.com/bjh/9dc9dd1ed5cb57872072dd00b97d36e7.png)
+![关机后打开虚拟机设置，将「选项」/「高级」设置项中的「固件类型」选择「UEFI」，然后点击「确定」](https://pic.rmb.bdstatic.com/bjh/6a25900f15bc86dbbf74948d4d38d5d3.png)
 ![重新开启虚拟机，点击「Enter」](https://pic.rmb.bdstatic.com/bjh/1cee303d98eed696ec54d6ae22a79257.png)
 
 在 LiveCD 中，打开终端
