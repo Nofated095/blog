@@ -1,6 +1,6 @@
 ---
 title: Ubuntu To Go 制作教程
-date: 2021-05-05 06:31:04
+date: 2021-07-01 18:37:04
 cover: https://assets.ubuntu.com/v1/9d42b2ab-3B-embedded-linux_AW.svg
 tags:
 - Ubuntu
@@ -110,9 +110,11 @@ mount --options bind /run /mnt/run
 chroot /mnt
 ```
 
+``` bash 安装 grub-efi
+apt-get install grub-efi
 ```
-root@ubuntu:/# apt-get install grub-efi
 
+``` bash 报错
 正在读取软件包列表...
 完成正在分析软件包的依赖关系树
 正在读取状态信息... 完成
@@ -123,3 +125,47 @@ grub-efi :
 依赖: grub-efi-amd64 (= 2.04-1ubuntu26.2) 但是它将不会被安装
 E: 无法修正错误，因为您要求某些软件包保持现状，就是它们破坏了软件包间的依赖关系。
 ```
+>如上，我在安装 `grub-efi` 时发生了报错，其实这个问题很好解决
+
+``` bash BASH
+sudo apt-get purge grub-common
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install grub-efi
+```
+通过这个指令一般可以解决依赖关系的问题。
+``` bash 换源
+cp /etc/apt/sources.list /etc/apt/sources.list.bak
+sed -i 's/archive.ubuntu.com/mirrors.163.com/g' /etc/apt/sources.list
+# 你需要根据你的时区来更换 archive.ubuntu.com，比如中国的时区是 cn.archive.ubuntu.com
+```
+
+``` bash 安装引导
+grub-install --target=x86_64-efi --boot-directory=/boot/efi --efi-directory=/boot/efi --removable
+```
+
+``` bash 退出 chroot
+umount /proc
+umount /dev
+umount /sys
+umount /run
+sync
+exit
+```
+
+``` 复制配置文件
+cp '/mnt/boot/grub/grub.cfg' '/mnt/boot/efi/grub'
+```
+重启即可看到，已经引导到 Ubuntu To Go 启动而不是光驱了。你可以再次关机，更改虚拟机设置中的启动模式设置项来分别测试在 Legacy BIOS 和 EFI 下的运行情况。你也可以关闭物理机，然后在 BIOS 中将第一启动设备设为 Ubuntu To Go 系统盘，即可在实体机上运行 Ubuntu To Go 系统盘中的 Ubuntu。
+
+>大功告成！欢迎使用 Ubuntu To Go！拔下你的 U 盘，插到其他电脑上试试吧！
+
+![](https://pic.rmb.bdstatic.com/bjh/0218be0cd19f61fd98644c28a272dd6a.png)
+
+## 一些小问题
+
+有的同志说开机之后执行了 `sudo apt-get upgrade` 导致重启后无法开机。我判断是 vmlinuz 更新导致了问题
+
+![开机后在这个页面按 e 键](https://pic.rmb.bdstatic.com/bjh/ac1c5579734fff0b15598a108786f6cc.png)
+
+![将这两个文件名命名为 /boot 下对应的文件名](https://pic.rmb.bdstatic.com/bjh/3c9de21f40ecd6724826fec1cf318669.png)

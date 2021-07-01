@@ -6,11 +6,11 @@ date: 2020-10-01 00:00:00
 
 ## 我喜欢的音乐
 
-{% meting "5299711328" "netease" "playlist" %}
+{% meting "6836867274" "netease" "playlist" %}
 
 ## 随便收藏的歌
 
-{% meting "2893951019" "netease" "playlist" %}
+{% meting "6836862300" "netease" "playlist" %}
 
 ## 来玩游戏啊awa
 
