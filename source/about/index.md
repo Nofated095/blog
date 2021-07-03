@@ -13,7 +13,7 @@ date: 2007-06-09 00:00:00
 
 2020年年末时由于种种原因，原先写博客的电脑坏了，虽然文件没有丢失，但是我没有给博客的源文件做备份，我也暂时碰不到它，于是在2021年初的寒假，我开始着手进行博客的重写恢复工作。这期间一开始使用一台 Samsung Galaxy S6，但又因为这个手机后来也坏了，我没备份，我就又用 Ubuntu To Go 和我爸爸原来的老电脑重新写博客。现在，博客的主力军主要徘徊在原先写博客的电脑和一个 Windows To Go。毕竟 Ubuntu 等 Linux 系的系统我没有办法驾驭地很好。
 
-目前博客有两个域名 https://nofated095.github.io 和 http://nofated.gitee.io 这两个站点分别架设在国际的 Github Pages 和国内的 Gitee Pages上。虽然说我一直很想去给自己找一个域名，可奈何不了域名都很贵，而且申请域名的繁杂步骤让我很烦，目前以 Github Pages 为主力军。
+目前博客的域名为二级域名 <https://nofated.restent.win>，部署在 Github Pages。当然也可以访问 [Gitee 的镜像](http://nofated.gitee.io)。
 
 ### 最早的一篇文章
 ``` markdown guo-chan-cao-zuo-xi-tong-deepin-shi-wan.md

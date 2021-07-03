@@ -19,7 +19,7 @@ date: 2020-10-01 00:00:00
 |key|value|
 |:-:|:-:|
 |站点名称|Nofated's Blog|
-|站点链接|https://nofated095.github.io 或 http://nofated.gitee.io|
+|站点链接|https://nofated.restent.win|
 |站点描述|I hope to be with you everyday.|
 |站点LOGO|https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg|
 
@@ -96,10 +96,10 @@ date: 2020-10-01 00:00:00
                 </a>
             </div>
             <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://blog.charlieyu4994.cn/" target="_blank">
+                <a href="https://blog.charlie.moe/" target="_blank">
                     <div class="mdui-card mdui-hoverable mdui-ripple">
                         <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://blog.charlieyu4994.cn/images/avatar.png">
+                        <img class="mdui-card-header-avatar" src="https://blog.charlie.moe/images/avatar.png">
                         <div class="mdui-card-header-title">CharlieYu4994的博客</div>
                         <div class="mdui-card-header-subtitle">就只是博客而已</div>
                         </div>

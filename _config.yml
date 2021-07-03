@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://nofated095.github.io
+url: https://nofated.restent.win
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -108,11 +108,10 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
+- type: git
   repo:
     gitee: https://gitee.com/nofated/Nofated.git,master
     github: https://github.com/Nofated095/nofated095.github.io.git,master
 
 aplayer:
   meting: true
-  

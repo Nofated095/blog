@@ -8,7 +8,7 @@ logo:
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: https://cravatar.eu/helmavatar/Nofated
+    favicon: https://cravatar.eu/helmhead/Nofated
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
