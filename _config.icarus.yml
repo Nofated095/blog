@@ -151,7 +151,7 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
     type: waline
-    server_url: https://blog-waline-comment-cksqsbvp3-nofated095.vercel.app/
+    server_url: https://comment-2tvtsalmt-nofated095.vercel.app/
     lang: zh-CN                                   # 可选填
     visitor: false                                # 可选填
     emoji:                                        # 可选填
