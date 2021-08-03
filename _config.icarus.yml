@@ -150,23 +150,26 @@ search:
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
-    type: valine
-    app_id: L7bg4EcXDh2SSIwYGu8fU9p5-MdYXbMMI
-    app_key: Iwbdj09b8tI7DXkKYz7sMbfc
-    placeholder: ""                 # 可选填
-    avatar: mm                      # 可选填
-    avatar_force: false             # 可选填
-    meta: ["nick", "mail", "link"]  # 可选填
-    page_size: 10                   # 可选填
-    lang: zh-CN                     # 可选填
-    visitor: false                  # 可选填
-    highlight: true                 # 可选填
-    record_ip: false                # 可选填
-    server_urls:                    # 可选填
-    emoji_cdn:                      # 可选填
-    emoji_maps:                     # 可选填
-    enable_qq: false                # 可选填
-    required_fields: []             # 可选填
+    type: waline
+    server_url: https://blog-waline-comment-cksqsbvp3-nofated095.vercel.app/
+    lang: zh-CN                                   # 可选填
+    visitor: false                                # 可选填
+    emoji:                                        # 可选填
+      - 'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji'
+    dark: auto                                    # 可选填
+    meta: ["nick", "mail", "link"]                # 可选填
+    required_meta: []                             # 可选填
+    login: enable                                 # 可选填
+    avatar: mp                                    # 可选填
+    word_limit: 0                                 # 可选填
+    page_size: 10                                 # 可选填
+    avatar_cdn: 'https://sdn.geekzu.org/avatar/'  # 可选填
+    avatar_force: false                           # 可选填
+    highlight: true                               # 可选填
+    math_tag_support: false                       # 可选填
+    copyright: true                               # 可选填
+    locale:                                       # 可选填
+      placeholder: 'Comment here...'
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:
