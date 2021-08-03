@@ -28,12 +28,12 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <div class="mdui-container-fluid">
         <div class="mdui-row">
             <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://blog.xiaojin233.cn" target="_blank">
+                <a href="https://xiaojin233.cn" target="_blank">
                     <div class="mdui-card mdui-hoverable mdui-ripple">
                         <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://cdn.jsdelivr.net/gh/jinzhijie/jinzhijie.github.io@master/images/avatar.png">
-                        <div class="mdui-card-header-title">Xiao_Jin' Blog</div>
-                        <div class="mdui-card-header-subtitle">记录生活，分享有趣</div>
+                        <img class="mdui-card-header-avatar" src="https://xiaojin233.cn/img/avator.png">
+                        <div class="mdui-card-header-title">Xiao_Jin' Home</div>
+                        <div class="mdui-card-header-subtitle">Code Changes Life</div>
                         </div>
                     </div>
                 </a>
@@ -61,10 +61,10 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
                 </a>
             </div>
             <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://www.mashirl.com/" target="_blank">
+                <a href="https://mashirl.com/" target="_blank">
                     <div class="mdui-card mdui-hoverable mdui-ripple">
                         <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://cdn.jsdelivr.net/gh/Mashirl/Images/avatar.jpg">
+                        <img class="mdui-card-header-avatar" src="https://cdn.jsdelivr.net/gh/Mashirl/Blog/source/images/avatar.jpg">
                         <div class="mdui-card-header-title">Mashirl's Blog</div>
                         <div class="mdui-card-header-subtitle">予 世界温柔以待 惟愿 时光静好</div>
                         </div>
