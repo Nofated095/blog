@@ -14,14 +14,12 @@ date: 2020-10-01 00:00:00
 排名不分先后，如果你要更新信息后请留言告知。
 当然你要保持你的博客更新哦。会酌情清理很久很久不更新的、不符合要求的友链，我就不再另行通知啦。
 
-这是我的站点信息
-
-|key|value|
-|:-:|:-:|
-|站点名称|Nofated's Blog|
-|站点链接|https://nofated.restent.win|
-|站点描述|I hope to be with you everyday.|
-|站点LOGO|https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg|
+``` md 站点信息
+title: Nofated's Blog
+subtitle: I hope to be with you everyday.
+link: https://blog.nofated.win
+avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
+```
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/css/mdui.min.css">
 <script src="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/js/mdui.min.js"></script>
