@@ -102,8 +102,6 @@ navbar:
     menu:
         首页: /
         归档: /archives
-        分类: /categories
-        标签: /tags
         媒体: /media
         友链: /friends
         关于: /about
@@ -204,7 +202,7 @@ widgets:
         # Author name
         author: Nofated
         # Author title
-        author_title: Student
+        author_title: I hope to be with you everyday.
         # Author's current location
         location: Beijing, China
         # URL or path to the avatar image
