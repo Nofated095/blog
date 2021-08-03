@@ -42,119 +42,64 @@ ssh-keygen -t rsa -f github-deploy-key
 
 打开 blog 仓库，打开 Actions 并创建一个新的 Actions，将内容修改为自己的真实情况并复制到 Actions 中。
 
-``` bash 
+``` bash Action>folded
 name: CI
 
-
-
 on:
-
   push:
-
     branches:
-
       - master
 
-
-
 env:
-
   GIT_USER: Username
-
   GIT_EMAIL: user@example.com
-
   DEPLOY_REPO: example/username.github.io
-
   DEPLOY_BRANCH: master
 
-
-
 jobs:
-
   build:
-
     name: Build on node ${{ matrix.node_version }} and ${{ matrix.os }}
-
     runs-on: ubuntu-latest
-
     strategy:
-
       matrix:
-
         os: [ubuntu-latest]
-
         node_version: [12.x]
-
-
 
     steps:
 
       - name: Checkout
-
         uses: actions/checkout@v2
-
-
 
       - name: Checkout deploy repo
-
         uses: actions/checkout@v2
-
         with:
-
           repository: ${{ env.DEPLOY_REPO }}
-
           ref: ${{ env.DEPLOY_BRANCH }}
-
           path: .deploy_git
 
-
-
       - name: Use Node.js ${{ matrix.node_version }}
-
         uses: actions/setup-node@v1
-
         with:
-
           node-version: ${{ matrix.node_version }}
 
-
-
       - name: Configuration environment
-
         env:
-
           HEXO_DEPLOY_PRI: ${{secrets.HEXO_DEPLOY_PRI}}
-
         run: |
-
           sudo timedatectl set-timezone "Asia/Shanghai"
-
           mkdir -p ~/.ssh/
-
           echo "$HEXO_DEPLOY_PRI" > ~/.ssh/id_rsa
-
           chmod 600 ~/.ssh/id_rsa
-
           ssh-keyscan github.com >> ~/.ssh/known_hosts
-
           git config --global user.name $GIT_USER
-
           git config --global user.email $GIT_EMAIL
 
-
-
       - name: Install dependencies
-
         run: |
-
           npm install
 
-
-
       - name: Deploy hexo
-
         run: |
-
           npm run deploy
 ```
   
