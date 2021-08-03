@@ -8,7 +8,6 @@ on:
 env:
   GIT_USER: Nofated095
   GIT_EMAIL: nofated095@outlook.com
-  THEME_BRANCH: master
   DEPLOY_REPO: Nofated095/nofated095.github.io
   DEPLOY_BRANCH: master
 
@@ -48,7 +47,7 @@ jobs:
           ssh-keyscan github.com >> ~/.ssh/known_hosts
           git config --global user.name $GIT_USER
           git config --global user.email $GIT_EMAIL
-          cp _config.theme.yml themes/concise/_config.yml
+          cp _config.icarus.yml themes/icarus/_config.yml
 
       - name: Install dependencies
         run: |
