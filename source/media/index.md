@@ -1,6 +1,6 @@
 ---
 title: 媒体
-cover: https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=zh-CN
+cover: https://api.sunweihu.com/api/bing1/api.php
 date: 2020-10-01 00:00:00
 ---
 
