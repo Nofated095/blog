@@ -1,6 +1,6 @@
 ---
 title: 关于
-cover: https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=zh-CN
+cover: https://api.sunweihu.com/api/bing1/api.php
 date: 2007-06-09 00:00:00
 ---
 想了又想，决定还是把关于博客和关于我分开写
