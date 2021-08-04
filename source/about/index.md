@@ -13,7 +13,7 @@ date: 2007-06-09 00:00:00
 
 2020年年末时由于种种原因，原先写博客的电脑坏了，虽然文件没有丢失，但是我没有给博客的源文件做备份，我也暂时碰不到它，于是在2021年初的寒假，我开始着手进行博客的重写恢复工作。这期间一开始使用一台 Samsung Galaxy S6，但又因为这个手机后来也坏了，我没备份，我就又用 Ubuntu To Go 和我爸爸原来的老电脑重新写博客。现在，博客的主力军主要徘徊在原先写博客的电脑和一个 Windows To Go。
 
-目前博客又一个自己的域名 <https://blog.nofated.win>，部署在 Github Pages。当然也可以访问 [Gitee 的镜像](http://nofated.gitee.io)，已经停止同步。
+目前博客有一个自己的域名 <https://blog.nofated.win>，部署在 Github Pages。当然也可以访问 [Gitee 的镜像](http://nofated.gitee.io)，已经停止同步。
 
 ### 最早的一篇文章
 ``` markdown guo-chan-cao-zuo-xi-tong-deepin-shi-wan.md
@@ -79,6 +79,8 @@ Hi, 我是 Nofated，很高兴可以在这里见到你！
 - [x] -《魔物娘的同居生活》
 - [x] -《工作细胞》
 - [x] -《四月是你的谎言》
+- [ ] -《贤惠幼妻仙狐小姐》
+- [ ] -《属性咖啡厅》
 - [ ] -《JOJO的奇妙冒险》
 - [ ] -《工作细胞 BLACK》
 - [ ] -《工作细胞第二季》
