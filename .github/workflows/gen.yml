@@ -3,7 +3,7 @@
 name: PrepareWorks
 
 # Controls when the workflow will run
-on:[push]
+on: [push]
 
 jobs:
   # This workflow contains a single job called "build"
