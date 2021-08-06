@@ -19,7 +19,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/css/mdui.min.css">
 <script src="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/js/mdui.min.js"></script>
 
-<div class="card is-3">
+<div class="card is-6">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -38,7 +38,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://xiaojin233.cn" class="card-footer-item">Home Page</a>
   </footer>
 </div>
-<div class="card is-3">
+<div class="card is-6">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -57,7 +57,26 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://blog.restent.win/" class="card-footer-item">Blog</a>
   </footer>
 </div>
-<div class="card is-3">
+<div class="card is-6">
+<div class="card-content">
+  <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
+          <img src="https://cdn.jsdelivr.net/gh/Cubik65536/cubik-favicons@main/CubikLogo.png">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">Cubik</p>
+        <p class="subtitle is-6">RECOMMENDED BY DR.CREATIVE</p>
+      </div>
+    </div>
+    </div>
+  <footer class="card-footer">
+    <a href="https://github.com/cubik65536" class="card-footer-item">GitHub</a>
+    <a href="https://cubik65536.top" class="card-footer-item">Home Page</a>
+  </footer>
+</div>
+<div class="card is-6">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
