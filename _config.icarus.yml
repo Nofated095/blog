@@ -105,7 +105,7 @@ navbar:
         媒体: /media
         友链: /friends
         关于: /about
-        导航: http://nofated.gitee.io/edgelight
+        导航: https://edgelight.nofated.win
 # Page footer configurations
 footer:
     # Links to be shown on the right of the footer section
