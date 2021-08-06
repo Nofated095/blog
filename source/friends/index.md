@@ -19,6 +19,64 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/css/mdui.min.css">
 <script src="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/js/mdui.min.js"></script>
 
+<div class="card">
+<div class="card-content">
+  <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
+          <img src="https://xiaojin233.cn/img/avator.png">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">Xiao_Jin</p>
+        <p class="subtitle is-6">Code Changes Life</p>
+      </div>
+    </div>
+    </div>
+  <footer class="card-footer">
+    <a href="https://github.com/Jinzhijie" class="card-footer-item">GitHub</a>
+    <a href="https://xiaojin233.cn" class="card-footer-item">Home Page</a>
+  </footer>
+</div>
+<div class="card">
+<div class="card-content">
+  <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
+          <img src="https://cdn.jsdelivr.net/gh/Restent/Restent/avatar.jpg">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">Restent</p>
+        <p class="subtitle is-6">I will cherish everything I love.</p>
+      </div>
+    </div>
+    </div>
+  <footer class="card-footer">
+    <a href="https://github.com/Restent" class="card-footer-item">GitHub</a>
+    <a href="https://blog.restent.win/" class="card-footer-item">Blog</a>
+  </footer>
+</div>
+<div class="card">
+<div class="card-content">
+  <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
+          <img src="https://cdn.jsdelivr.net/gh/Mashirl/Blog/source/images/avatar.jpg">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">Mashirl</p>
+        <p class="subtitle is-6">内测用户（bushi</p>
+      </div>
+    </div>
+    </div>
+  <footer class="card-footer">
+    <a href="https://github.com/Mashirl" class="card-footer-item">GitHub</a>
+    <a href="https://mashirl.com/" class="card-footer-item">Blog</a>
+  </footer>
+</div>
+
 <body class="mdui-loaded">
     <div class="mdui-container-fluid">
         <div class="mdui-row">
