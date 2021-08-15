@@ -21,7 +21,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/css/mdui.min.css">
 <script src="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/js/mdui.min.js"></script>
 
-<div class="card is-6">
+<div class="card">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -40,7 +40,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://xiaojin233.cn" class="card-footer-item">Home Page</a>
   </footer>
 </div>
-<div class="card is-6">
+<div class="card">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -59,7 +59,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://blog.restent.win/" class="card-footer-item">Blog</a>
   </footer>
 </div>
-<div class="card is-6">
+<div class="card">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -78,7 +78,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://cubik65536.top" class="card-footer-item">Home Page</a>
   </footer>
 </div>
-<div class="card is-6">
+<div class="card">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -97,7 +97,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://mashirl.com/" class="card-footer-item">Blog</a>
   </footer>
 </div>
-<div class="card is-6">
+<div class="card">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -117,7 +117,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
   </footer>
 </div>
 
-<body class="mdui-loaded">
+<!-- body class="mdui-loaded">
     <div class="mdui-container-fluid">
             <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
                 <a href="https://blog.moeworld.tech/" target="_blank">
@@ -231,7 +231,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
             </div>
         </div>
     </div>
-</body>
+</body -->
 
 该页面采用了 `Material Design` 的设计，下面是示例
 
