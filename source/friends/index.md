@@ -106,7 +106,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
         </figure>
       </div>
       <div class="media-content">
-        <p class="title is-4">XiaohaoのBlog</p>
+        <p class="title is-4">Xiaohaoxh</p>
         <p class="subtitle is-6">一个深圳初中生的原创生活书~</p>
       </div>
     </div>
@@ -249,6 +249,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     </div>
 </body -->
 
+<!--
 该页面采用了 `Material Design` 的设计，下面是示例
 
 ``` HTML MDUI>folded
@@ -284,3 +285,4 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     </div>
 </body>
 ```
+-->
