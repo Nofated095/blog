@@ -1,7 +1,8 @@
 ---
 title: Windows 系统软件合集
 date: 2020-06-05 17:36:23
-cover: https://pic.rmb.bdstatic.com/bjh/f1151f93c9b294b73288c0969909bb53.jpeg
+cover: https://pic.rmb.bdstatic.com/bjh/ab27489d2c5bbbdaa1f0767c1f9691ba.png
+<!--cover: https://pic.rmb.bdstatic.com/bjh/f1151f93c9b294b73288c0969909bb53.jpeg -->
 tags:
 - Windows
 categories:
