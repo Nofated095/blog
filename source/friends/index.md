@@ -12,14 +12,16 @@ date: 2020-10-01 00:00:00
 ``` md 站点信息
 title: Nofated's Blog
 subtitle: I hope to be with you everyday.
-link: https://blog.nofated.win
+link1: https://blog.nofated.win
+link2: https://nofated.win
+github: https://github.com/Nofated095
 avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
 ```
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/css/mdui.min.css">
 <script src="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/js/mdui.min.js"></script>
 
-<div class="card is-6">
+<div class="card">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -38,7 +40,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://xiaojin233.cn" class="card-footer-item">Home Page</a>
   </footer>
 </div>
-<div class="card is-6">
+<div class="card">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -57,7 +59,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://blog.restent.win/" class="card-footer-item">Blog</a>
   </footer>
 </div>
-<div class="card is-6">
+<div class="card">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -76,7 +78,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://cubik65536.top" class="card-footer-item">Home Page</a>
   </footer>
 </div>
-<div class="card is-6">
+<div class="card">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -86,7 +88,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
       </div>
       <div class="media-content">
         <p class="title is-4">Mashirl</p>
-        <p class="subtitle is-6">内测用户（bushi</p>
+        <p class="subtitle is-6">予 世界温柔以待 惟愿 时光静好</p>
       </div>
     </div>
     </div>
@@ -95,54 +97,28 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://mashirl.com/" class="card-footer-item">Blog</a>
   </footer>
 </div>
+<div class="card">
+<div class="card-content">
+  <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
+          <img src="https://xiaohaoxh.cn/wp-content/uploads/2021/04/logomaker.png">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">XiaohaoのBlog</p>
+        <p class="subtitle is-6">一个深圳初中生的原创生活书~</p>
+      </div>
+    </div>
+    </div>
+  <footer class="card-footer">
+    <a href="https://github.com/Xiaohaoxh520" class="card-footer-item">GitHub</a>
+    <a href="https://xiaohaoxh.cn/" class="card-footer-item">Blog</a>
+  </footer>
+</div>
 
 <body class="mdui-loaded">
     <div class="mdui-container-fluid">
-        <div class="mdui-row">
-            <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://xiaojin233.cn" target="_blank">
-                    <div class="mdui-card mdui-hoverable mdui-ripple">
-                        <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://xiaojin233.cn/img/avator.png">
-                        <div class="mdui-card-header-title">Xiao_Jin' Home</div>
-                        <div class="mdui-card-header-subtitle">Code Changes Life</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://xiaohaoxh.cn/" target="_blank">
-                    <div class="mdui-card mdui-hoverable mdui-ripple">
-                        <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://pic.rmb.bdstatic.com/bjh/ee44729dbb5e8dc1f8cc74ddee069824.jpeg">
-                        <div class="mdui-card-header-title">XiaohaoのBlog</div>
-                        <div class="mdui-card-header-subtitle">一个深圳初中生的原创生活书~</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://blog.restent.win" target="_blank">
-                    <div class="mdui-card mdui-hoverable mdui-ripple">
-                        <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://cdn.jsdelivr.net/gh/Restent/Restent/avatar.jpg">
-                        <div class="mdui-card-header-title">Restent Blog</div>
-                        <div class="mdui-card-header-subtitle">I need to learn to let myself go.</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://mashirl.com/" target="_blank">
-                    <div class="mdui-card mdui-hoverable mdui-ripple">
-                        <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://cdn.jsdelivr.net/gh/Mashirl/Blog/source/images/avatar.jpg">
-                        <div class="mdui-card-header-title">Mashirl's Blog</div>
-                        <div class="mdui-card-header-subtitle">予 世界温柔以待 惟愿 时光静好</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
             <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
                 <a href="https://blog.moeworld.tech/" target="_blank">
                     <div class="mdui-card mdui-hoverable mdui-ripple">
