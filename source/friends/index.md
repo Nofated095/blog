@@ -116,31 +116,47 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://xiaohaoxh.cn/" class="card-footer-item">Blog</a>
   </footer>
 </div>
+<div class="card">
+<div class="card-content">
+  <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
+          <img src="https://blog.moeworld.tech/wp-content/uploads/2019/07/10_avatar_big_waifu2x_art_noise1_scale_tta_1.png">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">晓空</p>
+        <p class="subtitle is-6">探索更大的世界</p>
+      </div>
+    </div>
+    </div>
+  <footer class="card-footer">
+    <a href="https://github.com/kjzh001" class="card-footer-item">GitHub</a>
+    <a href="https://blog.moeworld.tech/" class="card-footer-item">Blog</a>
+  </footer>
+</div>
+<div class="card">
+<div class="card-content">
+  <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
+          <img src="https://fdn.geekzu.org/avatar/9116fc3de8f9a46668beb1a6b7dbcbcd">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">iVampireSP</p>
+        <p class="subtitle is-6">用初次相遇与你定下这份永恒的誓约。</p>
+      </div>
+    </div>
+    </div>
+  <footer class="card-footer">
+    <a href="https://github.com/iVampireSP" class="card-footer-item">GitHub</a>
+    <a href="https://blog.moeworld.tech/" class="card-footer-item">Blog</a>
+  </footer>
+</div>
 
 <!-- body class="mdui-loaded">
     <div class="mdui-container-fluid">
-            <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://blog.moeworld.tech/" target="_blank">
-                    <div class="mdui-card mdui-hoverable mdui-ripple">
-                        <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://blog.moeworld.tech/wp-content/themes/kratos-pjax-master/static/images/photo.jpg">
-                        <div class="mdui-card-header-title">空域</div>
-                        <div class="mdui-card-header-subtitle">探索更大的世界</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://ivampiresp.com/" target="_blank">
-                    <div class="mdui-card mdui-hoverable mdui-ripple">
-                        <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://fdn.geekzu.org/avatar/9116fc3de8f9a46668beb1a6b7dbcbcd">
-                        <div class="mdui-card-header-title">iVampireSP的物语</div>
-                        <div class="mdui-card-header-subtitle">终究没有结束呐</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
             <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
                 <a href="https://blog.charlie.moe/" target="_blank">
                     <div class="mdui-card mdui-hoverable mdui-ripple">
