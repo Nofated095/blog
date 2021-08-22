@@ -121,6 +121,25 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
   <div class="media">
       <div class="media-left">
         <figure class="image is-48x48">
+          <img src="https://blog.charlie.moe/images/avatar.png">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">CharlieYu</p>
+        <p class="subtitle is-6">是一个正太 ฅ’ω’ฅ</p>
+      </div>
+    </div>
+    </div>
+  <footer class="card-footer">
+    <a href="https://github.com/CharlieYu4994" class="card-footer-item">GitHub</a>
+    <a href="https://blog.charlie.moe" class="card-footer-item">Blog</a>
+  </footer>
+</div>
+<div class="card">
+<div class="card-content">
+  <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
           <img src="https://blog.moeworld.tech/wp-content/uploads/2019/07/10_avatar_big_waifu2x_art_noise1_scale_tta_1.png">
         </figure>
       </div>
@@ -154,25 +173,33 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://ivamspiresp.com" class="card-footer-item">Blog</a>
   </footer>
 </div>
+<div class="card">
+<div class="card-content">
+  <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
+          <img src="https://www.littleqiu.net/images/Avatar.png">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">Steven Qiu</p>
+        <p class="subtitle is-6">愿你有一天，能与你最重要的人重逢</p>
+      </div>
+    </div>
+    </div>
+  <footer class="card-footer">
+    <a href="https://github.com/tnqzh123" class="card-footer-item">GitHub</a>
+    <a href="https://www.littleqiu.net/" class="card-footer-item">Blog</a>
+  </footer>
+</div>
 
 <!-- body class="mdui-loaded">
     <div class="mdui-container-fluid">
             <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://blog.charlie.moe/" target="_blank">
-                    <div class="mdui-card mdui-hoverable mdui-ripple">
-                        <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://blog.charlie.moe/images/avatar.png">
-                        <div class="mdui-card-header-title">CharlieYu4994的博客</div>
-                        <div class="mdui-card-header-subtitle">就只是博客而已</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
                 <a href="https://www.littleqiu.net/" target="_blank">
                     <div class="mdui-card mdui-hoverable mdui-ripple">
                         <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://www.littleqiu.net/images/Avatar.png">
+                        <img class="mdui-card-header-avatar" src="">
                         <div class="mdui-card-header-title">DreamCity</div>
                         <div class="mdui-card-header-subtitle">愿你有一天，能与你最重要的人重逢</div>
                         </div>
