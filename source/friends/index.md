@@ -18,8 +18,8 @@ github: https://github.com/Nofated095
 avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
 ```
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/css/mdui.min.css">
-<script src="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/js/mdui.min.js"></script>
+<!--link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/css/mdui.min.css">
+<script src="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/js/mdui.min.js"></script-->
 
 <div class="card">
 <div class="card-content">
