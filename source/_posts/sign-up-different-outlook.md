@@ -1,6 +1,7 @@
 ---
 title: 不仅是 outlook.com | 申请与众不同的 Outlook 邮箱
 date: 2021-08-28 16:14:04
+title: https://pic.rmb.bdstatic.com/bjh/da66dc778eb58ee35adc1de5c5bdd323.png
 tags:
 - Outlook
 categories:
@@ -9,7 +10,7 @@ categories:
 ---
 不拘泥于传统 Outlook，申请一个与众不同的 Outlook.it/Outlook.ie/Outlook.fr 邮箱。
 <!--more-->
-可能你见惯了类似于`abc@outlook.com`的邮箱地址，都是千篇一律的 `outlook.com`结尾，但是你看见过类似`abc@outlook.it``abc@outlook.ie`以地区域名为结尾的邮箱吗？现在微软官网开放注册特殊域名的邮箱可以申请注册。
+可能你见惯了类似于 abc@outlook.com 的邮箱地址，都是千篇一律的 outlook.com 结尾，但是你看见过类似 abc@outlook.it, abc@outlook.ie 以地区域名为结尾的邮箱吗？现在微软官网开放注册特殊域名的邮箱可以申请注册。
 
 {% raw %}<article class="message is-danger"><div class="message-body">{% endraw %}
 据说之前在早期注册时可以注册到超短前缀的邮箱如 nb@outlook.ie 但是现在注册提示无法注册
@@ -38,8 +39,6 @@ categories:
 |爱尔兰|outlook.ie|https://signup.live.com/signup.aspx?mkt=ie-ie&lic=1|
 |意大利|outlook.it|https://signup.live.com/signup.aspx?mkt=it-it&lic=1|
 |匈牙利|outlook.hu|https://signup.live.com/signup.aspx?mkt=hu-hu&lic=1|
-|日本|outlook.jp|https://signup.live.com/signup.aspx?mkt=jp-jp&lic=1|
-|韩国|outlook.kr|https://signup.live.com/signup.aspx?mkt=kr-kr&lic=1|
 |拉脱维亚|outlook.lv|https://signup.live.com/signup.aspx?mkt=lv-lv&lic=1|
 |马来西亚|outlook.my|https://signup.live.com/signup.aspx?mkt=my-my&lic=1|
 |新西兰|outlook.co.nz|https://signup.live.com/signup.aspx?mkt=nz-nz&lic=1|
@@ -54,4 +53,4 @@ categories:
 
 ## 申请邮箱
 
-以`outlook.ie`为例，打开对应的申请地址，点击 Get a new email address。输入你想要的前缀，并验证账户，大功告成！
+以 outlook.ie 为例，打开对应的申请地址，点击 Get a new email address。输入你想要的前缀，并验证账户，大功告成！
