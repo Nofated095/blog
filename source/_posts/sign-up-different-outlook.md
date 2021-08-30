@@ -1,7 +1,7 @@
 ---
 title: 不仅是 outlook.com | 申请与众不同的 Outlook 邮箱
 date: 2021-08-28 16:14:04
-title: https://pic.rmb.bdstatic.com/bjh/da66dc778eb58ee35adc1de5c5bdd323.png
+cover: https://pic.rmb.bdstatic.com/bjh/da66dc778eb58ee35adc1de5c5bdd323.png
 tags:
 - Outlook
 categories:
@@ -53,4 +53,14 @@ categories:
 
 ## 申请邮箱
 
-以 outlook.ie 为例，打开对应的申请地址，点击 Get a new email address。输入你想要的前缀，并验证账户，大功告成！
+以 outlook.ie 为例，打开对应的申请地址，点击 Get a new email address。输入你想要的前缀。并录入你的信息和密码（请务必确认你的密码输入正确，不然根本找不回来），会有一个认证。
+![认证人机](https://pic.rmb.bdstatic.com/bjh/172377eab3608c65fd87290078938c88.png)
+一般这种只需要点击3-5次即可完成。
+![](https://pic.rmb.bdstatic.com/bjh/3dc1afd7db7f39142a481b415b537deb.png)
+至此，你已经注册了一个与众不同的 Outlook 账户，这里只是以 outlook.ie 作示范，其他邮箱的注册大同小异。和普通的一样，有基本的 Microsoft 服务，是一个正儿八经的微软账户。
+![Outlook 邮箱](https://pic.rmb.bdstatic.com/bjh/794ae43aad42daf1faa6883281062fb6.png)
+如果要更换语言，[点击链接](https://outlook.live.com/mail/0/options/general/timeAndLanguage)，把 Language 选项往下找到 中文（中国），然后保存即可。
+
+## 保护你的邮箱
+
+因为这种地区邮箱微软对于初次注册的验证比较弱，有没有验证手机也没有备用邮箱的，所以说注册时提交的密码很重要。但是也不是没办法，你可以打开[这个链接](https://account.live.com/proofs/Add?mkt=ZH-CN&uiflavor=web&mpcxt=CATB&ocxt=TFA)设置备用电子邮箱地址或手机号。
