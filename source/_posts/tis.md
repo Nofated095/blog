@@ -6,7 +6,8 @@ tags:
 - Minecraft
 categories:
 - 日常生活
-- 玩游戏
+- 游戏
+- Minecraft
 ---
 TIS Trinity Union
 国内最大的红石技术向生存服之一 | 国内三个最大的原版技术服合并而来的服务器 | 专注于生电领域的服务器
