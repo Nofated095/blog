@@ -1,7 +1,7 @@
 ---
 title: 初三生活 | 关于我的学校
 date: 2021-09-05 22:07:04
-cover: https://i.loli.net/2021/09/06/MU8QrXSbsRKuq2J.jpg
+cover: https://pic.rmb.bdstatic.com/bjh/c36ab48c5bfa00b1a9b7c6ba03a6944a.jpeg
 tags:
 - School
 categories:
@@ -70,7 +70,7 @@ Nofated 姐姐的苦逼初三生活是怎么回事呢？Nofated 姐姐相信大�
 
 不管怎么样，至少咱也是初三的学生了，我们无法逃避，只能去面对它。青春万岁，奋斗无悔。祝我初三加油！😝
 
-![北京朝阳门外](https://i.loli.net/2021/09/06/DSVtrT2JHiINleo.jpg)
+![北京朝阳门外](https://pic.rmb.bdstatic.com/bjh/9b79e09f6f7b576311503464e51a8ecc.jpeg)
 
 ## 存档
 
