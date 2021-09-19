@@ -75,7 +75,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     </div>
   <footer class="card-footer">
     <a href="https://github.com/cubik65536" class="card-footer-item">GitHub</a>
-    <a href="https://cubik65536.top" class="card-footer-item">Home Page</a>
+    <a href="https://www.cubik65536.top" class="card-footer-item">Home Page</a>
   </footer>
 </div>
 <div class="card">
