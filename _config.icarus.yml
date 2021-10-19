@@ -221,6 +221,12 @@ widgets:
             Github:
                 icon: fab fa-github
                 url: 'https://github.com/Nofated095'
+            Twitter:
+                icon: fab fa-twitter
+                url: 'https://twitter.com/nofated095'
+            Telegram:
+                icon: fab fa-telegram
+                url: 'https://t.me/Nofated'
             QQ:
                 icon: fab fa-qq
                 url: 'tencent://message/?uin=2032025551&Menu=yes'
