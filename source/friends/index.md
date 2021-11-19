@@ -97,7 +97,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://mashirl.com/" class="card-footer-item">Blog</a>
   </footer>
 </div>
-<div class="card">
+<!-- div class="card">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -115,7 +115,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://github.com/Xiaohaoxh520" class="card-footer-item">GitHub</a>
     <a href="https://xiaohaoxh.cn/" class="card-footer-item">Blog</a>
   </footer>
-</div>
+</div -->
 <div class="card">
 <div class="card-content">
   <div class="media">
@@ -192,20 +192,28 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://www.littleqiu.net/" class="card-footer-item">Blog</a>
   </footer>
 </div>
+<div class="card">
+<div class="card-content">
+  <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
+          <img src="https://shuiyunxc.github.io/images/avatar.png">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">独行秀才</p>
+        <p class="subtitle is-6">专注于黑苹果安装维护</p>
+      </div>
+    </div>
+    </div>
+  <footer class="card-footer">
+    <a href="https://github.com/shuiyunxc" class="card-footer-item">GitHub</a>
+    <a href="https://shuiyunxc.github.io/" class="card-footer-item">Blog</a>
+  </footer>
+</div>
 
 <!-- body class="mdui-loaded">
     <div class="mdui-container-fluid">
-            <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://www.littleqiu.net/" target="_blank">
-                    <div class="mdui-card mdui-hoverable mdui-ripple">
-                        <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="">
-                        <div class="mdui-card-header-title">DreamCity</div>
-                        <div class="mdui-card-header-subtitle">愿你有一天，能与你最重要的人重逢</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
             <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
                 <a href="https://blog.bangbang93.com/" target="_blank">
                     <div class="mdui-card mdui-hoverable mdui-ripple">
@@ -218,34 +226,12 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
                 </a>
             </div>
             <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://diygod.me/" target="_blank">
-                    <div class="mdui-card mdui-hoverable mdui-ripple">
-                        <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://cdn.jsdelivr.net/gh/DIYgod/diygod.me@gh-pages/images/DIYgod-avatar.webp">
-                        <div class="mdui-card-header-title">Hi, DIYGod</div>
-                        <div class="mdui-card-header-subtitle">写代码是热爱，写到世界充满爱</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
                 <a href="https://blog.becomingcelia.com/" target="_blank">
                     <div class="mdui-card mdui-hoverable mdui-ripple">
                         <div class="mdui-card-header">
                         <img class="mdui-card-header-avatar" src="https://blog.becomingcelia.com/zb_users/theme/suiranx_air/image/favicon.ico">
                         <div class="mdui-card-header-title">Celia的博客</div>
                         <div class="mdui-card-header-subtitle">读万卷书，行万里路</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://shuiyunxc.gitee.io/" target="_blank">
-                    <div class="mdui-card mdui-hoverable mdui-ripple">
-                        <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://shuiyunxc.gitee.io/images/avatar.png">
-                        <div class="mdui-card-header-title">独行秀才的老窝</div>
-                        <div class="mdui-card-header-subtitle">专注于黑苹果安装维护</div>
                         </div>
                     </div>
                 </a>
