@@ -103,4 +103,4 @@ Flash 单文件版解决了这个问题，在官网下载 [Debug 单文件版本
 
 ![老爹汉堡店](https://pic.rmb.bdstatic.com/bjh/ccd3764417bb35f2a751e0cf98b31d51.png)
 
-后续还会分享更多的 swf 小游戏文件。
+顺便分享一下收集的 swf 游戏，可以去[阿里云盘](https://www.aliyundrive.com/s/GYiwEYH7jea)下载。
