@@ -1,6 +1,7 @@
 ---
 title: 网课摸鱼的时候干点什么
 date: 2021-11-19 10:20:00
+cover: https://pic.rmb.bdstatic.com/bjh/8a833945c50aca7c851f77954b38f77f.png
 tags:
 - Minecraft
 - Flash
