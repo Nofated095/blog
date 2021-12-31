@@ -29,6 +29,7 @@
     "hexo-server": "^2.0.0",
     "hexo-tag-aplayer": "^3.0.4",
     "hexo-theme-landscape": "^0.0.3",
+    "hexo-theme-icarus": "^4.5.0",
     "inferno": "^7.4.7",
     "inferno-create-element": "^7.4.7"
   }
