@@ -50,6 +50,7 @@ jobs:
           
       - name: Install dependencies
         run: |
+          npm install -S hexo-theme-icarus
           npm install
 
       - name: Deploy hexo
