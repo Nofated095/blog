@@ -103,7 +103,7 @@ feed:
   type: atom
   path: atom.xml
   limit: 20
-theme: hexo-theme-icarus
+theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
