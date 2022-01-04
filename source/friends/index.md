@@ -207,8 +207,26 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     </div>
     </div>
   <footer class="card-footer">
-    <a href="https://m.bilibili.com/space/427381691" class="card-footer-item">Bilibili</a>
+    <a href="https://github.com/feizhuqwq" class="card-footer-item">GitHub</a>
     <a href="https://www.feizhuqwq.com/" class="card-footer-item">Home Page</a>
+  </footer>
+</div>
+<div class="card">
+<div class="card-content">
+  <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
+          <img src="https://cdn.jsdelivr.net/gh/liangchuxin/blog-files@master/img/20210306130253.jpg">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">Celia</p>
+        <p class="subtitle is-6">读万卷书 行万里路</p>
+      </div>
+    </div>
+    </div>
+  <footer class="card-footer">
+    <a href="https://blog.becomingcelia.com/" class="card-footer-item">Blog</a>
   </footer>
 </div>
 <div class="card">
