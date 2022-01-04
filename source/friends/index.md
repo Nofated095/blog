@@ -197,6 +197,25 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
   <div class="media">
       <div class="media-left">
         <figure class="image is-48x48">
+          <img src="https://open.cdn.feizhuqwq.com/faviconHD.jpg">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">肥猪qwq</p>
+        <p class="subtitle is-6">一定是最可爱的猪猪！</p>
+      </div>
+    </div>
+    </div>
+  <footer class="card-footer">
+    <a href="https://m.bilibili.com/space/427381691" class="card-footer-item">Bilibili</a>
+    <a href="https://www.feizhuqwq.com/" class="card-footer-item">Home Page</a>
+  </footer>
+</div>
+<div class="card">
+<div class="card-content">
+  <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
           <img src="https://shuiyunxc.github.io/images/avatar.png">
         </figure>
       </div>
