@@ -1,7 +1,6 @@
 ---
 title: 我的 Android 应用选择
 date: 2022-01-06 21:00:00
-cover: https://developer.android.google.cn/images/landing/android-logo.svg
 tags:
 - Android
 categories:
