@@ -55,7 +55,7 @@ window.onload=function(){
 </script>
 <a href="https://www.huangyuhui.net/index.php/2019/01/27/83/" class="LinkCard">整合包自带 Java 教程</a>
 
-首先下载 Java，但是我们不从 [Oracle Java 官网](https://java.com/zh-CN/)下载安装包，我们从 [BellSoft]() 获取 Java。
+首先下载 Java，但是我们不从 [Oracle Java 官网](https://java.com/zh-CN/)下载安装包，我们从 [BellSoft](https://bell-sw.com/pages/downloads/#/java-8-lts) 获取 Java。
 
 ![在 Bing 上面搜索 BellSoft，第一个就是](https://pic.rmb.bdstatic.com/bjh/c3e530d7256ac736543cbec97d4b2e03.png)
 
