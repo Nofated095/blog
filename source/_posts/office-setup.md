@@ -1,7 +1,8 @@
 ---
 title: Office 安装和激活
 date: 2021-06-20 13:12:22
-cover: https://pic.rmb.bdstatic.com/bjh/278d99b0a2a70ec871c7b539e9a63142.png
+cover: https://picbed-sigma.vercel.app/office-setup/cover.webp
+<!-- cover: https://pic.rmb.bdstatic.com/bjh/278d99b0a2a70ec871c7b539e9a63142.png -->
 <!-- cover: https://pic.rmb.bdstatic.com/bjh/3ce8554bb66b97326859f68857bfa7d7.png -->
 tags:
 - Office
