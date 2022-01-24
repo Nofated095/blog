@@ -1,6 +1,7 @@
 ---
 title: 媒体
 cover: https://api.sunweihu.com/api/bing1/api.php
+date: 2020-10-01 00:00:00
 ---
 
 ## 我喜欢的音乐
