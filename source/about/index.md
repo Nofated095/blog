@@ -1,54 +1,6 @@
 ---
 title: 关于
 cover: https://api.sunweihu.com/api/bing1/api.php
-date: 2007-06-09 00:00:00
-article:
-    widgets:
-    # Profile widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: profile
-        # Author name
-        author: Nofated
-        # Author title
-        author_title: I hope to be with you everyday.
-        # Author's current location
-        location: Beijing, China
-        # URL or path to the avatar image
-        avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
-        # Whether show the rounded avatar image
-        avatar_rounded: false
-        # Email address for the Gravatar
-        gravatar: 
-        # URL or path for the follow button
-        follow_link: 'https://space.bilibili.com/351951550'
-        # Links to be shown on the bottom of the profile widget
-        social_links:
-            Github:
-                icon: fab fa-github
-                url: 'https://github.com/Nofated095'
-            QQ:
-                icon: fab fa-qq
-                url: 'tencent://message/?uin=2032025551&Menu=yes'
-            Email:
-                icon: fas fa-envelope
-                url: 'mailto:nofated095@outlook.com'
-            RSS:
-                icon: fas fa-rss
-                url: /atom.xml
-    -
-        position: left
-        type: categories
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: tags
-    # Table of contents widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: recent_posts
 ---
 想了又想，决定还是把关于博客和关于我分开写
 
@@ -113,20 +65,27 @@ Hi, 我是 Nofated，很高兴可以在这里见到你！
 
 最喜欢的游戏是 Minecraft，没有什么理由，最开始接触到它是大概小学三四年级的时候。目前热衷于生电领域，但是我还很弱，目前是 [Redstone Expermental Server](http://rems.gitee.io) 的一员。
 
+GTA 三部曲也很喜欢，IV 和 V 也都很喜欢，其中 VC 和 SA 已经通关，SA 通关两次并且达到了 100%
+
 ### 编程
 
 我接触的语言很少很少，我记得最开始接触的语言是 HTML5 但是没有好好学。真正认认真真学的语言是 Windows 的批处理。目前正在学习 Python3。我最开始正式学习的语言是 HTML5，但我现在有时还需要看看菜鸟编程（。目前我还没有独自写过任何项目，也没有参与编写过任何项目。但是没事的时候，我会根据我自己的使用情况对一些已经停止更新的项目进行一些小更新。比如我更新的 [deepin-wine-ubuntu](https://github.com/Nofated095/deepin-wine-ubuntu)。
 
 ### 习惯
 
-目前日常使用的操作系统是 macOS Big Sur 11.4，有时也会用 Windows 操作系统或者 Ubuntu。手机是一台 Nokia 230，平时就拿来打电话和听音乐，闲的没事会看看番剧。
+目前日常使用的操作系统是 macOS Big Sur 11.4，有时也会用 Windows 操作系统或者 Ubuntu。手机是一台 Sharp SHV41，平时就拿来打电话和听音乐，闲的没事会看看番剧。
 
 ### 番剧
 
+
 - [x] -《魔物娘的同居生活》
 - [x] -《工作细胞》
-- [x] -《四月是你的谎言》
-- [ ] -《贤惠幼妻仙狐小姐》
+- [x] -《四月是你的谎言》♥️
+- [x] -《可塑性记忆》♥️
+- [x] -《鬼灭之刃》♥️
+- [x] -《鬼灭之刃 无限列车篇》♥️
+- [x] -《鬼灭之刃 游郭篇》
+- [x] -《贤惠幼妻仙狐小姐》
 - [ ] -《属性咖啡厅》
 - [ ] -《JOJO的奇妙冒险》
 - [ ] -《工作细胞 BLACK》
