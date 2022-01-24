@@ -1,6 +1,7 @@
 ---
 title: 友情链接
 cover: https://api.sunweihu.com/api/bing1/api.php
+date: 2020-10-01 00:00:00
 ---
 欢迎和本站互换友情链接。要求如下
 
