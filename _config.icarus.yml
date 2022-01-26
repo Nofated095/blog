@@ -102,9 +102,9 @@ navbar:
     menu:
         首页: /
         归档: /archives
-        媒体: /media
-        友链: /friends
-        关于: /about
+        媒体: /media.html
+        友链: /friends.html
+        关于: /about.html
         导航: https://edgelight.nofated.win
 # Page footer configurations
 footer:
