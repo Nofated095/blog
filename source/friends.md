@@ -283,17 +283,6 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
                 </a>
             </div>
             <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://blog.becomingcelia.com/" target="_blank">
-                    <div class="mdui-card mdui-hoverable mdui-ripple">
-                        <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://blog.becomingcelia.com/zb_users/theme/suiranx_air/image/favicon.ico">
-                        <div class="mdui-card-header-title">Celia的博客</div>
-                        <div class="mdui-card-header-subtitle">读万卷书，行万里路</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
                 <a href="https://www.runningcheese.com/" target="_blank">
                     <div class="mdui-card mdui-hoverable mdui-ripple">
                         <div class="mdui-card-header">
