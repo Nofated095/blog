@@ -337,6 +337,6 @@ providers:
     # Name or URL template of the JavaScript and/or stylesheet CDN provider
     cdn: '[cdnjs]https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/${package}/${version}/${filename}'
     # Name or URL template of the webfont CDN provider
-    fontcdn: loli
+    fontcdn: google
     # Name or URL of the fontawesome icon font CDN provider
     iconcdn: 'https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/5.15.2/css/all.css'
