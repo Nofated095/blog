@@ -285,7 +285,7 @@ plugins:
     # https://www.bing.com/toolbox/webmaster/
     bing_webmaster:
         # Bing Webmaster Tools tracking ID in the <meta> tag
-        tracking_id: 
+        tracking_id: 18E1B8B1375D6D1603970E5998BE1077
     # BuSuanZi site/page view counter
     # https://busuanzi.ibruce.info
     busuanzi: true
