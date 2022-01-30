@@ -5,7 +5,7 @@ date: 2020-10-01 00:00:00
 ---
 想了又想，决定还是把关于博客和关于我分开写
 
-{% meting "1398631166" "netease" "song" %}
+{% meting "1398631166" "netease" "autoplay" "song" %}
 
 ## 关于博客
 
