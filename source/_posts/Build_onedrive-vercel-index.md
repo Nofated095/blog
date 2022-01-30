@@ -2,7 +2,7 @@
 title: 搭建 onedrive-vercel-index
 date: 2022-01-08 13:00:00
 <!-- cover: https://pic.rmb.bdstatic.com/bjh/04be3c471b1b64391a4624f02ca43ce6.png -->
-cover: https://picbed-sigma.vercel.app/Build_onedrive-vercel-index/cover.webp
+cover: https://picbed-sigma.vercel.app/Build_onedrive-vercel-index/cover.png
 tags:
 - OneDrive
 categories:
