@@ -15,6 +15,8 @@ date: 2020-10-01 00:00:00
 
 目前博客有一个自己的域名 <https://blog.nofated.win>，部署在 Github Pages。当然也可以访问 [Gitee 的镜像](http://nofated.gitee.io)，已经停止同步。
 
+博客已进行[萌国ICP备案](https://icp.gov.moe/)，萌备案号是[萌ICP备20214514号](https://icp.gov.moe/?keyword=20214514)。
+
 ### 最早的一篇文章
 ``` markdown guo-chan-cao-zuo-xi-tong-deepin-shi-wan.md
 ---
