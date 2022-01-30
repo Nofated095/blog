@@ -93,7 +93,7 @@ Java版1.17 修改了游戏运行库，需要 Java 16 及以上的更高版本�
 
 和上面一样，但不需要重命名，把文件夹放在目录里，在游戏启动器的设置里设置 Java 路径。
 
-![选择 /jre17/bin/java.exe](https://pic.rmb.bdstatic.com/bjh/d34df42cbe27d8f34ac196462a20e1a6.png)
+![选择 \jre17\bin\java.exe](https://pic.rmb.bdstatic.com/bjh/d34df42cbe27d8f34ac196462a20e1a6.png)
 {% raw %}</div></article>{% endraw %}
 
 ### Flash 小游戏
