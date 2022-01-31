@@ -140,6 +140,25 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
   <div class="media">
       <div class="media-left">
         <figure class="image is-48x48">
+          <img src="https://cdn.jsdelivr.net/npm/skx@0.2.3/avatar/96x96.png">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">苏卡卡</p>
+        <p class="subtitle is-6">童话只美在真实却从不续写</p>
+      </div>
+    </div>
+    </div>
+  <footer class="card-footer">
+    <a href="https://github.com/SukkaW" class="card-footer-item">GitHub</a>
+    <a href="https://blog.skk.moe/" class="card-footer-item">Blog</a>
+  </footer>
+</div>
+<div class="card">
+<div class="card-content">
+  <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
           <img src="https://blog.moeworld.tech/wp-content/uploads/2019/07/10_avatar_big_waifu2x_art_noise1_scale_tta_1.png">
         </figure>
       </div>
