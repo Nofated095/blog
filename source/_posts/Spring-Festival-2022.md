@@ -1,6 +1,7 @@
 ---
 title: 新年快乐！
-date: 2022-01-31
+date: 2022-01-31 12:00:00
+cover: https://picbed-sigma.vercel.app/Spring-Festival-2022/cover.PNG
 tags:
 - 总结
 - 2022
