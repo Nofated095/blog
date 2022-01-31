@@ -52,7 +52,7 @@ window.onload=function(){
 ![打开 Vmware Workstation，创建新的虚拟机。选择「自定义」](https://pic.rmb.bdstatic.com/bjh/21efba4fbd06c5a2f2429ecf2e07f675.png)
 ![选择「稍后安装系统」，否则 Vmware 会自动启动快速安装](https://pic.rmb.bdstatic.com/bjh/41ba8fcb22db1a3781c2c49896c2252d.png)
 
-内存最好打一点，不然比较卡（
+内存最好大一点，不然比较卡（
 
 接下来的磁盘设置就比较重要了。这是决定你的系统安装位置的设置项。
 
