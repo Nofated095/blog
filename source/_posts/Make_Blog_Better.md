@@ -3,6 +3,9 @@ title: 优化博客
 date: 2022-01-07 20:10:00
 tags:
 - 博客
+- Hexo
+- Icarus
+- Vercel
 categories:
 - 写BUG日常
 - 教程
