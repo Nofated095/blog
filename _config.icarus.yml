@@ -106,6 +106,7 @@ navbar:
         友链: /friends.html
         关于: /about.html
         导航: https://edgelight.nofated.win
+        开往: https://travellings.link/
 # Page footer configurations
 footer:
     # Links to be shown on the right of the footer section
@@ -266,6 +267,7 @@ widgets:
             BMCLAPI: 'http://bmclapidoc.bangbang93.com/'
             Jenkins of HMCL: 'https://ci.huangyuhui.net/'
             Microsoft Docs: 'https://docs.microsoft.com/zh-cn/'
+            Travelling: 'https://travellings.link/'
     # Recent posts widget configurations
     # Tags widget configurations
    
