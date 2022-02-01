@@ -17,7 +17,7 @@ categories:
 迫于懒得把 SIM 卡在诺基亚和夏普之间来回更换，最终导致我没法开着流量挂着网易云听歌。现在网易云音乐整体功能、动画太多，对于小屏垃圾手机及其不友好，于是，我上手了 [Aplayer](https://github.com/rRemix/APlayer)。
 
 <div class="justified-gallery">
-  
+
 ![](https://od.nofated.win/api?path=/Blog%20Pictures/My_Android_APPS_Choices/01.png&raw=true)
 ![](https://od.nofated.win/api?path=/Blog%20Pictures/My_Android_APPS_Choices/02.png&raw=true)
 ![](https://od.nofated.win/api?path=/Blog%20Pictures/My_Android_APPS_Choices/03.png&raw=true)
