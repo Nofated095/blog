@@ -66,9 +66,18 @@ Hi, 我是 Nofated，很高兴可以在这里见到你！
 
 ### 游戏
 
-最喜欢的游戏是 Minecraft，没有什么理由，最开始接触到它是大概小学三四年级的时候。目前热衷于生电领域，但是我还很弱，目前是 [Redstone Expermental Server](http://rems.gitee.io) 的一员。
-
-GTA 三部曲也很喜欢，IV 和 V 也都很喜欢，其中 VC 和 SA 已经通关，SA 通关两次并且达到了 100%
+- Minecraft
+   - Java Edition
+   - Bedrock Edition
+- Grand Theft Auto
+   - III
+   - Vice City
+   - San Andreas
+   - IV
+   - V
+- Doki Doki Literature Club
+- OpenTTD
+- Oxygen Not Included
 
 ### 编程
 
@@ -79,7 +88,6 @@ GTA 三部曲也很喜欢，IV 和 V 也都很喜欢，其中 VC 和 SA 已经�
 目前日常使用的操作系统是 macOS Big Sur 11.4，有时也会用 Windows 操作系统或者 Ubuntu。手机是一台 Sharp SHV41，平时就拿来打电话和听音乐，闲的没事会看看番剧。
 
 ### 番剧
-
 
 - [x] 《魔物娘的同居生活》
 - [x] 《工作细胞》
