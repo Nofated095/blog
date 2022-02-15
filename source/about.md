@@ -73,6 +73,8 @@ Hi, 我是 Nofated，很高兴可以在这里见到你！
    - III
    - Vice City
    - San Andreas
+   - Liberty City Stories
+   - Chinatown Wars
    - IV
    - V
 - Doki Doki Literature Club
