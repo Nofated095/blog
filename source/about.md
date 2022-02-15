@@ -77,6 +77,11 @@ Hi, 我是 Nofated，很高兴可以在这里见到你！
    - Chinatown Wars
    - IV
    - V
+- ネコぱら
+   - Vol.1
+   - Vol.2
+   - Vol.3
+   - Vol.4
 - Doki Doki Literature Club
 - OpenTTD
 - Oxygen Not Included
