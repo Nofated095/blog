@@ -83,6 +83,8 @@ Hi, 我是 Nofated，很高兴可以在这里见到你！
    - Vol.3
    - Vol.4
 - Doki Doki Literature Club
+- Phigros
+- Cytus II
 - OpenTTD
 - Oxygen Not Included
 
