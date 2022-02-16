@@ -13,9 +13,11 @@ date: 2020-10-01 00:00:00
 
 2020年年末时由于种种原因，原先写博客的电脑坏了，虽然文件没有丢失，但是我没有给博客的源文件做备份，我也暂时碰不到它，于是在2021年初的寒假，我开始着手进行博客的重写恢复工作。这期间一开始使用一台 Samsung Galaxy S6，但又因为这个手机后来也坏了，我没备份，我就又用 Ubuntu To Go 和我爸爸原来的老电脑重新写博客。现在，博客的主力军主要徘徊在原先写博客的电脑和一个 Windows To Go。
 
-目前博客有一个自己的域名 <https://blog.nofated.win>，部署在 Github Pages。当然也可以访问 [Gitee 的镜像](http://nofated.gitee.io)，已经停止同步。
+目前博客有一个自己的域名 <https://blog.nofated.win>，部署在 Vercel。
 
 博客已进行[萌国ICP备案](https://icp.gov.moe/)，萌备案号是[萌ICP备20214514号](https://icp.gov.moe/?keyword=20214514)。
+
+博客已签约[十年之约](https://www.foreverblog.cn/)，可以在[这里](https://www.foreverblog.cn/blog/2712.html)查看详情。按照约定，博客会开十年之久。
 
 ### 最早的一篇文章
 ``` markdown guo-chan-cao-zuo-xi-tong-deepin-shi-wan.md
