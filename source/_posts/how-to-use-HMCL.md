@@ -1,6 +1,7 @@
 ---
 title: 使用 HMCL 的正确的姿势
 date: 2022-02-18 14:20:00
+cover: https://pic.rmb.bdstatic.com/bjh/b6cc5566db8c66501926c215fec27d58.jpeg
 tags:
 - HMCL
 - 下载
