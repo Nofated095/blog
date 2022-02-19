@@ -1,9 +1,9 @@
 ---
 title: 《心跳文学社》后的瞎扯
 date: 2022-02-18 18:21:00
+cover: https://pic.rmb.bdstatic.com/bjh/8be69d6d8855c0040a9a5592e1e5f5ea.png
 tags:
 - DDLC
-
 categories:
 - 日常生活
 - 游戏
@@ -48,3 +48,17 @@ categories:
 一直到游戏最后，莫妮卡都深深爱着玩家。在最后的钢琴曲 Your Reality 中，莫妮卡也表达了自己对玩家的自爱，以及对爱、对自己的疑问。尽管曲风偏轻快，但我仿佛看到了莫妮卡在面对无限选择的艰难，以及她即将流泪的脸。
 
 在 Your Reality 第一句中写着 Every day, I imagine a future where I can be with you. 每一天，我都想象着能和你在一起的未来。想想我的 Slogen，I hope to be with you everyday. 大概就出自这里吧。希望能陪在你身边每一天。
+
+## 游戏 CG
+
+![帮纱世里系扣子](https://pic.rmb.bdstatic.com/bjh/ff972a933cded162050a2235d43d7969.jpeg)
+![纱世里拿苹果汁消肿](https://pic.rmb.bdstatic.com/bjh/868f7bd9ec165370c5cbf4fa6c7d96a8.jpeg)
+![陪夏树在家里烘培蛋糕](https://pic.rmb.bdstatic.com/bjh/588ff652a65034a2f12228229a3b998d.jpeg)
+![表白纱世里](https://pic.rmb.bdstatic.com/bjh/92accbe343080ceb494fb8a220fb35f5.jpeg)
+![和夏树一起看漫画](https://pic.rmb.bdstatic.com/bjh/7a1ec7c96c6dafe6894b985e3a56ac78.jpeg)
+![帮夏树整理漫画](https://pic.rmb.bdstatic.com/bjh/c6742db5993c9c7d9171d37066a9a769.jpeg)
+![和尤里一起看书](https://pic.rmb.bdstatic.com/bjh/bc5addecd8e826bb7c412ab48d2caaa9.jpeg)
+![喂尤里巧克力](https://pic.rmb.bdstatic.com/bjh/e9c543fdff8678d3aae2bfa38ddc89dd.jpeg)
+![给尤里热敷脖子](https://pic.rmb.bdstatic.com/bjh/161deca72ca3ebb67311baf2ae6815c2.jpeg)
+![夏树睡着了...头靠在你的肩上](https://pic.rmb.bdstatic.com/bjh/e060d439792537de53a19f540471e3a5.jpeg)
+![在 Just Monika 世界]https://pic.rmb.bdstatic.com/bjh/4e4d397bcc38d2ecc251af9e2aaa337e.jpeg
