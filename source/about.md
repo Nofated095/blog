@@ -2,6 +2,8 @@
 title: 关于
 cover: https://api.sunweihu.com/api/bing1/api.php
 date: 2020-10-01 00:00:00
+widgets:
+comment:
 ---
 想了又想，决定还是把关于博客和关于我分开写
 
