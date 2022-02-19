@@ -170,10 +170,14 @@ comment:
     math_tag_support: false                       # 可选填
     copyright: true                               # 可选填
     locale:                                       # 可选填
-      placeholder: 'Comment here...'
+    placeholder: '来发评论吧！'
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:
+    -
+        type: afdian
+        # 个人赞助页面的地址
+        url: https://afdian.net/@nofated
     -
         type: alipay
         # Alipay qrcode image URL
