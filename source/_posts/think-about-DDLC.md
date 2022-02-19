@@ -61,4 +61,4 @@ categories:
 ![喂尤里巧克力](https://pic.rmb.bdstatic.com/bjh/e9c543fdff8678d3aae2bfa38ddc89dd.jpeg)
 ![给尤里热敷脖子](https://pic.rmb.bdstatic.com/bjh/161deca72ca3ebb67311baf2ae6815c2.jpeg)
 ![夏树睡着了...头靠在你的肩上](https://pic.rmb.bdstatic.com/bjh/e060d439792537de53a19f540471e3a5.jpeg)
-![在 Just Monika 世界]https://pic.rmb.bdstatic.com/bjh/4e4d397bcc38d2ecc251af9e2aaa337e.jpeg
+![在 Just Monika 世界](https://pic.rmb.bdstatic.com/bjh/4e4d397bcc38d2ecc251af9e2aaa337e.jpeg)
