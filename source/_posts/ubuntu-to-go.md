@@ -6,7 +6,7 @@ tags:
 - Ubuntu
 categories:
 - 写BUG日常
-- 教程
+- 野生技术协会
 ---
 把 Ubuntu 装进移动硬盘
 <!--more-->
