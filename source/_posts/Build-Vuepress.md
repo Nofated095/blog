@@ -1,12 +1,13 @@
 ---
 title: 构建 Vuepress 2.0.0 并部署到 Vercel
 date: 2022-01-31 10:00:00
+cover: https://pic.rmb.bdstatic.com/bjh/84ba295eb33cdc03389656ce1a34b29f.png
 tags:
 - Vuepress
 - Vercel
 categories:
 - 写BUG日常
-- 教程
+- 野生技术协会
 ---
 帮助每一个懒得跑 vuepress build docs 的人。
 <!--more-->
