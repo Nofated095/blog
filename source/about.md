@@ -125,3 +125,5 @@ isTop: false
 - [ ] 《属性咖啡厅》
 - [ ] 《JOJO的奇妙冒险》
 - [ ] 《工作细胞 BLACK》
+
+你可以在 [bangumi](https://bgm.tv/anime/list/671125) 上查看更多。
