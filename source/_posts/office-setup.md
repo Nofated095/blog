@@ -1,8 +1,8 @@
 ---
 title: Office 安装和激活
 date: 2021-06-20 13:12:22
-cover: https://picbed-sigma.vercel.app/office-setup/cover.webp
-<!-- cover: https://pic.rmb.bdstatic.com/bjh/278d99b0a2a70ec871c7b539e9a63142.png -->
+<!-- cover: https://picbed-sigma.vercel.app/office-setup/cover.webp -->
+cover: https://pic.rmb.bdstatic.com/bjh/278d99b0a2a70ec871c7b539e9a63142.png
 <!-- cover: https://pic.rmb.bdstatic.com/bjh/3ce8554bb66b97326859f68857bfa7d7.png -->
 tags:
 - Office
@@ -11,7 +11,7 @@ tags:
 - Windows
 categories:
 - 写BUG日常
-- 教程
+- 野生技术协会
 ---
 你还在使用标着 Office 2016 增强版的 Office 2019 么，你是天天弹窗盗版软件的受害者么，也许这篇文章可以很好地帮到你
 <!--more-->
