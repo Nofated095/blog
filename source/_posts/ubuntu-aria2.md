@@ -8,7 +8,7 @@ tags:
 - 下载
 categories:
 - 写BUG日常
-- 教程
+- 野生技术协会
 ---
 Ubuntu 安装了 [Motrix](https://motrix.app)，好用是真好用，但是缺点就是我电脑太卡，启动它老费劲了。所以在这里把安装 aria2 的过程分享出来供大家参考
 <!--more-->
