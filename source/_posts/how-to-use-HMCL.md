@@ -7,7 +7,7 @@ tags:
 - 下载
 - Minecraft
 categories:
-- [写BUG日常, 教程]
+- [写BUG日常, 野生技术协会]
 - [日常生活, 游戏, Minecraft]
 ---
 用 HMCL 启动 Minecraft，多是一件美事啊。
