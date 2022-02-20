@@ -1,13 +1,13 @@
 ---
 title: 不仅是 outlook.com | 申请与众不同的 Outlook 邮箱
 date: 2021-08-28 16:14:04
-cover: https://picbed-sigma.vercel.app/sign-up-different-outlook/cover.webp
-<!-- cover: https://pic.rmb.bdstatic.com/bjh/da66dc778eb58ee35adc1de5c5bdd323.png -->
+<!-- cover: https://picbed-sigma.vercel.app/sign-up-different-outlook/cover.webp -->
+cover: https://pic.rmb.bdstatic.com/bjh/da66dc778eb58ee35adc1de5c5bdd323.png
 tags:
 - Outlook
 categories:
 - 写BUG日常
-- 教程
+- 野生技术协会
 ---
 不拘泥于传统 Outlook，申请一个与众不同的 Outlook.it/Outlook.ie/Outlook.fr 邮箱。
 <!--more-->
