@@ -7,7 +7,7 @@ tags:
 - Big Sur
 categories:
 - 写BUG日常
-- 教程
+- 野生技术协会
 ---
 Wi-Fi 问题完美解决。
 <!--more-->
