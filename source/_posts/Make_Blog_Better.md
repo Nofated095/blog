@@ -8,7 +8,7 @@ tags:
 - Vercel
 categories:
 - 写BUG日常
-- 教程
+- 野生技术协会
 ---
 怎么才能让博客加载速度更快呢（呆
 <!--more-->
