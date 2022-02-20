@@ -6,7 +6,7 @@ tags:
 - Hexo
 categories:
 - 写BUG日常
-- 教程
+- 野生技术协会
 ---
 以后就不需要再自己部署博客了
 <!--more-->
