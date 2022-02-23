@@ -47,7 +47,7 @@ categories:
 ![](https://pic.rmb.bdstatic.com/bjh/53406e28cff59f7f91a0ce89be7a4989.png)
 
 {% raw %}<article class="message is-info"><div class="message-body">{% endraw %}
-提示：Mojang 账户马上就要无法游戏，所以建议各位仍在使用 Mojang 账户登录的玩家今早迁移到 Mojang 账户。请尽快到 [Minecraft 官网](https://minecraft.net)迁移你的账户。
+提示：Mojang 账户马上就要无法游戏，所以建议各位仍在使用 Mojang 账户登录的玩家尽快到 [Minecraft 官网](https://minecraft.net)迁移到 Microsoft 账户。
 {% raw %}</div></article>{% endraw %}
 
 ### 离线模式
