@@ -150,7 +150,7 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
     type: waline
-    server_url: https://comment-ivgt.vercel.app/
+    server_url: https://comment.9595095.xyz
     lang: zh-CN                                   # 可选填
     visitor: false                                # 可选填
     emoji:                                        # 可选填
