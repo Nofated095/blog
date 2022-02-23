@@ -1,6 +1,7 @@
 ---
 title: 使用 Github Actions 自动部署 Hexo
 date: 2021-08-03 21:35:04
+cover: https://pic.rmb.bdstatic.com/bjh/a5a79c32320475bd69aed54f5371065a.png
 tags:
 - Github
 - Hexo
