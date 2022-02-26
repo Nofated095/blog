@@ -4,8 +4,10 @@ cover: https://api.sunweihu.com/api/bing1/api.php
 date: 2020-10-01 00:00:00
 donates:
 widgets:
+comment:
 ---
-欢迎和本站互换友情链接。要求如下
+愿我们的友谊，天长地久。
+<!-- 欢迎和本站互换友情链接。要求如下
 
 - 博客内容不得存在违反中华人民共和国，中华人民共和国香港特别行政区和美国加利福尼亚州相关法律的内容
 - 博客服务器位于国内的需要通过备案
@@ -20,7 +22,7 @@ github: https://github.com/Nofated095
 avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
 ```
 
-<!--link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/css/mdui.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/css/mdui.min.css">
 <script src="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/js/mdui.min.js"></script-->
 
 <div class="card">
