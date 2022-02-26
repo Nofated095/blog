@@ -115,7 +115,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     </div>
   <footer class="card-footer">
     <a href="https://github.com/Big-Cake-jpg" class="card-footer-item">GitHub</a>
-    <a href="https://bigcake.cakemc.top" class="card-footer-item">Home Page</a>
+    <a href="https://bigcake.cakemc.top" class="card-footer-item">Blog</a>
   </footer>
 </div>
 <!-- div class="card">
