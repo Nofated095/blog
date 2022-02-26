@@ -53,8 +53,8 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
         </figure>
       </div>
       <div class="media-content">
-        <p class="title is-4">Restent</p>
-        <p class="subtitle is-6">I will cherish everything I love.</p>
+        <p class="title is-4">Restent Ou</p>
+        <p class="subtitle is-6">遇见你是我一生最幸运的事</p>
       </div>
     </div>
     </div>
