@@ -99,6 +99,25 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://mashirl.com/" class="card-footer-item">Blog</a>
   </footer>
 </div>
+<div class="card">
+<div class="card-content">
+  <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
+          <img src="https://cdn.jsdelivr.net/gh/Big-Cake-jpg/Image_For_My_Blog/tx.jpg">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">Big_Cake</p>
+        <p class="subtitle is-6">一个屑初二学生</p>
+      </div>
+    </div>
+    </div>
+  <footer class="card-footer">
+    <a href="https://github.com/Big-Cake-jpg" class="card-footer-item">GitHub</a>
+    <a href="https://bigcake.cakemc.top" class="card-footer-item">Home Page</a>
+  </footer>
+</div>
 <!-- div class="card">
 <div class="card-content">
   <div class="media">
