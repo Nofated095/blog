@@ -1,7 +1,7 @@
 ---
 title: Ubuntu To Go 制作教程
 date: 2021-07-01 18:37:04
-cover: https://assets.ubuntu.com/v1/9d42b2ab-3B-embedded-linux_AW.svg
+cover: https://pic.rmb.bdstatic.com/bjh/bc4a3e70e1a4b7ddb9ce5a14d757ee86.png
 tags:
 - Ubuntu
 categories:
