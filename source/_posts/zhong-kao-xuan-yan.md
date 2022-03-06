@@ -1,7 +1,7 @@
 ---
 title: 2022 中考宣言！
 date: 2022-03-06
-cover: https://pic.rmb.bdstatic.com/bjh/68134d9248d013fc2f76c64545099caa.png
+cover: https://pic.rmb.bdstatic.com/bjh/545a4f4eaeb558415d95537bf4d56b8b.png
 tags:
 - 中考
 categories:
