@@ -4,9 +4,10 @@ date: 2021-09-05 22:07:04
 <!-- cover: https://pic.rmb.bdstatic.com/bjh/35a6268df7576db0ecae298a23bdbb2c.png -->
 cover: https://picbed-sigma.vercel.app/about-my-school/cover.webp
 tags:
-- School
+- 学校
 categories:
 - 日常生活
+- 学习
 - 学校
 ---
 Nofated 姐姐的苦逼初三生活是怎么回事呢？Nofated 姐姐相信大家都很熟悉，但是Nofated 姐姐的苦逼初三生活是怎么回事呢，下面就让小编带大家一起了解吧。（雾
