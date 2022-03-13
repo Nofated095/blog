@@ -277,7 +277,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
   <div class="media">
       <div class="media-left">
         <figure class="image is-48x48">
-          <img src="http://wc215.byethost10.com/zb_users/avatar/1.png">
+          <img src="https://pic.rmb.bdstatic.com/bjh/b07f042e4d2c02e1a28066daccac036d.png">
         </figure>
       </div>
       <div class="media-content">
