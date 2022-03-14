@@ -212,7 +212,7 @@ widgets:
         # Author's current location
         location: Beijing, China
         # URL or path to the avatar image
-        avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
+        avatar: https://pic.rmb.bdstatic.com/bjh/8b98d9798b6997e61a19d49503845644.png
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
