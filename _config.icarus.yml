@@ -340,7 +340,7 @@ plugins:
 # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:
     # Name or URL template of the JavaScript and/or stylesheet CDN provider
-    cdn: '[cdnjs]https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/${package}/${version}/${filename}'
+    cdn: '[cdnjs]https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/${package}/${version}/${filename}'
     # cdn: cdnjs
     # Name or URL template of the webfont CDN provider
     fontcdn: google
