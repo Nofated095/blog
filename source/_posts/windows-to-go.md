@@ -1,6 +1,7 @@
 ---
 title: Windows To Go 使用心得
 date: 2022-03-13
+cover: https://pic.rmb.bdstatic.com/bjh/b091de2c1d546bbf6311fe5ca744014a.png
 tags:
 - Windows
 - WinToGo
