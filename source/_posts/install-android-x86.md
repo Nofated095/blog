@@ -1,7 +1,7 @@
 ---
 title: 虚拟机安装 android-x86
-date: 2020-10-01 17:00:00
-cover: https://pic.rmb.bdstatic.com/bjh/38969b26e37f770d59195c27d73ddfcb.jpeg
+date: 2020-10-01
+cover: https://pic.rmb.bdstatic.com/bjh/6eee36871b274cf30b3d34fc24d97784.png
 tags:
 - android
 - 虚拟机
