@@ -1,9 +1,10 @@
 ---
 title: Gridea 魔改使其支持 Gitee Pages
 cover: https://pic.rmb.bdstatic.com/bjh/0d9eb92f67ba93b514f2555a70eacebe.png
-date: 2020-05-09 11:33:30
+date: 2020-05-09
 tags:
 - Gridea
+- 博客
 categories:
 - 写BUG日常
 - 野生技术协会
