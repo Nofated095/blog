@@ -1,6 +1,7 @@
 ---
 title: 我的 Android 应用选择
-date: 2022-01-06 21:00:00
+date: 2022-01-06
+cover: https://pic.rmb.bdstatic.com/bjh/3ad3d9ea33e6bb9f1eed21d1edc3e532.png
 tags:
 - Android
 categories:
