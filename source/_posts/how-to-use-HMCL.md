@@ -1,6 +1,6 @@
 ---
 title: 使用 HMCL 的正确的姿势
-date: 2022-02-18 14:20:00
+date: 2022-02-18
 cover: https://pic.rmb.bdstatic.com/bjh/b6cc5566db8c66501926c215fec27d58.jpeg
 tags:
 - HMCL
@@ -34,7 +34,7 @@ categories:
 
 ## 下载 HMCL
 
-你可以到 [HMCL 官网](https://hmcl.huangyuhui.net/download/)下载。稳定版和开发版都可以，开发版可以获得比稳定版更多的一些功能。当然你也可以去 [HMCL 的 Jenkins] (huangyuhui.net)](http://ci.huangyuhui.net/job/HMCL/) 下载，点击 `View` ，然后点击 `HMCL/Build/libs` ，点击你需要的可执行文件格式并下载。
+你可以到 [HMCL 官网](https://hmcl.huangyuhui.net/download/)下载。稳定版和开发版都可以，开发版可以获得比稳定版更多的一些功能。当然你也可以去 [HMCL 的 Jenkins](http://ci.huangyuhui.net/job/HMCL/) 下载，点击 `View` ，然后点击 `HMCL/Build/libs` ，点击你需要的可执行文件格式并下载。
 
 ## 配置游戏文件夹和添加账户
 
