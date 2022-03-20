@@ -163,6 +163,25 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
   <div class="media">
       <div class="media-left">
         <figure class="image is-48x48">
+          <img src="https://blog.smallxu.com/g.jpg">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">逆风</p>
+        <p class="subtitle is-6">一个00后高中生</p>
+      </div>
+    </div>
+    </div>
+  <footer class="card-footer">
+    <a href="https://github.com/1264822519" class="card-footer-item">GitHub</a>
+    <a href="https://blog.smallxu.com/" class="card-footer-item">Blog</a>
+  </footer>
+</div>
+<div class="card">
+<div class="card-content">
+  <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
           <img src="https://cdn.jsdelivr.net/npm/skx@0.2.3/avatar/96x96.png">
         </figure>
       </div>
