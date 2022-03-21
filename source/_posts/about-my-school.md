@@ -2,7 +2,7 @@
 title: 初三生活 | 关于我的学校
 date: 2021-09-05 22:07:04
 <!-- cover: https://pic.rmb.bdstatic.com/bjh/35a6268df7576db0ecae298a23bdbb2c.png -->
-cover: https://picbed-sigma.vercel.app/about-my-school/cover.webp
+cover: https://pic.rmb.bdstatic.com/bjh/95ebbd29a6211719d068a3ff2eeff984.png
 tags:
 - 学校
 categories:
