@@ -6,12 +6,8 @@ donates:
 widgets:
 comment:
 ---
-<video id="video" controls="" preload="none">
-      <source id="mp4" src="https://video-direct-link.vercel.app/bili.mp4?aid=928861104&bvid=BV1uT4y1P7CX&cid=287639008" type="video/mp4">
-</videos>
-<video id="video" controls="" preload="none">
-      <source id="mp4" src="https://video-direct-link.vercel.app/bili.mp4?aid=80433022&bvid=BV1GJ411x7h7&cid=137649199" type="video/mp4">
-</videos>
+
+![](https://pic.9595095.xyz/api)
 
 ## 我喜欢的音乐
 
