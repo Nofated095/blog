@@ -1,10 +1,9 @@
 ---
 title: 让你的文章更耐看
-date: 2020-10-15 10:34:46
+date: 2020-10-15
 cover: https://pic.rmb.bdstatic.com/bjh/2902fadc80bff86b1f657a77e15e2cf1.png
 tags:
 - Hexo
-- Icarus
 - Bulma
 categories:
 - 写BUG日常
@@ -388,7 +387,7 @@ window.onload=function(){
  
 </script>
 
-<a href="http://nofated.gitee.io/" class="LinkCard">Nofated's Blog</a>
+<a href="https://blog.nofated.win" class="LinkCard">Nofated's Blog</a>
 ``` js 点击展开代码>folded
 <script type="text/javascript">
  
@@ -411,5 +410,5 @@ window.onload=function(){
  
 </script>
 
-<a href="http://nofated.gitee.io/" class="LinkCard">Nofated's Blog</a>
+<a href="https://blog.nofated.win/" class="LinkCard">Nofated's Blog</a>
 ```
