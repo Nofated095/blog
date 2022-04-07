@@ -16,11 +16,13 @@ comment:
 
 眼前的这个不起眼的小博客大致始于 2019 年年末到 2020 年年初。历经了很多次改版。原定的是一个基于 WordPress 的软件资源站或者开源镜像站。目前最早的文章只能追溯到 **2020-05-07** 最开始使用 Gridea 进行写作，一段时间后开始使用 Hexo + hexo-theme-icarus 进行写作并沿用至今。博客最早使用 Github Pages 和 Gitee Pages，目前博客部署工作交给 Vercel，Gitee Pages 已经弃用，Github Pages 不进行更新并且会自动跳转到现在的域名。
 
-博客使用 cdnjs 作为 cdn，可能国内访问速度较慢，在之后可能会考虑更换到字节跳动静态资源公共库。
+博客使用字节跳动静态资源公共库中的部分静态资源作为 cdn。
 
 博客已进行[萌国ICP](https://icp.gov.moe/)备案，萌备案号是[萌ICP备20214514号](https://icp.gov.moe/?keyword=20214514)。
 
 博客已签约[十年之约](https://www.foreverblog.cn/)，可以在[这里](https://www.foreverblog.cn/blog/2712.html)查看详情。按照约定，博客会开十年之久。
+
+博客是[开往-友链接力](https://github.com/travellings-link/travellings)的成员站点，非常支持优秀的站点之间互相来往联系。
 
 ### 最早的一篇文章
 ``` markdown guo-chan-cao-zuo-xi-tong-deepin-shi-wan.md
