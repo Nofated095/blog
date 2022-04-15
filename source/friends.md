@@ -45,7 +45,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://xiaojin233.cn" class="card-footer-item">Home Page</a>
   </footer>
 </div>
-<div class="card column  is-half">
+<div class="card column">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -63,6 +63,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://github.com/Restent" class="card-footer-item">GitHub</a>
     <a href="https://blog.restent.win/" class="card-footer-item">Blog</a>
   </footer>
+</div>
 </div>
 <div class="columns">
 <div class="card column is-half">
@@ -84,7 +85,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://www.cubik65536.top" class="card-footer-item">Home Page</a>
   </footer>
 </div>
-<div class="card column is-half">
+<div class="card column">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -102,6 +103,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://github.com/Mashirl" class="card-footer-item">GitHub</a>
     <a href="https://mashirl.com/" class="card-footer-item">Blog</a>
   </footer>
+</div>
 </div>
 <div class="card column is-half">
 <div class="card-content">
@@ -122,26 +124,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://bigcake.cakemc.top" class="card-footer-item">Blog</a>
   </footer>
 </div>
-<!-- div class="card">
-<div class="card-content">
-  <div class="media">
-      <div class="media-left">
-        <figure class="image is-48x48">
-          <img src="https://xiaohaoxh.cn/wp-content/uploads/2021/04/logomaker.png">
-        </figure>
-      </div>
-      <div class="media-content">
-        <p class="title is-4">Xiaohaoxh</p>
-        <p class="subtitle is-6">一个深圳初中生的原创生活书~</p>
-      </div>
-    </div>
-    </div>
-  <footer class="card-footer">
-    <a href="https://github.com/Xiaohaoxh520" class="card-footer-item">GitHub</a>
-    <a href="https://xiaohaoxh.cn/" class="card-footer-item">Blog</a>
-  </footer>
-</div -->
-<div class="card column is-half">
+<div class="card column">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -159,6 +142,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://github.com/CharlieYu4994" class="card-footer-item">GitHub</a>
     <a href="https://blog.charlie.moe" class="card-footer-item">Blog</a>
   </footer>
+</div>
 </div>
 <div class="card column is-half">
 <div class="card-content">
@@ -179,7 +163,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://blog.smallxu.com/" class="card-footer-item">Blog</a>
   </footer>
 </div>
-<div class="card column is-half">
+<div class="card column">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -197,6 +181,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://github.com/SukkaW" class="card-footer-item">GitHub</a>
     <a href="https://blog.skk.moe/" class="card-footer-item">Blog</a>
   </footer>
+</div>
 </div>
 <div class="card column is-half">
 <div class="card-content">
@@ -217,7 +202,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://blog.moeworld.tech/" class="card-footer-item">Blog</a>
   </footer>
 </div>
-<div class="card column is-half">
+<div class="card column">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -235,6 +220,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://github.com/iVampireSP" class="card-footer-item">GitHub</a>
     <a href="https://ivampiresp.com/" class="card-footer-item">Blog</a>
   </footer>
+</div>
 </div>
 <div class="card column is-half">
 <div class="card-content">
@@ -255,7 +241,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://www.littleqiu.net/" class="card-footer-item">Blog</a>
   </footer>
 </div>
-<div class="card column is-half">
+<div class="card column">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -273,6 +259,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://github.com/feizhuqwq" class="card-footer-item">GitHub</a>
     <a href="https://www.feizhuqwq.com/" class="card-footer-item">Home Page</a>
   </footer>
+</div>
 </div>
 <div class="card column is-half">
 <div class="card-content">
@@ -293,7 +280,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://blog.becomingcelia.com/" class="card-footer-item">Blog</a>
   </footer>
 </div>
-<div class="card column is-half">
+<div class="card column">
 <div class="card-content">
   <div class="media">
       <div class="media-left">
@@ -311,6 +298,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://github.com/wc915760215" class="card-footer-item">GitHub</a>
     <a href="http://wc215.byethost10.com/" class="card-footer-item">Blog</a>
   </footer>
+</div>
 </div>
 <div class="card column is-half">
 <div class="card-content">
