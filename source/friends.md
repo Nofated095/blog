@@ -330,6 +330,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
     <a href="https://shuiyunxc.github.io/" class="card-footer-item">Blog</a>
   </footer>
 </div>
+  </div>
 
 <!-- body class="mdui-loaded">
     <div class="mdui-container-fluid">
