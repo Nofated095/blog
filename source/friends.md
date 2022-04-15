@@ -105,6 +105,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
   </footer>
 </div>
 </div>
+<div class="columns">
 <div class="card column is-half">
 <div class="card-content">
   <div class="media">
@@ -144,6 +145,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
   </footer>
 </div>
 </div>
+<div class="columns">
 <div class="card column is-half">
 <div class="card-content">
   <div class="media">
@@ -183,6 +185,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
   </footer>
 </div>
 </div>
+<div class="columns">
 <div class="card column is-half">
 <div class="card-content">
   <div class="media">
@@ -222,6 +225,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
   </footer>
 </div>
 </div>
+<div class="columns">
 <div class="card column is-half">
 <div class="card-content">
   <div class="media">
@@ -261,6 +265,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
   </footer>
 </div>
 </div>
+<div class="columns">
 <div class="card column is-half">
 <div class="card-content">
   <div class="media">
@@ -300,6 +305,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
   </footer>
 </div>
 </div>
+<div class="columns">
 <div class="card column is-half">
 <div class="card-content">
   <div class="media">
