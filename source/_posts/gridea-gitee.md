@@ -9,10 +9,10 @@ categories:
 - 写BUG日常
 - 野生技术协会
 ---
-Gridea 是一款很好用的博客写作软件。它功能全面但可惜部署不支持国内的 Gitee 代码储存仓库。本篇文章将对 Gridea 进行源码上的修改使其支持 Gridea。
+Gridea 是一款很好用的博客写作软件。它功能全面但可惜部署不支持国内的 Gitee 代码储存仓库。本篇文章将对 Gridea 进行源码上的修改使其支持 Gitee Pages。
 <!--more-->
 {% raw %}<article class="message is-success"><div class="message-body">{% endraw %}
-本篇文章会手把手进行教学，当然你也可以直接克隆已经做好的[仓库](https://gitee.com/Nofated/gridea)
+本篇文章会手把手进行教学，当然你也可以直接克隆已经做好的[仓库](https://github.com/Nofated/gridea)
 {% raw %}</div></article>{% endraw %}
 
 ## 教程
@@ -22,9 +22,6 @@ Gridea 是一款很好用的博客写作软件。它功能全面但可惜部署�
 ```
 # Github 官方
 git clone https:/github.com/getgridea/gridea.git
-
-# FastGit 镜像
-git clone https://hub.fastgit.org/getgridea/gridea.git
 
 # Gitee 镜像
 git clone https://gitee.com/mirrors/gridea.git
