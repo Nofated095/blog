@@ -110,7 +110,6 @@ theme: icarus
 deploy:
 - type: git
   repo:
-#    gitee: https://gitee.com/nofated/Nofated.git,master
     github: git@github.com:Nofated095/nofated095.github.io.git,master
 
 aplayer:

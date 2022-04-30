@@ -242,6 +242,9 @@ widgets:
                 url: /atom.xml
     -
         position: left
+        type: archives
+    -
+        position: left
         type: categories
     -
         # Where should the widget be placed, left sidebar or right sidebar
