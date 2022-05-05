@@ -1,7 +1,6 @@
 ---
 title: 搭建 onedrive-vercel-index
-date: 2022-01-08 13:00:00
-<!-- cover: https://pic.rmb.bdstatic.com/bjh/04be3c471b1b64391a4624f02ca43ce6.png -->
+date: 2022-01-08
 cover: https://pic.rmb.bdstatic.com/bjh/bf4e51022f491e34da7b82578391ae08.png
 tags:
 - OneDrive
@@ -12,6 +11,10 @@ categories:
 ---
 把 OneDrive 当成网盘/图床
 <!--more-->
+
+{% raw %}<div class="notification is-danger">{% endraw %}
+此文章已过时，且**不再维护更新**。对于 `onedrive-vercel-index` 的搭建请查看官方手册 [OneDrive Vercel Index Docs](https://ovi.swo.moe/zh/docs/getting-started)。
+{% raw %}</div>{% endraw %}
 
 依稀记得很长时间以前，当时 OneIndex 还特别火，网上有不少教程教如何配合微软 Office 355 教育账号或者是开发者账号来嫖 OneDrive 的储存的。记得当时这种教程遍地开花，各种 Fork 原作者的项目也是琳琅满目。
 
