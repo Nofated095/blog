@@ -1,7 +1,7 @@
 ---
 title: 友情链接
-cover: https://api.sunweihu.com/api/bing1/api.php
-date: 2020-10-01 00:00:00
+cover: https://bing.9595095.xyz
+date: 2020-10-01
 donates:
 widgets:
 comment:
@@ -331,80 +331,3 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
             </footer>
         </div>
     </div>
-
-<!-- body class="mdui-loaded">
-    <div class="mdui-container-fluid">
-            <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://blog.bangbang93.com/" target="_blank">
-                    <div class="mdui-card mdui-hoverable mdui-ripple">
-                        <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://tva3.sinaimg.cn/crop.0.0.200.200.200/56e0fc78jw1e8qgp5bmzyj2050050aa8.jpg">
-                        <div class="mdui-card-header-title">bangbang93.blog()</div>
-                        <div class="mdui-card-header-subtitle">bangbang93常驻据点</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://www.runningcheese.com/" target="_blank">
-                    <div class="mdui-card mdui-hoverable mdui-ripple">
-                        <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://www.runningcheese.com/wp-content/uploads/2019/07/11/2019071115110119.png">
-                        <div class="mdui-card-header-title">奔跑中的奶酪</div>
-                        <div class="mdui-card-header-subtitle">有智，有趣，有爱</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://www.52ecy.cn/" target="_blank">
-                    <div class="mdui-card mdui-hoverable mdui-ripple">
-                        <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://tvax4.sinaimg.cn/crop.0.0.640.640.180/78350c19ly8fjzdg8pbsqj20hs0hsmyu.jpg">
-                        <div class="mdui-card-header-title">阿珏博客</div>
-                        <div class="mdui-card-header-subtitle">逐梦，逐二次元，就如同你所看到的一样</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-</body -->
-
-<!--
-该页面采用了 `Material Design` 的设计，下面是示例
-
-``` HTML MDUI>folded
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/css/mdui.min.css"> // 加载主题文件
-<script src="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/js/mdui.min.js"></script>
-
-<body class="mdui-loaded">
-    <div class="mdui-container-fluid">
-        <div class="mdui-row">
-            <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://example.com" target="_blank">
-                    <div class="mdui-card mdui-hoverable mdui-ripple">
-                        <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://example.com/images/avatar.png">
-                        <div class="mdui-card-header-title">YourNamehere</div>
-                        <div class="mdui-card-header-subtitle">YourTexthere</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="mdui-col-xs-12 mdui-col-sm-6"><br>
-                <a href="https://example1.com" target="_blank">
-                    <div class="mdui-card mdui-hoverable mdui-ripple">
-                        <div class="mdui-card-header">
-                        <img class="mdui-card-header-avatar" src="https://example1.com/images/avatar.png">
-                        <div class="mdui-card-header-title">YourNamehere</div>
-                        <div class="mdui-card-header-subtitle">YourTexthere</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-</body>
-```
--->
