@@ -1,7 +1,7 @@
 ---
 title: 关于
-cover: https://api.sunweihu.com/api/bing1/api.php
-date: 2020-10-01 00:00:00
+cover: https://bing.9595095.xyz
+date: 2020-10-01
 donates:
 widgets:
 comment:
