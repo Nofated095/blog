@@ -1,6 +1,6 @@
 ---
 title: 媒体
-cover: https://api.sunweihu.com/api/bing1/api.php
+cover: https://bing.9595095.xyz
 date: 2020-10-01 00:00:00
 donates:
 widgets:

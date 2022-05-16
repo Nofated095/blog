@@ -1,5 +1,5 @@
 # Version of the configuration file
-version: 4.5.0
+version: 6.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
@@ -209,7 +209,7 @@ widgets:
         # Author name
         author: Nofated
         # Author title
-        author_title: I hope to be with you everyday.
+        author_title: 'May we will never be together, but forever you are in my heart.'
         # Author's current location
         location: Beijing, China
         # URL or path to the avatar image
@@ -347,6 +347,6 @@ providers:
     cdn: '[cdnjs]https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/${package}/${version}/${filename}'
     # cdn: cdnjs
     # Name or URL template of the webfont CDN provider
-    fontcdn: google
+    fontcdn: loli
     # Name or URL of the fontawesome icon font CDN provider
     iconcdn: 'https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/5.15.2/css/all.css'
