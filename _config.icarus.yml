@@ -8,7 +8,6 @@ logo:
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    # favicon: https://cravatar.eu/helmhead/Nofated
     favicon: https://pic.rmb.bdstatic.com/bjh/5734ea6ff12a90bf7cdfaa66f1cfd1cc.png
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
@@ -163,7 +162,7 @@ comment:
     avatar: mp                                    # 可选填
     word_limit: 0                                 # 可选填
     page_size: 10                                 # 可选填
-    avatar_cdn: 'https://sdn.geekzu.org/avatar/'  # 可选填
+    avatar_cdn: 'http://cravatar.cn/avatar/'  # 可选填
     avatar_force: false                           # 可选填
     highlight: true                               # 可选填
     math_tag_support: false                       # 可选填
