@@ -154,7 +154,8 @@ comment:
     lang: zh-CN                                   # 可选填
     visitor: false                                # 可选填
     emoji:                                        # 可选填
-      - 'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji'
+      - 'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji'
+      - 'https://unpkg.com/@waline/emojis@1.0.1/qq'
     dark: auto                                    # 可选填
     meta: ["nick", "mail", "link"]                # 可选填
     required_meta: []                             # 可选填
@@ -162,7 +163,6 @@ comment:
     avatar: mp                                    # 可选填
     word_limit: 0                                 # 可选填
     page_size: 10                                 # 可选填
-    avatar_cdn: 'http://cravatar.cn/avatar/'  # 可选填
     avatar_force: false                           # 可选填
     highlight: true                               # 可选填
     math_tag_support: false                       # 可选填
