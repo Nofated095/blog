@@ -11,8 +11,10 @@ categories:
 ---
 Gridea 是一款很好用的博客写作软件。它功能全面但可惜部署不支持国内的 Gitee 代码储存仓库。本篇文章将对 Gridea 进行源码上的修改使其支持 Gitee Pages。
 <!--more-->
-{% raw %}<article class="message is-success"><div class="message-body">{% endraw %}
-本篇文章会手把手进行教学，当然你也可以直接克隆已经做好的[仓库](https://github.com/Nofated095/gridea)
+{% raw %}<article class="message is-info"><div class="message-body">{% endraw %}
+这篇文章中对 Gridea 的修改已经合并到 Gridea 再 GitHub 仓库的主分支，所以没有必要再进行下面的处理。
+你可以去 Gridea 的 [Releses](https://github.com/getgridea/gridea/releases/latest) 中下载 Gridea 的最新构建。
+Gitee Pages 的支持在 [v0.9.3](https://github.com/getgridea/gridea/releases/tag/v0.9.3) 中被加入。
 {% raw %}</div></article>{% endraw %}
 
 ## 教程
