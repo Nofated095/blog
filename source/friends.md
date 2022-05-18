@@ -50,7 +50,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cdn.jsdelivr.net/gh/Restent/Restent/avatar.jpg">
+                            <img src="https://sdn.geekzu.org/avatar/1e45107097e38e8813f343834dd63f8e?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -69,7 +69,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cdn.jsdelivr.net/gh/Cubik65536/cubik-favicons@main/CubikLogo.png">
+                            <img src="https://img.cubik65536.top/CubikLogo.png">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -88,7 +88,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cdn.jsdelivr.net/gh/Mashirl/Blog/source/images/avatar.jpg">
+                            <img src="https://sdn.geekzu.org/avatar/d3d2c7c7d4bed80a2304b529de55d4a9?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -164,7 +164,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cdn.jsdelivr.net/npm/skx@0.2.3/avatar/96x96.png">
+                            <img src="https://img10.360buyimg.com/ddimg/jfs/t1/214940/28/13992/13695/622039e0E8283ea56/6176b9c35f4d60ab.webp">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -259,7 +259,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cdn.jsdelivr.net/gh/liangchuxin/blog-files@master/img/20210306130253.jpg">
+                            <img src="https://sdn.geekzu.org/avatar/e7247de5dc94382033c4368c136a28a7?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
