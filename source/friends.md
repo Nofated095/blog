@@ -137,7 +137,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://blog.charlie.moe/images/avatar.png">
+                            <img src="https://sdn.geekzu.org/avatar/196abee62a3e3a029238026c0a5369ff?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
