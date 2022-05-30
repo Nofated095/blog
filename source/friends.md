@@ -32,7 +32,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://xiaojin233.cn/img/avator.png">
+                            <img src="https://sdn.geekzu.org/avatar/c9f5cb9429fc2e629c3498128f640b14?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
