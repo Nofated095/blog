@@ -241,6 +241,11 @@ widgets:
                 icon: fas fa-rss
                 url: /atom.xml
     -
+        type: toc
+        position: left
+        # 是否显示目录项目的序号
+        index: true
+    -
         position: left
         type: archives
     -

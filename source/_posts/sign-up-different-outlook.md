@@ -8,6 +8,7 @@ tags:
 categories:
 - 写BUG日常
 - 野生技术协会
+toc: true
 ---
 不拘泥于传统 Outlook，申请一个与众不同的 Outlook.it/Outlook.ie/Outlook.fr 邮箱。
 <!--more-->

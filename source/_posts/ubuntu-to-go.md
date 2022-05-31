@@ -8,6 +8,7 @@ tags:
 categories:
 - 写BUG日常
 - 野生技术协会
+toc: true
 ---
 把 Ubuntu 装进移动硬盘
 <!--more-->

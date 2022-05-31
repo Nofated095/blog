@@ -9,6 +9,7 @@ tags:
 categories:
 - 写BUG日常
 - 野生技术协会
+toc: true
 ---
 以后就不需要再自己部署博客了
 <!--more-->

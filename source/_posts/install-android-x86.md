@@ -8,6 +8,7 @@ tags:
 categories:
 - 写BUG日常
 - 野生技术协会
+toc: true
 ---
 看到我的 Parallels Desktop ，发现好久好久没有用过了，今天刚好趁着国庆捣鼓亿下（但实际文章是国庆假期后月考完了写的）。
 <!--more-->

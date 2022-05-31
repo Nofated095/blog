@@ -9,6 +9,7 @@ tags:
 categories:
 - [写BUG日常, 野生技术协会]
 - [日常生活, 游戏, Minecraft]
+toc: true
 ---
 用 HMCL 启动 Minecraft，多是一件美事啊。
 <!--more-->

@@ -10,6 +10,7 @@ tags:
 categories:
 - 写BUG日常
 - 野生技术协会
+toc: true
 ---
 你还在使用标着 Office 2016 增强版的 Office 2019 么，你是天天弹窗盗版软件的受害者么，也许这篇文章可以很好地帮到你
 <!--more-->

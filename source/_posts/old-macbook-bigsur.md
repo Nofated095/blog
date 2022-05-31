@@ -8,6 +8,7 @@ tags:
 categories:
 - 写BUG日常
 - 野生技术协会
+toc: true
 ---
 Wi-Fi 问题完美解决。
 <!--more-->

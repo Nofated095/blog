@@ -9,6 +9,7 @@ tags:
 categories:
 - 写BUG日常
 - 野生技术协会
+toc: true
 ---
 折腾 WinToGo 路上踩过的坑。
 <!--more-->

@@ -8,6 +8,7 @@ categories:
 - 日常生活
 - 学习
 - 中考
+toc: true
 ---
 写给自己，也写给大家。
 <!--more-->
