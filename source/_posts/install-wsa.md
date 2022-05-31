@@ -15,6 +15,14 @@ toc: true
 用简单的方式，在计算机上运行 Android 程序。
 <!--more-->
 
+# 使用 GitHub Actions 构建（推荐）
+
+登录 GitHub，并 Fork [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA)。
+
+并根据 [官方教程](https://github.com/LSPosed/MagiskOnWSA#text-guide) 使用 GitHub Actions 构建最新的 WSA。
+
+# 使用传统方式安装 WSA
+
 ## 下载 WSA
 
 首先打开 [Microsoft Store - Generation Project](https://store.rg-adguard.net/)，并输入链接。
@@ -48,10 +56,28 @@ Add-AppxPackage C:\Path\to\MicrosoftCorporationII.WindowsSubsystemForAndroid_220
 ![](https://pic.rmb.bdstatic.com/bjh/be319517eac93279461b1a6e90a52d15.png)
 ![](https://pic.rmb.bdstatic.com/bjh/478b898201d51c3612ed5c5041ab11c4.png)
 
-## 配置 WSA
-
 如果安装正确，你应当可以在开始菜单中找到 WSA。
 
 ![](https://pic.rmb.bdstatic.com/bjh/6b1741f8f6551ae2128ab97c0979880c.png)
 
-至此，WSA 安装完成，你可以对它进行基础的 adb 调试。
+至此，WSA 安装完成。它具有最基础的 Android 功能。
+
+## 使用 Android 调试桥 (adb) 调试 WSA
+
+在 WSA 的设置中打开`开发人员模式`，这样你可以对它进行基础的 adb 调试。
+
+![记录下你查看到的 adb 调试链接地址](https://pic.rmb.bdstatic.com/bjh/2ba5bf5fc08a6884e2b9b943a9c220e8.png)
+
+如果你不清楚 Android 调试桥 (adb)，你可以在[这里](https://developer.android.com/studio/command-line/adb)查看更多有关于此的文章。
+
+在这里你可以下载到最新的 [Android 调试桥 (adb) 工具](https://developer.android.com/studio/releases/platform-tools)。
+
+```bash ADB
+# 链接 WSA
+adb connect 127.0.0.1:58526
+# 其中 127.0.0.1:58526 是在 WSA 设置项中看到的 IP
+
+# 安装 APK
+# 连接成功之后，就能用下面命令来安装 APK 了
+adb install C:\path\to\package.apk
+```
