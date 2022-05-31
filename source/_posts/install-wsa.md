@@ -15,15 +15,15 @@ toc: true
 用简单的方式，在计算机上运行 Android 程序。
 <!--more-->
 
-# 使用 GitHub Actions 构建（推荐）
+## 使用 GitHub Actions 构建（推荐）
 
 登录 GitHub，并 Fork [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA)。
 
 并根据 [官方教程](https://github.com/LSPosed/MagiskOnWSA#text-guide) 使用 GitHub Actions 构建最新的 WSA。
 
-# 使用传统方式安装 WSA
+## 使用传统方式安装 WSA
 
-## 下载 WSA
+### 下载 WSA
 
 首先打开 [Microsoft Store - Generation Project](https://store.rg-adguard.net/)，并输入链接。
 
@@ -35,15 +35,15 @@ https://www.microsoft.com/store/productId/9P3395VX91NR
 
 ![你需要下载对应中央处理器架构的安装文件，如 x86_64 下载所示标红的部分](https://pic.rmb.bdstatic.com/bjh/acf0f836407af725fdb9aaa4033810c3.png)
 
-## 安装 WSA 环境
+### 安装 WSA 环境
 
-### 安装 Hyper-V 相关服务
+#### 安装 Hyper-V 相关服务
 
 在 `控制面板 - 程序 - 程序和功能 - 启用或关闭 Windows 功能` 中开启 Hyper-V 相关服务并按照要求重新启动计算机。
 
 ![](https://pic.rmb.bdstatic.com/bjh/4d062340eb08a93a83a72241d6c45005.png)
 
-### 安装 WSA 相关服务
+#### 安装 WSA 相关服务
 
 将几个小包安装好，留下大包。
 
@@ -62,7 +62,7 @@ Add-AppxPackage C:\Path\to\MicrosoftCorporationII.WindowsSubsystemForAndroid_220
 
 至此，WSA 安装完成。它具有最基础的 Android 功能。
 
-## 使用 Android 调试桥 (adb) 调试 WSA
+### 使用 Android 调试桥 (adb) 调试 WSA
 
 在 WSA 的设置中打开`开发人员模式`，这样你可以对它进行基础的 adb 调试。
 
