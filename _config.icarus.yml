@@ -231,9 +231,9 @@ widgets:
             Telegram:
                 icon: fab fa-telegram
                 url: 'https://t.me/Nofated'
-            QQ:
-                icon: fab fa-qq
-                url: 'tencent://message/?uin=2032025551&Menu=yes'
+            # QQ:
+                # icon: fab fa-qq
+                # url: 'tencent://message/?uin=2032025551&Menu=yes'
             Email:
                 icon: fas fa-envelope
                 url: 'mailto:nofated095@outlook.com'
@@ -349,4 +349,4 @@ providers:
     # Name or URL template of the webfont CDN provider
     fontcdn: loli
     # Name or URL of the fontawesome icon font CDN provider
-    iconcdn: 'https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/5.15.2/css/all.css'
+    iconcdn: 'https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/css/all.css'
