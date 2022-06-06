@@ -57,7 +57,7 @@ comment:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://img.cubik65536.top/CubikLogo.png">
+                            <img src="https://www.libravatar.org/avatar/49b770ffa1083c3f9461b2b8e0514be5?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -183,7 +183,7 @@ comment:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://blog.moeworld.tech/wp-content/uploads/2019/07/10_avatar_big_waifu2x_art_noise1_scale_tta_1.png">
+                            <img src="https://www.libravatar.org/avatar/e012f03ca2890fe724a3e9b1030117b3?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -204,7 +204,7 @@ comment:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://fdn.geekzu.org/avatar/9116fc3de8f9a46668beb1a6b7dbcbcd">
+                            <img src="https://www.libravatar.org/avatar/9116fc3de8f9a46668beb1a6b7dbcbcd?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -225,7 +225,7 @@ comment:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://www.littleqiu.net/images/Avatar.png">
+                            <img src="https://www.libravatar.org/avatar/ab0c494c3f7aa6d5767f3fd2579cb389?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -246,7 +246,7 @@ comment:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://open.cdn.feizhuqwq.com/faviconHD.jpg">
+                            <img src="https://www.libravatar.org/avatar/e4214be73f945d41417be4475de05c82?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -288,7 +288,7 @@ comment:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://pic.rmb.bdstatic.com/bjh/b07f042e4d2c02e1a28066daccac036d.png">
+                            <img src="https://www.libravatar.org/avatar/fd5d1b5f38c357ccf6a3f144840b4bf7?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -330,7 +330,7 @@ comment:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://www.nikoblog.top/img/me.jpg">
+                            <img src="https://www.libravatar.org/avatar/8379cb0cdda910c770a4b53d846b711e?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
