@@ -7,21 +7,6 @@ widgets:
 comment:
 ---
 愿我们的友谊，天长地久。
-<!-- 欢迎和本站互换友情链接。要求如下
-
-- 博客内容不得存在违反中华人民共和国，中华人民共和国香港特别行政区和美国加利福尼亚州相关法律的内容
-- 博客服务器位于国内的需要通过备案
-- 文章尽量原创，不得存在过多的广告，最好是技术类博客
-
-``` md 站点信息
-title: Nofated's Blog
-subtitle: May we'll never be together, but forever you are in my heart.
-link: https://blog.nofated.win
-github: https://github.com/Nofated095
-avatar: https://img.9595095.xyz/avatars/-1.png
-```
-
-<-->
 
 <div class="columns is-multiline">
     <div class="column is-half">
@@ -360,3 +345,20 @@ avatar: https://img.9595095.xyz/avatars/-1.png
             </footer>
         </div>
     </div>
+</div>
+
+<!-- 欢迎和本站互换友情链接。要求如下
+
+- 博客内容不得存在违反中华人民共和国，中华人民共和国香港特别行政区和美国加利福尼亚州相关法律的内容
+- 博客服务器位于国内的需要通过备案
+- 文章尽量原创，不得存在过多的广告，最好是技术类博客
+
+``` md 站点信息
+title: Nofated's Blog
+subtitle: May we'll never be together, but forever you are in my heart.
+link: https://blog.nofated.win
+github: https://github.com/Nofated095
+avatar: https://img.9595095.xyz/avatars/-1.png
+```
+
+-->
