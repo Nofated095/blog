@@ -15,7 +15,7 @@ comment:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/c9f5cb9429fc2e629c3498128f640b14?s=256">
+                            <img src="https://www.libravatar.org/avatar/c9f5cb9429fc2e629c3498128f640b14?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -36,7 +36,7 @@ comment:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/1e45107097e38e8813f343834dd63f8e?s=256">
+                            <img src="https://www.libravatar.org/avatar/1e45107097e38e8813f343834dd63f8e?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -78,7 +78,7 @@ comment:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/d3d2c7c7d4bed80a2304b529de55d4a9?s=256">
+                            <img src="https://www.libravatar.org/avatar/d3d2c7c7d4bed80a2304b529de55d4a9?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -120,7 +120,7 @@ comment:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/196abee62a3e3a029238026c0a5369ff?s=256">
+                            <img src="https://www.libravatar.org/avatar/196abee62a3e3a029238026c0a5369ff?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -267,7 +267,7 @@ comment:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/e7247de5dc94382033c4368c136a28a7?s=256">
+                            <img src="https://www.libravatar.org/avatar/e7247de5dc94382033c4368c136a28a7?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
