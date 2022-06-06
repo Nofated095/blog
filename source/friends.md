@@ -15,15 +15,13 @@ comment:
 
 ``` md 站点信息
 title: Nofated's Blog
-subtitle: I hope to be with you everyday.
-link1: https://blog.nofated.win
-link2: https://nofated.win
+subtitle: May we'll never be together, but forever you are in my heart.
+link: https://blog.nofated.win
 github: https://github.com/Nofated095
-avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
+avatar: https://img.9595095.xyz/avatars/-1.png
 ```
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/css/mdui.min.css">
-<script src="https://cdn.jsdelivr.net/npm/mdui@1.0.0/dist/js/mdui.min.js"></script-->
+<-->
 
 <div class="columns is-multiline">
     <div class="column is-half">
@@ -32,7 +30,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://sdn.geekzu.org/avatar/c9f5cb9429fc2e629c3498128f640b14?s=256">
+                            <img src="https://cravatar.cn/avatar/c9f5cb9429fc2e629c3498128f640b14?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -53,7 +51,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://sdn.geekzu.org/avatar/1e45107097e38e8813f343834dd63f8e?s=256">
+                            <img src="https://cravatar.cn/avatar/1e45107097e38e8813f343834dd63f8e?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -95,7 +93,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://sdn.geekzu.org/avatar/d3d2c7c7d4bed80a2304b529de55d4a9?s=256">
+                            <img src="https://cravatar.cn/avatar/d3d2c7c7d4bed80a2304b529de55d4a9?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -137,7 +135,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://sdn.geekzu.org/avatar/196abee62a3e3a029238026c0a5369ff?s=256">
+                            <img src="https://cravatar.cn/avatar/196abee62a3e3a029238026c0a5369ff?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -284,7 +282,7 @@ avatar: https://pic.rmb.bdstatic.com/bjh/020a46e8318d66b55d73afe31805d653.jpeg
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://sdn.geekzu.org/avatar/e7247de5dc94382033c4368c136a28a7?s=256">
+                            <img src="https://cravatar.cn/avatar/e7247de5dc94382033c4368c136a28a7?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
