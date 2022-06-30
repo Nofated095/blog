@@ -1,6 +1,6 @@
 ---
 title: TIS Trinity Union 图片壁纸
-date: 2020-05-15 14:33:53
+date: 2020-05-15
 cover: https://pic.rmb.bdstatic.com/bjh/447cd020c4b832642cd37d8716136cbb.jpeg
 tags:
 - Minecraft

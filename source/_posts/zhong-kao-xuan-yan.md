@@ -3,11 +3,11 @@ title: 2022 中考宣言！
 date: 2022-03-06
 cover: https://pic.rmb.bdstatic.com/bjh/545a4f4eaeb558415d95537bf4d56b8b.png
 tags:
-- 中考
+- 初中
 categories:
 - 日常生活
-- 学习
-- 中考
+- 学业
+- 初中
 toc: true
 ---
 写给自己，也写给大家。

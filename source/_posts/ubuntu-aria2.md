@@ -1,6 +1,6 @@
 ---
 title: Ubuntu 安装 aria2 并配置
-date: 2021-02-27 21:49:11
+date: 2021-02-27
 cover: https://pic.rmb.bdstatic.com/bjh/292af82583715d0ded5a48f96944391e.png
 tags:
 - Ubuntu
