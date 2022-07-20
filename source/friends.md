@@ -82,14 +82,35 @@ comment:
                         </figure>
                     </div>
                     <div class="media-content">
-                        <p class="title is-4">Mashirl</p>
+                        <p class="title is-4">冰凌 Sama</p>
                         <p class="subtitle is-6">予 世界温柔以待 惟愿 时光静好</p>
                     </div>
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/Mashirl" class="card-footer-item">GitHub</a>
-                <a href="https://mashirl.com/" class="card-footer-item">Blog</a>
+                <a href="https://github.com/bingling-sama" class="card-footer-item">GitHub</a>
+                <a href="https://blog.booling.cn/" class="card-footer-item">Blog</a>
+            </footer>
+        </div>
+    </div>
+    <div class="column is-half">
+        <div class="card">
+            <div class="card-content">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-48x48">
+                            <img src="https://www.libravatar.org/avatar/3eee0d09ddccea63d72a986732f62539?s=256">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p class="title is-4">Big_Cake</p>
+                        <p class="subtitle is-6">一个屑初二学生</p>
+                    </div>
+                </div>
+            </div>
+            <footer class="card-footer">
+                <a href="https://github.com/Big-Cake-jpg" class="card-footer-item">GitHub</a>
+                <a href="https://bigcake.cakemc.top" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
