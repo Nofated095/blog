@@ -8,7 +8,7 @@ logo:
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: https://pic.rmb.bdstatic.com/bjh/5734ea6ff12a90bf7cdfaa66f1cfd1cc.png
+    favicon: https://img.9595095.xyz/mc
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
@@ -212,7 +212,7 @@ widgets:
         # Author's current location
         location: Beijing, China
         # URL or path to the avatar image
-        avatar: https://img.9595095.xyz/128
+        avatar: https://img.9595095.xyz/avatar/128
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar
