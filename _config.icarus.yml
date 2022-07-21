@@ -1,5 +1,5 @@
 # Version of the configuration file
-version: 6.0.0
+version: 6.2.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
@@ -240,11 +240,6 @@ widgets:
             RSS:
                 icon: fas fa-rss
                 url: /atom.xml
-    -
-        type: toc
-        position: left
-        # 是否显示目录项目的序号
-        index: true
     -
         position: left
         type: archives
