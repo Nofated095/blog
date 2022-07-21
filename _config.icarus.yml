@@ -212,8 +212,7 @@ widgets:
         # Author's current location
         location: Beijing, China
         # URL or path to the avatar image
-        # avatar: https://img.9595095.xyz/avatars/-1.png
-        avatar: https://www.libravatar.org/gravatarproxy/796943724d362f138d980df111d8077e?s=128
+        avatar: https://img.9595095.xyz/128
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar
