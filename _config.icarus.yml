@@ -249,6 +249,17 @@ widgets:
         # Where should the widget be placed, left sidebar or right sidebar
         position: left
         type: tags
+        # Recommendation links widget configurations
+    -
+        position: left
+        type: links
+        links:
+            Nofated: 'https://nofated/win'
+            OneDrive: 'https://od.nofated.win'
+            LittleSkin: 'https://littleskin.cn'
+            萌ICP备20214514号: 'https://icp.gov.moe/?keyword=20214514'
+            Travelling: 'https://travellings.link/'
+            十年之约: 'https://www.foreverblog.cn/'
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -264,17 +275,6 @@ widgets:
         # Where should the widget be placed, left sidebar or right sidebar
         position: right
         type: recent_posts
-    # Recommendation links widget configurations
-    -
-        position: right
-        type: links
-        links:
-            BMCLAPI: 'http://bmclapidoc.bangbang93.com/'
-            Jenkins of HMCL: 'https://ci.huangyuhui.net/'
-            LittleSkin: 'https://littleskin.cn'
-            萌ICP备20214514号: 'https://icp.gov.moe/?keyword=20214514'
-            Travelling: 'https://travellings.link/'
-            十年之约: 'https://www.foreverblog.cn/'
     # Recent posts widget configurations
     # Tags widget configurations
    
