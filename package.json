@@ -30,6 +30,6 @@
     "hexo-tag-aplayer": "^3.0.4",
     "hexo-theme-icarus": "^5.0.1",
     "inferno": "^8.0.1",
-    "inferno-create-element": "^7.4.7"
+    "inferno-create-element": "^8.0.1"
   }
 }
