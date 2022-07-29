@@ -10,7 +10,7 @@
     "version": "6.2.0"
   },
   "dependencies": {
-    "bulma-stylus": "0.9.1",
+    "bulma-stylus": "0.8.0",
     "hexo": "^6.2.0",
     "hexo-component-inferno": "^1.2.0",
     "hexo-deployer-git": "^3.0.0",
