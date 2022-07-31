@@ -4,7 +4,7 @@ date: 2021-06-20
 cover: https://pic.rmb.bdstatic.com/bjh/278d99b0a2a70ec871c7b539e9a63142.png
 tags:
 - Office
-- Office 2021
+- 下载
 - KMS
 - Windows
 categories:
@@ -69,9 +69,9 @@ KMS 主机有一定可能宕机，这里有一些其他的收集的 KMS 主机
 {% raw %}</div></article>{% endraw %}
 
 ``` html 备用 KMS 主机
+kms.03k.org
 kms.cangshui.net
 kms.moerats.com
-kms.03k.org
 kms.chinancce.com
 kms.lotro.cc
 kms.luody.info
