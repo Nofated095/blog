@@ -369,18 +369,24 @@ comment:
     </div>
 </div>
 
-<!-- 欢迎和本站互换友情链接。要求如下
+欢迎和本站互换友情链接。要求如下
 
 - 博客内容不得存在违反中华人民共和国，中华人民共和国香港特别行政区和美国加利福尼亚州相关法律的内容
 - 博客服务器位于国内的需要通过备案
-- 文章尽量原创，不得存在过多的广告，最好是技术类博客
+- 文章尽量原创
 
-``` md 站点信息
+``` md 我的站点信息
 title: Nofated's Blog
-subtitle: May we'll never be together, but forever you are in my heart.
+slogan: May we will never be together, but forever you are in my heart.
 link: https://blog.nofated.win
-github: https://github.com/Nofated095
-avatar: https://img.9595095.xyz/avatars/-1.png
+avatar: https://img.9595095.xyz/avatar/256
 ```
 
--->
+``` md 你需要提供一下信息
+name: You name, NOT the blog's Name
+slogan: Your Slogan
+github: https://github.com/Microsoft
+type: Blog or Home Page
+link: https://blog.nofated.win
+email: example@example.com (**Need Gravatar**)
+```
