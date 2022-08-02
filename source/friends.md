@@ -388,5 +388,5 @@ slogan: Your Slogan
 github: https://github.com/Microsoft
 type: Blog or Home Page
 link: https://blog.nofated.win
-email: example@example.com (**Need Gravatar**)
+email: example@example.com (NEED Gravatar)
 ```
