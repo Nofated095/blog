@@ -374,14 +374,14 @@ widgets:
 - 博客服务器位于国内的需要通过备案
 - 文章尽量原创
 
-``` md 我的站点信息
+``` yaml 我的站点信息
 title: Nofated's Blog
-slogan: May we will never be together, but forever you are in my heart.
+slogan: Maybe we will never be together, but forever you are in my heart.
 link: https://blog.nofated.win
 avatar: https://img.9595095.xyz/avatar/256
 ```
 
-``` md 你需要提供一下信息
+``` yaml 你需要提供一下信息
 name: You name, NOT the blog's Name
 slogan: Your Slogan
 github: https://github.com/Microsoft
