@@ -69,7 +69,7 @@ window.onload=function(){
 ### 安装 Ubuntu
 
 ![先不要开机，点击小三角并选择「打开电源时进入固件」](https://pic.rmb.bdstatic.com/bjh/227eaf1427d525c1109ff20381ca4a32.png)
-![将光驱调到硬盘之前，并F10保存退出](https://pic.rmb.bdstatic.com/bjh/b0aaca023b8267c257355aa33d973bba.png)
+![将光驱调到硬盘之前，并 F10 保存退出](https://pic.rmb.bdstatic.com/bjh/b0aaca023b8267c257355aa33d973bba.png)
 在安装界面选择「试用 Ubuntu」
 
 ![进入 LiveCD 后先点击右上角，选择「系统设置」，然后点击「显示」，把分辨率调整到一个合适的大小，否则因为安装时你八成不会看到完整的分区界面](https://pic.rmb.bdstatic.com/bjh/19e9bdac7e4beb9e2e33e852d29c4ff4.png)
@@ -82,6 +82,11 @@ window.onload=function(){
 如果你确定你做好了分区，那么就点击「现在安装」进行下一步的配置。一般来说也是一路 Next 下去，设置一下个人信息就好了。如果确认设置无误，可以正式开始安装。因为 U 盘的读写性能比较低而且虚拟机有性能损耗，安装过程会比较长，不过一般都会在一个小时内结束。（所以建议拿读写速度快的硬盘安装）
 ![](https://pic.rmb.bdstatic.com/bjh/1351ecb335ec23b88b71797611c633af.png)
 ![安装完成后点击继续试用然后点击右上角关机](https://pic.rmb.bdstatic.com/bjh/11017f89f5246b1cc14eb2cc21d67f39.png)
+
+对于 `21.04` 及以上版本的 Ubuntu，你已经完成了安装，此时可以拔下 U 盘启动到 Ubuntu To Go，但对于 `21.04` 以下的版本，请参照下面的内容继续安装 `grub-efi`。
+
+### 安装 grub-efi
+
 ![关机后打开虚拟机设置，将「选项」/「高级」设置项中的「固件类型」选择「UEFI」，然后点击「确定」](https://pic.rmb.bdstatic.com/bjh/6a25900f15bc86dbbf74948d4d38d5d3.png)
 ![重新开启虚拟机，点击「Enter」](https://pic.rmb.bdstatic.com/bjh/1cee303d98eed696ec54d6ae22a79257.png)
 
