@@ -4,7 +4,7 @@
 
 # Site
 title: Nofated's Blog
-subtitle: 'May we will never be together, but forever you are in my heart.'
+subtitle: 'Maybe we will never be together, but forever you are in my heart.'
 description: 'Nofated Blog'
 keywords: Nofated, Nofated095, nof, nof095, NofatedBlog, Blog
 author: Nofated
@@ -104,13 +104,6 @@ feed:
   path: atom.xml
   limit: 20
 theme: icarus
-
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-- type: git
-  repo:
-    github: git@github.com:Nofated095/nofated095.github.io.git,master
 
 aplayer:
   meting: true
