@@ -125,7 +125,7 @@ widgets:
                     </div>
                     <div class="media-content">
                         <p class="title is-4">Big_Cake</p>
-                        <p class="subtitle is-6">一个屑初二学生</p>
+                        <p class="subtitle is-6">一个屑初三学生</p>
                     </div>
                 </div>
             </div>
@@ -381,11 +381,11 @@ link: https://blog.nofated.win
 avatar: https://img.9595095.xyz/avatar/256
 ```
 
-``` yaml 你需要提供一下信息
+``` yaml 你需要提供以下信息
 name: You name, NOT the blog's Name
 slogan: Your Slogan
 github: https://github.com/Microsoft
 type: Blog or Home Page
 link: https://blog.nofated.win
-email: example@example.com (NEED Gravatar)
+email: example@example.com (NEED Gravatar 否则不受理)
 ```
