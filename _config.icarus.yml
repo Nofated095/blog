@@ -346,9 +346,9 @@ plugins:
 # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:
     # Name or URL template of the JavaScript and/or stylesheet CDN provider
-    cdn: '[cdnjs]https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/${package}/${version}/${filename}'
+    cdn: '[cdnjs]https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/${package}/${version}/${filename}'
     # cdn: cdnjs
     # Name or URL template of the webfont CDN provider
     fontcdn: loli
     # Name or URL of the fontawesome icon font CDN provider
-    iconcdn: 'https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/css/all.css'
+    iconcdn: 'https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/css/all.css'
