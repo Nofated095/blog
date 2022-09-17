@@ -82,6 +82,8 @@ isTop: false
    - Chinatown Wars
    - IV
    - V
+- Yuzu Soft
+   - Senren Banka
 - ネコぱら
    - Vol.1
    - Vol.2
