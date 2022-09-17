@@ -104,7 +104,6 @@ navbar:
         归档: /archives
         友链: /friends.html
         关于: /about.html
-        开往: https://travellings.link/
 # Page footer configurations
 footer:
     # Links to be shown on the right of the footer section
@@ -225,15 +224,12 @@ widgets:
             Github:
                 icon: fab fa-github
                 url: 'https://github.com/Nofated095'
-            # Twitter:
-            #   icon: fab fa-twitter
-            #   url: 'https://twitter.com/nofated095'
+            Twitter:
+                icon: fab fa-twitter
+                url: 'https://twitter.com/nofated095'
             Telegram:
                 icon: fab fa-telegram
                 url: 'https://t.me/Nofated'
-            # QQ:
-                # icon: fab fa-qq
-                # url: 'tencent://message/?uin=2032025551&Menu=yes'
             Email:
                 icon: fas fa-envelope
                 url: 'mailto:me@nofated.win'
@@ -261,7 +257,7 @@ widgets:
             095 Pages Archive: 'https://9595095.xyz'
             LittleSkin: 'https://littleskin.cn'
             萌ICP备20214514号: 'https://icp.gov.moe/?keyword=20214514'
-            Travelling: 'https://travellings.link/'
+            Travelling: 'https://travellings.cn/'
             十年之约: 'https://www.foreverblog.cn/'
     # Table of contents widget configurations
     -
