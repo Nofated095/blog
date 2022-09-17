@@ -5,7 +5,7 @@ date: 2020-10-01
 donates:
 widgets:
 ---
-<center><a href="https://www.foreverblog.cn/" target="_blank" > <img src="https://img.foreverblog.cn/logo_en_default.png" alt="" style="width:auto;height:16px;"> </a><a href="https://travellings.link/" target="_blank" > <img src="https://camo.githubusercontent.com/e085f6210eff28ada41a2274003082167c32defe04337f59db02ee06fe484099/68747470733a2f2f74726176656c6c696e67732e6c696e6b2f6173736574732f6c6f676f2e676966" alt="" style="width:auto;height:16px;"> </a></center>
+<center><a href="https://www.foreverblog.cn/" target="_blank" > <img src="https://img.foreverblog.cn/logo_en_default.png" alt="" style="width:auto;height:16px;"> </a><a href="https://travellings.cn/" target="_blank" > <img src="https://camo.githubusercontent.com/e085f6210eff28ada41a2274003082167c32defe04337f59db02ee06fe484099/68747470733a2f2f74726176656c6c696e67732e6c696e6b2f6173736574732f6c6f676f2e676966" alt="" style="width:auto;height:16px;"> </a></center>
 
 愿我们的友谊，天长地久。
 <div class="columns is-multiline">
