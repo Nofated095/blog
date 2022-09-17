@@ -10,7 +10,8 @@ categories:
 - 野生技术协会
 toc: true
 ---
-云端跑构建，改完就跑路（
+使用 Vercel 来构建最新最热的 VuePress 2.0！
+把任务交给 CI，解放你的双手！
 <!--more-->
 
 ## 使用 vuepress-examples 来构建（推荐）
@@ -96,10 +97,6 @@ export default defineUserConfig<DefaultThemeOptions>({
 如上是一个比较基本的自定义配置，确实很基础，你可以在[官方文档](https://v2.VuePress.vuejs.org/zh/reference/default-theme/config.html)查看更多。
 
 ### 一些 VuePress 实例
-
-[Nofated095/docs](https://github.com/Nofated095/docs)
-
-其文件目录和下面类似
 
 ```
 ├─ docs
