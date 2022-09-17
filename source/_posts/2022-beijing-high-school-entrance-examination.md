@@ -18,9 +18,7 @@ toc: true
 
 ### 模式
 
-[北京教育考试院 - 中考中招](https://www.bjeea.cn/html/zkzh/jhcx/2022/0626/82097.html)
-
-[****2022年中招计划说明****](https://www.notion.so/2022-23125191382f474ab4cea4fb3fe0d339)
+[北京教育考试院 - 中考中招](https://www.bjeea.cn/html/zkzh/jhcx/2022/0626/82097.html) / [归档页面](https://od.nofated.win/Others/Archive/北京教育考试院.pdf)
 
 用言简意赅的话提炼一下，主要点就 3 个。
 
