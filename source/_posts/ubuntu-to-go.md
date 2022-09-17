@@ -98,7 +98,7 @@ sudo -s
 ``` bash 查看分区
 fdisk -l
 ```
-![如图，`/dev/sda1` 是格式为 FAT32 的 EFI 分区，`/dev/sda2` 是格式为 EXT4 的根分区](https://pic.rmb.bdstatic.com/bjh/049248ea48ab78f64d727a74b970a616.png)
+![如图，/dev/sda1 是格式为 FAT32 的 EFI 分区，/dev/sda2 是格式为 EXT4 的根分区](https://pic.rmb.bdstatic.com/bjh/049248ea48ab78f64d727a74b970a616.png)
 ``` bash 挂载分区
 mount /dev/sda2 /mnt
 mount /dev/sda1 /mnt/boot/efi
@@ -110,7 +110,7 @@ mount --options bind /run /mnt/run
 # mount /dev/sda3 /mnt/home
 ```
 {% raw %}<div class="notification is-danger">{% endraw %}
-可能你和我的分区存在差异，只要将 sda1 或 sda2 更换成你现实的就好了。在挂载时要先挂载根分区再挂载 EFI 分区
+可能你和我的分区存在差异，只要将 sda1 或 sda2 更换成你的实际情况就好。在挂载时要先挂载根分区再挂载 EFI 分区
 {% raw %}</div>{% endraw %}
 
 ``` bash 进入 Chroot 环境
