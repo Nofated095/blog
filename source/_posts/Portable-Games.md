@@ -87,7 +87,7 @@ window.onload=function(){
 {% raw %}<article class="message is-danger"><div class="message-header">{% endraw %}
 如果你想玩 Minecraft 1.17 及以上的更高版本...
 {% raw %}</div><div class="message-body">{% endraw %}
-Java版1.17 修改了游戏运行库，需要 Java 16 及以上的更高版本，所以你还需要去 Bellsoft 官网下载 Java 17。
+Java 版 1.17 修改了游戏运行库，需要 Java 16 及以上的更高版本，所以你还需要去 Bellsoft 官网下载 Java 17。
 
 ![](https://pic.rmb.bdstatic.com/bjh/f2e9a9f8f01a527fa3b2214db66f91aa.png)
 
