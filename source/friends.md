@@ -376,7 +376,7 @@ widgets:
 
 ``` yaml 我的站点信息
 title: Nofated's Blog
-slogan: Maybe we will never be together, but forever you are in my heart.
+slogan: Maybe we will never be together, but forever you will be in my heart.
 link: https://blog.nofated.win
 avatar: https://img.9595095.xyz/avatar/256
 ```
