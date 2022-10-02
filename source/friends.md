@@ -366,6 +366,27 @@ widgets:
             </footer>
         </div>
     </div>
+    <div class="column is-half">
+        <div class="card">
+            <div class="card-content">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-48x48">
+                            <img src="https://q1.qlogo.cn/g?b=qq&nk=3327223191&s=100">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p class="title is-4">Niute Fony</p>
+                        <p class="subtitle is-6">一个屑初三生的博客~</p>
+                    </div>
+                </div>
+            </div>
+            <footer class="card-footer">
+                <a href="https://github.com/NiuFuyu855" class="card-footer-item">GitHub</a>
+                <a href="https://off.cx/" class="card-footer-item">Blog</a>
+            </footer>
+        </div>
+    </div>
 </div>
 
 欢迎和本站互换友情链接。要求如下
@@ -387,5 +408,5 @@ slogan: Your Slogan
 github: https://github.com/Nofated095
 type: Blog or Home Page
 link: https://blog.nofated.win
-email: example@example.com (NEED Gravatar 否则不受理)
+MD5: {32 位小写}（要求支持 Gravatar）
 ```
