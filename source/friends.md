@@ -404,7 +404,7 @@ widgets:
             </div>
             <footer class="card-footer">
                 <a href="https://github.com/XieXiLin3" class="card-footer-item">GitHub</a>
-                <a href="https://www.xiexilin.cn/ class="card-footer-item">Home Page</a>
+                <a href="https://www.xiexilin.cn/" class="card-footer-item">Home Page</a>
             </footer>
         </div>
     </div>
