@@ -346,6 +346,6 @@ providers:
     cdn: '[cdnjs]https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/${package}/${version}/${filename}'
     # cdn: cdnjs
     # Name or URL template of the webfont CDN provider
-    fontcdn: 'https://fonts.font.im/${type}?family=${fontname}'
+    fontcdn: googleapi
     # Name or URL of the fontawesome icon font CDN provider
     iconcdn: 'https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/css/all.css'
