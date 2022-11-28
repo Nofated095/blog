@@ -1,6 +1,6 @@
 ---
 title: 关于
-cover: https://bing.9595095.xyz
+cover: https://littleskin.cn/background.jpg
 date: 2020-10-01
 donates:
 widgets:
