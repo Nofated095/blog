@@ -6,7 +6,7 @@ tags:
 - Windows
 - 下载
 categories:
-- 写BUG日常
+- 写 BUG 日常
 - 资源
 toc: true
 ---

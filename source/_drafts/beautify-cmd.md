@@ -1,10 +1,9 @@
 ---
-title: 新年快乐！
-date: 2022-01-31
-cover: https://pic.rmb.bdstatic.com/bjh/4156538a3bac97884af904d5c47bd690.png
+title: 美化 Windows CMD 命令提示符
+date: 2022-11-30
+# cover: https://pic.rmb.bdstatic.com/bjh/4156538a3bac97884af904d5c47bd690.png
 tags:
-- 总结
-- 2022
+- Windows
 categories:
 - 日常生活
 - 总结

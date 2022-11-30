@@ -7,7 +7,7 @@ tags:
 - 下载
 - Minecraft
 categories:
-- [写BUG日常, 野生技术协会]
+- [写 BUG 日常, 野生技术协会]
 - [日常生活, 游戏, Minecraft]
 toc: true
 ---

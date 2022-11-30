@@ -6,7 +6,7 @@ tags:
 - Hexo
 - Bulma
 categories:
-- 写BUG日常
+- 写 BUG 日常
 - 野生技术协会
 ---
 怎么让自己光秃秃的 MarkDown 文章变得更好看呢？

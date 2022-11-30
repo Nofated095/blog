@@ -5,7 +5,7 @@ cover: https://pic.rmb.bdstatic.com/bjh/da66dc778eb58ee35adc1de5c5bdd323.png
 tags:
 - Outlook
 categories:
-- 写BUG日常
+- 写 BUG 日常
 - 野生技术协会
 toc: true
 ---

@@ -6,7 +6,7 @@ tags:
 - Gridea
 - 博客
 categories:
-- 写BUG日常
+- 写 BUG 日常
 - 野生技术协会
 ---
 Gridea 是一款很好用的博客写作软件。它功能全面但可惜部署不支持国内的 Gitee 代码储存仓库。本篇文章将对 Gridea 进行源码上的修改使其支持 Gitee Pages。

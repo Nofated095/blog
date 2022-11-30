@@ -7,7 +7,7 @@ tags:
 - Icarus
 - Vercel
 categories:
-- 写BUG日常
+- 写 BUG 日常
 - 野生技术协会
 ---
 怎么才能让博客加载速度更快呢（呆

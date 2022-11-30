@@ -7,7 +7,7 @@ tags:
 - aria2
 - 下载
 categories:
-- 写BUG日常
+- 写 BUG 日常
 - 野生技术协会
 toc: true
 ---

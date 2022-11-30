@@ -5,7 +5,7 @@ cover: https://pic.rmb.bdstatic.com/bjh/3ad3d9ea33e6bb9f1eed21d1edc3e532.png
 tags:
 - Android
 categories:
-- 写BUG日常
+- 写 BUG 日常
 - 资源
 ---
 让你的手机腾出更多空间给享受和回忆。
