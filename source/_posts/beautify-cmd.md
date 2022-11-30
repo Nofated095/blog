@@ -1,5 +1,5 @@
 ---
-title: 美化 Windows CMD 命令提示符
+title: 修改 Windows CMD 命令提示符字体
 date: 2022-11-30
 cover: https://pic8.58cdn.com.cn/nowater/webim/big/n_v2947ea235a358482a97ac2cad1e1a990e.png
 tags:
