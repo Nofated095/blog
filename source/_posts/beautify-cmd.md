@@ -24,13 +24,13 @@ categories:
 
 首先下载 [`Microsoft Yahei Mono`](https://github.com/Microsoft/BashOnWindows/files/1362006/Microsoft.YaHei.Mono.zip) 字体，字体源自开源的 WSL。
 
-下载完成后，解压并安装其中的字体。此时再打开命令提示符，在「属性 > 字体」中即可选中并使用，建议将字体大小调高到 18.
+下载完成后，解压并安装其中的字体。此时再打开命令提示符，在「属性 > 字体」中即可选中并使用，建议将字体大小调高到 18。
 
 ![](https://pic5.58cdn.com.cn/nowater/webim/big/n_v26c4546b7fa014f4bb32dc70f6da6e550.png)
 
 ### 永久修改
 
-打开注册表编辑器，在 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont` 中编辑 `936` 字符串，将数值数据修改为 `*Microsoft YaHei Mono` 并保存
+打开注册表编辑器，在 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont` 中编辑 `936` 字符串，将数值数据修改为 `*Microsoft YaHei Mono` 并保存。
 
 ![](https://pic5.58cdn.com.cn/nowater/webim/big/n_v283dd8142946c45b387fb6f8a35c9faef.png)
 
