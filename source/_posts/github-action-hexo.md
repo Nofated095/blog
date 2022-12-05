@@ -45,8 +45,8 @@ ssh-keygen -t rsa -f github-deploy-key
 
 打开 blog 仓库，打开 Actions 并创建一个新的 Action，将内容修改为你的值并复制到 Actions 中。
 
-``` bash Action>folded
-name: CI
+``` yaml deploy.yml >folded
+name: Deploy
 
 on:
   push:
