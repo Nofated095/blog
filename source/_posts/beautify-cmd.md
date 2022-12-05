@@ -1,7 +1,7 @@
 ---
 title: 修改 Windows CMD 命令提示符字体
 date: 2022-11-30
-cover: http://imgsrc.baidu.com/super/pic/item/8c1001e93901213f0488071f11e736d12e2e95be.jpg
+cover: https://imgsrc.baidu.com/super/pic/item/8c1001e93901213f0488071f11e736d12e2e95be.jpg
 tags:
 - Windows
 categories:
@@ -32,6 +32,6 @@ categories:
 
 打开注册表编辑器，在 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont` 中编辑 `936` 字符串，将数值数据修改为 `*Microsoft YaHei Mono` 并保存。
 
-![](http://imgsrc.baidu.com/super/pic/item/5fdf8db1cb134954d6b0a1a7134e9258d0094a43.jpg)
+![](https://imgsrc.baidu.com/super/pic/item/5fdf8db1cb134954d6b0a1a7134e9258d0094a43.jpg)
 
 至此便完成了修改。再次打开命令提示符和 Windows PowerShell，在计算机的任何环境中便都是 `*Microsoft YaHei Mono` 字体。
