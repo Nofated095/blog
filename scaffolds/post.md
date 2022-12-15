@@ -4,6 +4,7 @@ date: {{ date }}
 cover:
 tags:
 categories:
+toc: true
 ---
 
 <!--more-->
