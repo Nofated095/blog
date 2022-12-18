@@ -167,7 +167,7 @@ widgets:
                     </div>
                     <div class="media-content">
                         <p class="title is-4">逆风</p>
-                        <p class="subtitle is-6">一个00后高中生</p>
+                        <p class="subtitle is-6">一个 00 后的个人博客</p>
                     </div>
                 </div>
             </div>
