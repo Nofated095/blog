@@ -11,10 +11,10 @@ toc: true
 ---
 不拘泥于传统 Outlook，申请一个与众不同的 Outlook.it/Outlook.ie/Outlook.fr 邮箱。
 <!--more-->
-可能你见惯了类似于 abc@outlook.com 的邮箱地址，都是千篇一律的 outlook.com 结尾，但是你看见过类似 abc@outlook.it, abc@outlook.ie 以地区域名为结尾的邮箱吗？现在微软官网开放注册特殊域名的邮箱可以申请注册。
+可能你见惯了类似于 `abc@outlook.com` 的邮箱地址，都是千篇一律的 `outlook.com` 结尾，但是你看见过类似 `abc@outlook.it`, `abc@outlook.ie` 以地区域名为结尾的邮箱吗？现在微软官网开放注册特殊域名的邮箱可以申请注册。
 
 {% raw %}<article class="message is-danger"><div class="message-body">{% endraw %}
-据说之前在早期注册时可以注册到超短前缀的邮箱如 nb@outlook.ie 但是现在注册提示无法注册
+此方法可以注册到超短前缀的邮箱如 `nb@outlook.ie` 但是现在注册大部分二位和三位的前缀都已经注册完了。
 {% raw %}</div></article>{% endraw %}
 
 ## 申请链接
@@ -54,7 +54,7 @@ toc: true
 
 ## 申请邮箱
 
-以 outlook.ie 为例，打开对应的申请地址，点击 Get a new email address。输入你想要的前缀。并录入你的信息和密码（请务必确认你的密码输入正确，不然根本找不回来），会有一个认证。
+以 `outlook.ie` 为例，打开对应的申请地址，点击 Get a new email address。输入你想要的前缀。并录入你的信息和密码（请务必确认你的密码输入正确，不然根本找不回来），会有一个认证。
 ![认证人机](https://pic.rmb.bdstatic.com/bjh/172377eab3608c65fd87290078938c88.png)
 一般这种只需要点击3-5次即可完成。
 ![](https://pic.rmb.bdstatic.com/bjh/3dc1afd7db7f39142a481b415b537deb.png)
