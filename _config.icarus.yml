@@ -1,7 +1,7 @@
 # Version of the configuration file
 version: 6.2.0
 # Icarus theme variant, can be "default" or "cyberpunk"
-variant: default
+variant: cyberpunk
 # Path or URL to the website's logo
 logo: 
     text: Nofated's Blog
@@ -232,7 +232,7 @@ widgets:
                 url: 'https://t.me/Nofated'
             Email:
                 icon: fas fa-envelope
-                url: 'mailto:me@nofated.win'
+                url: 'mailto:i@nofated.win'
             RSS:
                 icon: fas fa-rss
                 url: /atom.xml
@@ -253,8 +253,6 @@ widgets:
         links:
             Nofated: 'https://nofated.win'
             OneDrive: 'https://od.nofated.win'
-            EdgeLight: 'https://edgelight.nofated.win'
-            095 Pages Archive: 'https://9595095.xyz'
             LittleSkin: 'https://littleskin.cn'
             萌ICP备20214514号: 'https://icp.gov.moe/?keyword=20214514'
             Travelling: 'https://travellings.cn/'
@@ -344,7 +342,6 @@ plugins:
 providers:
     # Name or URL template of the JavaScript and/or stylesheet CDN provider
     cdn: '[cdnjs]https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/${package}/${version}/${filename}'
-    # cdn: cdnjs
     # Name or URL template of the webfont CDN provider
     fontcdn: 'https://fonts.googlefonts.cn/${type}?family=${fontname}'
     # Name or URL of the fontawesome icon font CDN provider
