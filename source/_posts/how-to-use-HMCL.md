@@ -55,7 +55,7 @@ toc: true
 
 ![点击「离线模式」并输入你的游戏ID，点击「登录」](https://pic.rmb.bdstatic.com/bjh/429b5dd14adcb75b7dccb022bc125d90.png)
 
-离线模式在不安装任何 Mod 时在本地游戏中是会显示默认的 Steve 或 Alex 皮肤的。但也可以使用 `CustomSkinLoader` 来加载，你可以在 [MCBBS 原帖](https://www.mcbbs.net/thread-269807-1-1.html)中查看如何配置。当然你也可以点击「上传皮肤」来更换皮肤，但是不建议在 HMCL 中这样操作。
+离线模式在不安装任何 Mod 时在本地游戏中是会显示默认的 Steve 或 Alex 皮肤的。但也可以使用 `CustomSkinLoader` 来加载，你可以在 [MCBBS 原帖](https://www.mcbbs.net/thread-269807-1-1.html) 中查看如何配置。当然你也可以点击「上传皮肤」来更换皮肤，但是不建议在 HMCL 中这样操作。
 
 ### Mojang 账户
 

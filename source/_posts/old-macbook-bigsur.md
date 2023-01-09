@@ -3,8 +3,7 @@ title: 折腾你的老 Mac | 给不支持的 Mac 安装 Big Sur
 date: 2021-06-08
 cover: https://pic.rmb.bdstatic.com/bjh/8122bfd5ae9ef6ed4adbeac8c51d696f.jpeg
 tags:
-- Mac
-- Big Sur
+- macOS
 categories:
 - 写 BUG 日常
 - 野生技术协会

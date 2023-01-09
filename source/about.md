@@ -18,11 +18,11 @@ comment:
 
 博客使用字节跳动静态资源公共库中的部分静态资源作为 cdn。
 
-博客已进行[萌国 ICP ](https://icp.gov.moe/)备案，萌备案号是[萌 ICP 备 20214514 号](https://icp.gov.moe/?keyword=20214514)。
+博客已进行 [萌国 ICP ](https://icp.gov.moe/)备案，萌备案号是 [萌 ICP 备 20214514 号](https://icp.gov.moe/?keyword=20214514)。
 
-博客已签约[十年之约](https://www.foreverblog.cn/)，可以在[这里](https://www.foreverblog.cn/blog/2712.html)查看详情。按照约定，博客会开十年之久。
+博客已签约 [十年之约](https://www.foreverblog.cn/)，可以在 [这里](https://www.foreverblog.cn/blog/2712.html) 查看详情。按照约定，博客会开十年之久。
 
-博客是[开往-友链接力](https://github.com/travellings-link/travellings)的成员站点，非常支持优秀的站点之间互相来往联系。
+博客是 [开往-友链接力](https://github.com/travellings-link/travellings) 的成员站点，非常支持优秀的站点之间互相来往联系。
 
 ### 最早的一篇文章
 ``` markdown guo-chan-cao-zuo-xi-tong-deepin-shi-wan.md

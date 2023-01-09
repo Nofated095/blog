@@ -24,7 +24,7 @@ toc: true
 
 登录你的 GitHub Account。创建两个仓库，一个是 `blog`，用来储存博客源文件，另外一个是 `username.github.io` 用来存放部署的 HTML 文件。
 
-将你的博客源文件 push 到仓库中（不会用 Hexo 的可以参考[官方文档](https://hexo.io/zh-cn/docs/index.html)）。在推送前检查以下项目
+将你的博客源文件 push 到仓库中（不会用 Hexo 的可以参考 [官方文档](https://hexo.io/zh-cn/docs/index.html)）。在推送前检查以下项目
 
 - _config.yml
    - 在 deploy 项中填写了 GitHub Pages 仓库地址（即 `username.github.io`），并且注意必须使用 ssh 的连接方式即 git@github:username/username.github.io.git，并且不能出现其他代码储存库如 Gitee 和 Coding。

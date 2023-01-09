@@ -2,7 +2,7 @@
 title: 构建 VuePress 2.0.0 并部署到 Vercel
 date: 2022-01-31
 #cover: https://pic.rmb.bdstatic.com/bjh/0bcca2ae4fb6934fb9390def048d4740.png
-cover: https://pic1.58cdn.com.cn/nowater/webim/big/n_v26f90263d006e4bf0bffbf47c638ffa4a.png
+cover: https://imgsrc.baidu.com/super/pic/item/359b033b5bb5c9eae33d2a269039b6003bf3b32d.jpg
 tags:
 - VuePress
 - Vercel

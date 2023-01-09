@@ -1,5 +1,5 @@
 ---
-title: B站外嵌视频播放器防踩坑
+title: B 站外嵌视频播放器防踩坑
 date: 2020-09-21
 cover: https://pic.rmb.bdstatic.com/bjh/c6d5d344aef87ec4511ff2521dd304bd.jpeg
 tags:
@@ -10,7 +10,7 @@ categories:
 - 野生技术协会
 toc: true
 ---
-B站有一个神奇的`嵌入代码`的功能，但是这个功能不经过我们加工后直接放出来很丑。问了问度娘并简单研究了一下，我把我遇到的一些问题和解决方法贴出来。
+B站有一个神奇的**嵌入代码**的功能，但是这个功能不经过我们加工后直接放出来很丑。问了问度娘并简单研究了一下，我把我遇到的一些问题和解决方法贴出来。
 <!--more-->
 {% raw %}<article class="message is-success"><div class="message-body">{% endraw %}
 我们拿 [BV1PC4y1t77X](https://www.bilibili.com/video/BV1PC4y1t77X) 这个视频来进行测试。
@@ -79,4 +79,4 @@ B站有一个神奇的`嵌入代码`的功能，但是这个功能不经过我�
 </div>
 ```
 
-但是目前由于播放器改版，上面的“去bilibili观看”去不掉。
+但是目前由于播放器改版，上面的 **去bilibili观看** 去不掉。
