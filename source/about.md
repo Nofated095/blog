@@ -85,15 +85,16 @@ isTop: false
 - Yuzu Soft
    - Senren Banka
 - ネコぱら
-   - Vol.1
-   - Vol.2
-   - Vol.3
-   - Vol.4
+   - Vol. 0
+   - Vol. 1
+   - Vol. 2
+   - Vol. 3
+   - Vol. 4
+   - Extra
 - Doki Doki Literature Club
 - Phigros
 - Cytus II
 - OpenTTD
-- Oxygen Not Included
 
 ### 番剧
 

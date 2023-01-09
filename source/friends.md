@@ -15,7 +15,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/c9f5cb9429fc2e629c3498128f640b14?s=256">
+                            <img src="https://www.libravatar.org/avatar/c9f5cb9429fc2e629c3498128f640b14?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -36,7 +36,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/1e45107097e38e8813f343834dd63f8e?s=256">
+                            <img src="https://www.libravatar.org/avatar/1e45107097e38e8813f343834dd63f8e?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -57,7 +57,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/49b770ffa1083c3f9461b2b8e0514be5?s=256">
+                            <img src="https://www.libravatar.org/avatar/49b770ffa1083c3f9461b2b8e0514be5?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -78,7 +78,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/d3d2c7c7d4bed80a2304b529de55d4a9?s=256">
+                            <img src="https://www.libravatar.org/avatar/d3d2c7c7d4bed80a2304b529de55d4a9?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -99,7 +99,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/3eee0d09ddccea63d72a986732f62539?s=256">
+                            <img src="https://www.libravatar.org/avatar/3eee0d09ddccea63d72a986732f62539?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -141,7 +141,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/196abee62a3e3a029238026c0a5369ff?s=256">
+                            <img src="https://www.libravatar.org/avatar/196abee62a3e3a029238026c0a5369ff?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -183,7 +183,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/ad7ded0769418df3d9ab71edeb94820c?s=256">
+                            <img src="https://www.libravatar.org/avatar/ad7ded0769418df3d9ab71edeb94820c?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -225,7 +225,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/e012f03ca2890fe724a3e9b1030117b3?s=256">
+                            <img src="https://www.libravatar.org/avatar/e012f03ca2890fe724a3e9b1030117b3?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -246,7 +246,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/9116fc3de8f9a46668beb1a6b7dbcbcd?s=256">
+                            <img src="https://www.libravatar.org/avatar/9116fc3de8f9a46668beb1a6b7dbcbcd?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -267,7 +267,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/ab0c494c3f7aa6d5767f3fd2579cb389?s=256">
+                            <img src="https://www.libravatar.org/avatar/ab0c494c3f7aa6d5767f3fd2579cb389?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -288,7 +288,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/e4214be73f945d41417be4475de05c82?s=256">
+                            <img src="https://www.libravatar.org/avatar/e4214be73f945d41417be4475de05c82?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -309,7 +309,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/e7247de5dc94382033c4368c136a28a7?s=256">
+                            <img src="https://www.libravatar.org/avatar/e7247de5dc94382033c4368c136a28a7?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -330,7 +330,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/fd5d1b5f38c357ccf6a3f144840b4bf7?s=256">
+                            <img src="https://www.libravatar.org/avatar/fd5d1b5f38c357ccf6a3f144840b4bf7?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -372,7 +372,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/8379cb0cdda910c770a4b53d846b711e?s=256">
+                            <img src="https://www.libravatar.org/avatar/8379cb0cdda910c770a4b53d846b711e?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -414,7 +414,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cravatar.cn/avatar/4a582040fd6563802b7c80c449a5ff7d?s=256">
+                            <img src="https://www.libravatar.org/avatar/4a582040fd6563802b7c80c449a5ff7d?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
