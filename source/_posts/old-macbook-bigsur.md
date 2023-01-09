@@ -41,9 +41,7 @@ window.onload=function(){
 
 ## Big Sur 下载
 
-<https://www.applex.net/threads/macos-big-sur-11-4-dmg.94267/>
-
->感谢该网站的分享。从注册到下载全部免费并且不需要任何什么公众号等。可以直接直链下载。
+<https://shuiyunxc.github.io/2021/08/12/20G95/index/>
 
 ## 创建启动U盘
 
