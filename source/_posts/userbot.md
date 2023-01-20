@@ -1,7 +1,7 @@
 ---
 title: 我是怎么把 User Bot 从 Q2TG 里面扬了的
 date: 2023-01-20
-# cover: https://pic.rmb.bdstatic.com/bjh/060df44eb7a12a6ae2fcd8f2ebcdbb3e.png
+cover: https://imgsrc.baidu.com/super/pic/item/c8177f3e6709c93db0cd8232da3df8dcd100543c.jpg
 tags:
 - Telegram
 categories:
@@ -9,7 +9,7 @@ categories:
 - 野生技术协会
 toc: true
 ---
-我们真的需要一个 Telegram User Bot 吗？
+记一次修改 Q2TG 源码使 Telegram 和 QQ 消息同步机器人去 User Bot 化的过程。
 <!--more-->
 
 ## 引言
@@ -223,3 +223,19 @@ export default class SetupController {
 你可以在 [这里](https://github.com/Clansty/Q2TG/compare/rainbowcat...Nofated095:Q2TG:rainbowcat?expand=1) 找到我对 Q2TG 所有的修改。
 
 ## 功能测试
+
+在构建 Image 完成后，我激动地~~关掉了 `v1` 的 Container~~在服务器上拉取并部署。
+
+![部署过程](https://imgsrc.baidu.com/super/pic/item/b58f8c5494eef01fa2599500a5fe9925bd317da2.jpg)
+
+![正常工作的瞬间](https://imgsrc.baidu.com/super/pic/item/4e4a20a4462309f7af2920d7370e0cf3d6cad6b5.jpg)
+
+~~真是感动到让人落泪~~。
+
+![文件转发](https://imgsrc.baidu.com/super/pic/item/2cf5e0fe9925bc31c1e08c5d1bdf8db1ca1370b2.jpg)
+
+## 后记
+
+这篇文章写于部署成功后的几天。经过了几天的功能测试，除了机器人无法检测 *Telegram* 删除的消息，需要用户对发出的消息编辑或回复 `/rm` 才能删除和撤回消息，但整体来看功能都是正常可以使用的，而且完全去除了 User Bot。
+
+需要注意的是，去除了 User Bot 后，个人模式几乎无法工作。更多关于去 User Bot 的 Q2TG 项目的内容（包括部署方法、注意事项等）请查看 [Nofated095/Q2TG](https://github.com/Nofated095/Q2TG)。
