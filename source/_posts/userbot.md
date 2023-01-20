@@ -183,5 +183,30 @@ export default class SetupController {
   }
 }
 ```
+可以很清楚看到 *99 - 144* 行是注册 Telegram 的部分，那我们简单修改一下。
+```diff 99 - 144
+    // 登录 tg UserBot
+    if (this.instance.userSessionId) {
+      await this.setupService.informOwner('userSessionId 已经存在，跳过');
+    }
+-     else
+-       try {
+-         const phoneNumber = await this.setupService.waitForOwnerInput('创建 Telegram UserBot，请输入你的手机号码（需要带国家区号，例如：+86）');
+-         await this.setupService.informOwner('正在登录，请稍候…');
+-         this.tgUser = await this.setupService.createUserBot(phoneNumber);
+-         this.instance.userSessionId = this.tgUser.sessionId;
+-         await this.setupService.informOwner(`登录成功`);
+-       }
++     else {
++       await this.setupService.informOwner('Telegram User Bot 创建过程跳过');
++     }
+      catch (e) {
+        this.log.error('创建 UserBot 失败', e);
+        this.isInProgress = false;
+        throw e;
+      }
+```
+非常好，不是吗？于是我就乐呵的跑了 GitHub Actions 构建 Docker Image，然后发现居然还真构建成功了！于是我就更乐呵的去 `/setup` 我的机器人，没想到也正常跳过了！
 
+当然这么改别的肯定是寄的，测试了一下转发功能完全废的。为什么相比也很清楚。~~你 `Undefined` 别的部分肯定不服会罢工啊！~~
 
