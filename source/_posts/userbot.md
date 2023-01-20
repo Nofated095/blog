@@ -1,5 +1,5 @@
 ---
-title: 从使用者和实用性角度出发谈 User Bot
+title: 我是怎么把 User Bot 从 Q2TG 里面扬了的
 date: 2023-01-20
 # cover: https://pic.rmb.bdstatic.com/bjh/060df44eb7a12a6ae2fcd8f2ebcdbb3e.png
 tags:
@@ -222,4 +222,4 @@ export default class SetupController {
 
 你可以在 [这里](https://github.com/Clansty/Q2TG/compare/rainbowcat...Nofated095:Q2TG:rainbowcat?expand=1) 找到我对 Q2TG 所有的修改。
 
-
+## 功能测试

@@ -6,7 +6,7 @@ tags:
 - Windows
 categories:
 - 写 BUG 日常
-- 教程
+- 野生技术协会
 toc: true
 ---
 尽管有 Windows Terminal，也要让我的命令提示符变得好看！
