@@ -223,15 +223,15 @@ export default class SetupController {
 
 在经历了全程脑瘫的过程后，我终于稍微清醒和安分了一点，开始着手去删 `tgUser` 和与其相关的部分。
 
-当然这里要非常感谢 [凌莞](https://github.com/Clansty)，看着亲爱的代码真是赏心悦目，如看代码眼暂冥，舞幽壑之潜蛟。
+当然这里要非常感谢 [凌莞](https://github.com/Clansty)，看着亲爱的代码真是赏心悦目，如看代码眼暂冥，~~简直就是天籁~~。
 
 在修改时，我发现 `personal` 代表个人模式，再结合 `tgUser` 的分布情况，可以很轻松的注释掉大部分有关代码，遇到与个人模式有关的部分都可以直接注释掉，只要符合语法就不会对群组模式产生奇奇怪怪的影响。
 
-你可以在 [这里](https://github.com/Clansty/Q2TG/compare/rainbowcat...Nofated095:Q2TG:rainbowcat?expand=1) 找到我对 Q2TG 所有的修改。
+你可以在 [这里](https://github.com/Clansty/Q2TG/compare/rainbowcat...Nofated095:Q2TG:rainbowcat?expand=1) 找到我对 *Q2TG* 所有的修改。
 
 ## 功能测试
 
-在构建 Image 完成后，我激动地~~关掉了 `v1` 的 Container~~在服务器上拉取并部署。
+在构建 Image 完成后，我激动地~~关掉了 `v1` 的 Container~~ 在服务器上拉取并部署。
 
 ![部署过程](https://imgsrc.baidu.com/super/pic/item/b58f8c5494eef01fa2599500a5fe9925bd317da2.jpg)
 
