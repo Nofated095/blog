@@ -43,13 +43,15 @@ toc: true
 
 ![](https://imgsrc.baidu.com/super/pic/item/377adab44aed2e739f6b04e9c201a18b86d6fa71.jpg)
 
+### ❌ 脑瘫思路 —— Undefined
+
 分析了一下之后，我就打算开始着手删掉 `tgUser` 相关的内容。但在删到快一半的时候，我突然~~脑溢血地~~想到，如果我们在功能实现的部分保留所有的 `tgUser`，但是我们让他 `Undefined`，会不会就能直接非常方便地 disable 掉 User Bot 呢？（逃
 
 然后我就真的大智若愚（大若智）地去试了。
 
 很容易猜到 `tgUser` 应该是在机器人第一次配置的时候就被定义了，所以我就打算去 `SetupControlers.ts` 看看能不能在这里动动手脚，跳过里面地 User Bot 登录过程。
 
-```ts SetupControlers>folded
+```ts SetupControlers.ts>folded
 import Telegram from '../client/Telegram';
 import SetupService from '../services/SetupService';
 import { Api } from 'telegram';
@@ -209,4 +211,15 @@ export default class SetupController {
 非常好，不是吗？于是我就乐呵的跑了 GitHub Actions 构建 Docker Image，然后发现居然还真构建成功了！于是我就更乐呵的去 `/setup` 我的机器人，没想到也正常跳过了！
 
 当然这么改别的肯定是寄的，测试了一下转发功能完全废的。为什么相比也很清楚。~~你 `Undefined` 别的部分肯定不服会罢工啊！~~
+
+### ✔️ 正确的打开方式 —— 扬了 tgUser
+
+在经历了全程脑瘫的过程后，我终于稍微清醒和安分了一点，开始着手去删 `tgUser` 和与其相关的部分。
+
+当然这里要非常感谢[凌莞](https://github.com/Clansty)，看着亲爱的代码真是赏心悦目，如看代码眼暂冥，舞幽壑之潜蛟。
+
+在修改时，我发现 `personal` 代表个人模式，再结合 `tgUser` 的分布情况，可以很轻松的注释掉大部分有关代码，遇到与个人模式有关的部分都可以直接注释掉，只要符合语法就不会对群组模式产生奇奇怪怪的影响。
+
+你可以在 [这里](https://github.com/Clansty/Q2TG/compare/rainbowcat...Nofated095:Q2TG:rainbowcat?expand=1) 找到我对 Q2TG 所有的修改。
+
 
