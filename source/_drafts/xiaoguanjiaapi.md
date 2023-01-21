@@ -1,12 +1,14 @@
 ---
-title: 我是怎么把 User Bot 从 Q2TG 里面扬了的
+title: 使用 GitHub Actions 自动部署 Hexo
+date: 2021-08-03
+cover: https://pic.rmb.bdstatic.com/bjh/a5a79c32320475bd69aed54f5371065a.png
+tags:
+- GitHub
+- Hexo
+- 博客
 categories:
 - 写 BUG 日常
 - 野生技术协会
-cover: https://imgsrc.baidu.com/super/pic/item/c8177f3e6709c93db0cd8232da3df8dcd100543c.jpg
-date: 2023-01-20
-tags:
-- Telegram
 toc: true
 ---
 记一次修改 Q2TG 源码使 Telegram 和 QQ 消息同步机器人去 User Bot 化的过程。
