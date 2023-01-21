@@ -1,9 +1,10 @@
 ---
-title: 开发树洞有感
+title: 记一次探索班级小管家 API 的过程
 date: 2023-01-22
 cover: https://pic.rmb.bdstatic.com/bjh/a5a79c32320475bd69aed54f5371065a.png
 tags:
-- 总结
+- 网络
+- API
 categories:
 - [写 BUG 日常, 野生技术协会]
 - [日常生活, 学业, 高中]
