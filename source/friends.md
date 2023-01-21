@@ -208,8 +208,8 @@ widgets:
                         </figure>
                     </div>
                     <div class="media-content">
-                        <p class="title is-4">一刀斩</p>
-                        <p class="subtitle is-6">是一刀受哒</p>
+                        <p class="title is-4">Ghost_chu</p>
+                        <p class="subtitle is-6">一只咸鱼</p>
                     </div>
                 </div>
             </div>
