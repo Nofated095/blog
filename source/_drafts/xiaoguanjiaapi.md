@@ -1,23 +1,21 @@
 ---
-title: 使用 GitHub Actions 自动部署 Hexo
-date: 2021-08-03
+title: 开发树洞有感
+date: 2023-01-22
 cover: https://pic.rmb.bdstatic.com/bjh/a5a79c32320475bd69aed54f5371065a.png
 tags:
-- GitHub
-- Hexo
-- 博客
+- 总结
 categories:
-- 写 BUG 日常
-- 野生技术协会
+- [写 BUG 日常, 野生技术协会]
+- [日常生活, 学业, 高中]
 toc: true
 ---
-记一次修改 Q2TG 源码使 Telegram 和 QQ 消息同步机器人去 User Bot 化的过程。
+记录北京五中树洞，立项 、开发、运营的过程。
 
 <!--more-->
 
 ## 引言
 
-今年 1 月份中下旬，因为原本 LittleSkin 运营组使用的 *Constance* 转发机器人年久失修，转发功能基本寄了，于是 *LittleSkinCommspt* 协助构建了一个新的 *QQ* 和 *Telegram* 之间相互转发的机器人，基于 [Clansty/Q2TG](https://github.com/Clansty/Q2TG)。后来因为种种原因，这个 *Q2TG* 无法再给社区使用，于是我就主动~~插手~~构建了一个新的 *Q2TG* 实例。
+今年 1 月份末，我在我们同学群里水群的时候，
 
 - **1 月 16 日** 注册了一个 `+1` 的 Telegram 账号作为 Q2TG 创建时注册的 User Bot，在部署完成后，我发现此 Telegram 账号立刻被封禁，但是 Q2TG 本身功能并没有发生影响，于是我就没太在意。
 - **1 月 18 日** 在正常工作两天后的凌晨，我注意到机器人似乎出了故障，图片和表情均无法转发，这不免让我有些疑惑，于是我重新启动了 Docker 容器，然后就发现转发彻底寄了，一看后台，原来最让人担心的 User Bot 还是寄了，`USER_DEACTIVATED_BAN`，Q2TG 报错，直接导致整个转发寄了。于是早上又尝试了 [`v1`](https://github.com/Clansty/Q2TG/tree/main) 版本，机器人勉强工作，也就继续用了。然后下午又注册了一个新的 `+1` 的 Telegram 账号，简单养了养号后又怀揣着忐忑的心情重新部署了一遍，然后我的 Telegram 账号就又寄了...
