@@ -193,8 +193,29 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/YidaozhanYa/YidaozhanYa" class="card-footer-item">GitHub</a>
+                <a href="https://github.com/YidaozhanYa" class="card-footer-item">GitHub</a>
                 <a href="https://blog.yidaozhan.top/" class="card-footer-item">Blog</a>
+            </footer>
+        </div>
+    </div>
+        <div class="column is-half">
+        <div class="card">
+            <div class="card-content">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-48x48">
+                            <img src="https://www.libravatar.org/avatar/bf63bd3875e4d9129eef17f5ecb348c1?s=256">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p class="title is-4">一刀斩</p>
+                        <p class="subtitle is-6">是一刀受哒</p>
+                    </div>
+                </div>
+            </div>
+            <footer class="card-footer">
+                <a href="https://github.com/Ghost-chu" class="card-footer-item">GitHub</a>
+                <a href="https://www.ghostchu.com/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
