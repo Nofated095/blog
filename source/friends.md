@@ -25,8 +25,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/Jinzhijie" class="card-footer-item">GitHub</a>
-                <a href="https://xiaojin233.cn" class="card-footer-item">Home Page</a>
+                <a target="_blank" href="https://github.com/Jinzhijie" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://xiaojin233.cn" class="card-footer-item">Home Page</a>
             </footer>
         </div>
     </div>
@@ -46,8 +46,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/Restent" class="card-footer-item">GitHub</a>
-                <a href="https://blog.restent.win/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/Restent" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://blog.restent.win/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -67,8 +67,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/cubik65536" class="card-footer-item">GitHub</a>
-                <a href="https://www.cubik65536.top" class="card-footer-item">Home Page</a>
+                <a target="_blank" href="https://github.com/cubik65536" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://www.cubik65536.top" class="card-footer-item">Home Page</a>
             </footer>
         </div>
     </div>
@@ -88,8 +88,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/Mashirl" class="card-footer-item">GitHub</a>
-                <a href="https://mashirl.com" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/Mashirl" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://mashirl.com" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -109,8 +109,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/bingling-sama" class="card-footer-item">GitHub</a>
-                <a href="https://blog.booling.cn/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/bingling-sama" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://blog.booling.cn/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -130,8 +130,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/Big-Cake-jpg" class="card-footer-item">GitHub</a>
-                <a href="https://bigcake.cakemc.top" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/Big-Cake-jpg" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://bigcake.cakemc.top" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -151,8 +151,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/CharlieYu4994" class="card-footer-item">GitHub</a>
-                <a href="https://blog.charlie.moe" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/CharlieYu4994" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://blog.charlie.moe" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -172,8 +172,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/1264822519" class="card-footer-item">GitHub</a>
-                <a href="https://blog.smallxu.com/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/1264822519" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://blog.smallxu.com/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -193,8 +193,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/YidaozhanYa" class="card-footer-item">GitHub</a>
-                <a href="https://blog.yidaozhan.top/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/YidaozhanYa" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://blog.yidaozhan.top/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -214,8 +214,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/Ghost-chu" class="card-footer-item">GitHub</a>
-                <a href="https://www.ghostchu.com/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/Ghost-chu" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://www.ghostchu.com/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -235,8 +235,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/SukkaW" class="card-footer-item">GitHub</a>
-                <a href="https://blog.skk.moe/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/SukkaW" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://blog.skk.moe/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -256,8 +256,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/kjzh001" class="card-footer-item">GitHub</a>
-                <a href="https://blog.moeworld.tech/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/kjzh001" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://blog.moeworld.tech/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -277,8 +277,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/iVampireSP" class="card-footer-item">GitHub</a>
-                <a href="https://ivampiresp.com/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/iVampireSP" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://ivampiresp.com/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -298,8 +298,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/tnqzh123" class="card-footer-item">GitHub</a>
-                <a href="https://www.littleqiu.net/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/tnqzh123" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://www.littleqiu.net/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -319,8 +319,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/feizhuqwq" class="card-footer-item">GitHub</a>
-                <a href="https://www.feizhuqwq.com/" class="card-footer-item">Home Page</a>
+                <a target="_blank" href="https://github.com/feizhuqwq" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://www.feizhuqwq.com/" class="card-footer-item">Home Page</a>
             </footer>
         </div>
     </div>
@@ -340,8 +340,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/liangchuxin" class="card-footer-item">GitHub</a>
-                <a href="https://blog.becomingcelia.com/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/liangchuxin" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://blog.becomingcelia.com/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -361,8 +361,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/wc915760215" class="card-footer-item">GitHub</a>
-                <a href="http://wc215.byethost10.com/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/wc915760215" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="http://wc215.byethost10.com/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -382,8 +382,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/shuiyunxc" class="card-footer-item">GitHub</a>
-                <a href="https://shuiyunxc.github.io/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/shuiyunxc" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://shuiyunxc.github.io/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -403,8 +403,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/Niko-Karen" class="card-footer-item">GitHub</a>
-                <a href="https://www.nikoblog.top/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/Niko-Karen" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://www.nikoblog.top/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -424,8 +424,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/NiuFuyu855" class="card-footer-item">GitHub</a>
-                <a href="https://off.cx/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/NiuFuyu855" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://off.cx/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
@@ -445,8 +445,8 @@ widgets:
                 </div>
             </div>
             <footer class="card-footer">
-                <a href="https://github.com/XieXiLin3" class="card-footer-item">GitHub</a>
-                <a href="https://www.xiexilin.cn/" class="card-footer-item">Home Page</a>
+                <a target="_blank" href="https://github.com/XieXiLin3" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://www.xiexilin.cn/" class="card-footer-item">Home Page</a>
             </footer>
         </div>
     </div>
