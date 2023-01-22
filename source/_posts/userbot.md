@@ -47,11 +47,11 @@ toc: true
 
 ### ❌ 脑瘫思路 —— Undefined
 
-分析了一下之后，我就打算开始着手删掉 `tgUser` 相关的内容。但在删到快一半的时候，我突然~~脑溢血地~~想到，如果我们在功能实现的部分保留所有的 `tgUser`，但是我们让他 `Undefined`，会不会就能直接非常方便地 disable 掉 User Bot 呢？（逃
+分析了一下之后，我就打算开始着手删掉 `tgUser` 相关的内容。但在删到快一半的时候，我突然~~脑溢血地~~想到，如果我们在功能实现的部分保留所有的 `tgUser`，但是我们让他在传参时动动手脚，不给他参数，直接让他 `Undefined`，会不会就能直接非常方便地 disable 掉 User Bot 呢？（逃
 
 然后我就真的大智若愚（大若智）地去试了。
 
-很容易猜到 `tgUser` 应该是在机器人第一次配置的时候就被定义了，所以我就打算去 `SetupControlers.ts` 看看能不能在这里动动手脚，跳过里面地 User Bot 登录过程。
+很容易猜到 `tgUser` 应该是在机器人第一次配置，也就是 `/setup` 的时候就被传参了，所以我就打算去 `SetupControlers.ts` 看看能不能在这里动动手脚，跳过里面地 User Bot 登录过程。
 
 ```ts SetupControlers.ts>folded
 import Telegram from '../client/Telegram';
@@ -213,9 +213,9 @@ export default class SetupController {
       }
 ```
 
-非常好，不是吗？于是我就乐呵的跑了 GitHub Actions 构建 Docker Image，然后发现居然还真构建成功了！于是我就更乐呵的去 `/setup` 我的机器人，没想到也正常跳过了！
+非常好，不是吗？于是我就乐呵的跑了 GitHub Actions 构建 Docker Image，然后发现居然还真构建成功了！于是我就更乐呵的去 `/setup` 我的机器人，而确实，也正常跳过了
 
-当然这么改别的肯定是寄的，测试了一下转发功能完全废的。为什么相比也很清楚。~~你 `Undefined` 别的文件肯定不服会罢工啊！~~
+当然这么改别的肯定是寄的，测试了一下转发功能完全废的。为什么想必也很清楚。~~你 `Undefined` 别的文件肯定不服会罢工啊！~~
 
 ### ✔️ 正确的打开方式 —— 扬了 tgUser
 
