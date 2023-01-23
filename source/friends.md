@@ -198,7 +198,7 @@ widgets:
             </footer>
         </div>
     </div>
-        <div class="column is-half">
+    <div class="column is-half">
         <div class="card">
             <div class="card-content">
                 <div class="media">
@@ -219,8 +219,7 @@ widgets:
             </footer>
         </div>
     </div>
-    </div>
-        <div class="column is-half">
+    <div class="column is-half">
         <div class="card">
             <div class="card-content">
                 <div class="media">
