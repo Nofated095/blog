@@ -219,6 +219,28 @@ widgets:
             </footer>
         </div>
     </div>
+    </div>
+        <div class="column is-half">
+        <div class="card">
+            <div class="card-content">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-48x48">
+                            <img src="https://www.libravatar.org/avatar/c8d6d751b5e0a5ec94752f7744993259?s=256">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p class="title is-4">Lemon Pig</p>
+                        <p class="subtitle is-6">一位柚子厨</p>
+                    </div>
+                </div>
+            </div>
+            <footer class="card-footer">
+                <a target="_blank" href="https://github.com/lemonchu" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://www.lemonpig.cn/" class="card-footer-item">Blog</a>
+            </footer>
+        </div>
+    </div>
     <div class="column is-half">
         <div class="card">
             <div class="card-content">
