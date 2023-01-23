@@ -8,7 +8,7 @@ logo:
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: https://img.9595095.xyz/mc
+    favicon: https://cdn.nofated.win/mc
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
@@ -212,7 +212,7 @@ widgets:
         # Author's current location
         location: Beijing, China
         # URL or path to the avatar image
-        avatar: https://img.9595095.xyz/avatar/256
+        avatar: https://cdn.nofated.win/avatar/256
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar
