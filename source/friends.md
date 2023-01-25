@@ -504,14 +504,14 @@ widgets:
 title: Nofated's Blog
 slogan: Maybe we will never be together, but forever you will be in my heart.
 link: https://blog.nofated.win
-avatar: https://img.9595095.xyz/avatar/256
+avatar: https://cdn.nofated.win/avatar/256
 ```
 
 ``` yaml 你需要提供以下信息
 name: Your name, NOT the blog's Name
 slogan: Your Slogan
 github: https://github.com/Nofated095
-type: Blog or Home Page
+type: Blog / Home Page
 link: https://blog.nofated.win
-MD5: {32 位小写}（要求支持 Gravatar）
+需要在评论时填入邮箱以获取基于 Gravatar 的头像
 ```
