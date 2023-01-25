@@ -1,6 +1,7 @@
 ---
 title: 关于
 cover: https://littleskin.cn/background.jpg
+date: 2020-10-01
 donates:
 widgets:
 comment:
@@ -13,7 +14,7 @@ comment:
 
 无论你身处何方，这个小博客都欢迎你的到来。
 
-眼前的这个不起眼的小博客大致始于 2019 年年末到 2020 年年初。历经了很多次改版。原定的是一个基于 WordPress 的软件资源站或者开源镜像站。目前最早的文章只能追溯到 **2020-05-07** 最开始使用 Gridea 进行写作，一段时间后开始使用 Hexo + `hexo-theme-icarus` 进行写作并沿用至今。博客最早使用 Github Pages 和 Gitee Pages，目前博客部署工作交给 Vercel。Gitee Pages 已废弃，GitHub Pages 用作其他项目。
+眼前的这个不起眼的小博客大致始于 2019 年年末到 2020 年年初。历经了很多次改版。原定的是一个基于 WordPress 的软件资源站或者开源镜像站。目前最早的文章只能追溯到 **2020-05-07** 最开始使用 Gridea 进行写作，一段时间后开始使用 Hexo + `hexo-theme-icarus` 进行写作并沿用至今。博客最早使用 GitHub Pages 和 Gitee Pages，目前博客部署工作交给 Vercel。Gitee Pages 已废弃，GitHub Pages 用作其他项目。
 
 博客使用字节跳动静态资源公共库中的部分静态资源作为 cdn。
 
@@ -83,6 +84,7 @@ isTop: false
    - V
 - Yuzu Soft
    - Senren Banka
+- Cyberpunk 2077
 - ネコぱら
    - Vol. 0
    - Vol. 1
