@@ -159,7 +159,7 @@ comment:
     dark: auto                                    # 可选填
     meta: ["nick", "mail", "link"]                # 可选填
     required_meta: []                             # 可选填
-    login: enable                                 # 可选填
+    login: disable                                 # 可选填
     avatar: mp                                    # 可选填
     word_limit: 0                                 # 可选填
     page_size: 10                                 # 可选填
