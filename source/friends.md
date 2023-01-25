@@ -246,6 +246,27 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
+                            <img src="https://www.libravatar.org/avatar/bedbc698e8dbf819a84b440b9ad0ee8e?s=256">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p class="title is-4">Misaka13514</p>
+                        <p class="subtitle is-6">欠陥電気の摸鱼小池</p>
+                    </div>
+                </div>
+            </div>
+            <footer class="card-footer">
+                <a target="_blank" href="https://github.com/Misaka13514" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://blog.atri.tk/" class="card-footer-item">Blog</a>
+            </footer>
+        </div>
+    </div>
+    <div class="column is-half">
+        <div class="card">
+            <div class="card-content">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-48x48">
                             <img src="https://www.libravatar.org/avatar/170f769e928868c3e7043655faa06b4b?s=256">
                         </figure>
                     </div>
