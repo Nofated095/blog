@@ -398,7 +398,7 @@ widgets:
                     </div>
                     <div class="media-content">
                         <p class="title is-4">失迹</p>
-                        <p class="subtitle is-6">Code Changes Life</p>
+                        <p class="subtitle is-6">猫与茶与代码与你</p>
                     </div>
                 </div>
             </div>
