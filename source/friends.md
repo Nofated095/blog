@@ -393,6 +393,27 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
+                            <img src="https://www.libravatar.org/avatar/234af860391c8cfaf2def3752205fff2?s=256">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p class="title is-4">失迹</p>
+                        <p class="subtitle is-6">Code Changes Life</p>
+                    </div>
+                </div>
+            </div>
+            <footer class="card-footer">
+                <a target="_blank" href="https://github.com/Mitr-yuzr" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://reincarnatey.net" class="card-footer-item">Home Page</a>
+            </footer>
+        </div>
+    </div>
+    <div class="column is-half">
+        <div class="card">
+            <div class="card-content">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-48x48">
                             <img src="https://www.libravatar.org/avatar/e7247de5dc94382033c4368c136a28a7?s=256">
                         </figure>
                     </div>
