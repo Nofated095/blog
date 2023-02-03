@@ -267,7 +267,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://www.libravatar.org/avatar/d3d2c7c7d4bed80a2304b529de55d4a9?s=256">
+                            <img src="https://www.microcharon.top/usr/themes/handsome/assets/img/avatar-gl.webp">
                         </figure>
                     </div>
                     <div class="media-content">
