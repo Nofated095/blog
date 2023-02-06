@@ -1,13 +1,15 @@
 ---
-title: 我是怎么把 User Bot 从 Q2TG 里面扬了的
+abbrlink: ''
 categories:
 - 写 BUG 日常
 - 野生技术协会
 cover: https://imgsrc.baidu.com/super/pic/item/c8177f3e6709c93db0cd8232da3df8dcd100543c.jpg
-date: 2023-01-20
+date: '2023-01-20 00:00:00'
 tags:
 - Telegram
+title: 我是怎么把 User Bot 从 Q2TG 里面扬了的
 toc: true
+updated: '2023-02-06 21:12:44'
 ---
 记一次修改 Q2TG 源码使 Telegram 和 QQ 消息同步机器人去 User Bot 化的过程。
 
@@ -53,7 +55,7 @@ toc: true
 
 很容易猜到 `tgUser` 应该是在机器人第一次配置，也就是 `/setup` 的时候就被传参了，所以我就打算去 `SetupControlers.ts` 看看能不能在这里动动手脚，跳过里面地 User Bot 登录过程。
 
-```ts SetupControlers.ts>folded
+```ts
 import Telegram from '../client/Telegram';
 import SetupService from '../services/SetupService';
 import { Api } from 'telegram';
@@ -190,7 +192,7 @@ export default class SetupController {
 
 可以很清楚看到 *99 - 144* 行是注册 Telegram User Bot 的部分，那我们简单修改一下。
 
-```diff 99 - 144
+```diff
     // 登录 tg UserBot
     if (this.instance.userSessionId) {
       await this.setupService.informOwner('userSessionId 已经存在，跳过');
@@ -213,7 +215,7 @@ export default class SetupController {
       }
 ```
 
-非常好，不是吗？于是我就乐呵的跑了 GitHub Actions 构建 Docker Image，然后发现居然还真构建成功了！于是我就更乐呵的去 `/setup` 我的机器人，而确实，也正常跳过了
+非常好，不是吗？于是我就乐呵的跑了 GitHub Actions 构建 Docker Image，然后发现居然还真构建成功了！于是我就更乐呵的去 `/setup` 我的机器人，而确实，也正常跳过了。
 
 当然这么改别的肯定是寄的，测试了一下转发功能完全废的。为什么想必也很清楚。~~你 `Undefined` 别的文件肯定不服会罢工啊！~~
 
