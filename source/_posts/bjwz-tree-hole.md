@@ -114,6 +114,6 @@ toc: true
 
 整个树洞项目，我都有感觉我是在很努力、很开心地承包这项工作。而也很高兴地去对项目作优化完善。能看到同学真的去使用树洞作为开发者是很值得高兴的事。我也体验了一次一个项目从立项 、开发、运营~~到收米~~的过程，跟我母亲分享了这个项目和我的体会，我们都认为这个项目是有意义的，对我也是有意义的。
 
->Special Thanks to **Mr.Zheng** & Developer team and community of [**Waline.js**](https://waline.js.org/en/)
+>Special Thanks to **Mr.Zheng** & Developer team and community of [**Waline.js**](https://waline.js.org/en/).
 >
->特别感谢 **郑老师** 和 [**Waline.js**](https://waline.js.org) 开发团队和社区
+>特别感谢 **郑老师** 和 [**Waline.js**](https://waline.js.org) 开发团队和社区。
