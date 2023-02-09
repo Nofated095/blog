@@ -103,7 +103,7 @@ feed:
   type: atom
   path: atom.xml
   limit: 20
-theme: icarus-lazy
+theme: amane
 
 aplayer:
   meting: true
