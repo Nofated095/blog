@@ -28,6 +28,7 @@
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^3.0.0",
     "hexo-tag-aplayer": "^3.0.4",
+    "hexo-lazyload-image": "^1.0.13",
     "hexo-theme-amane": "0.0.2",
     "inferno": "^8.0.1",
     "inferno-create-element": "^8.0.1"
