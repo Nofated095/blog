@@ -1,7 +1,7 @@
 ---
 title: 记北京五中树洞项目全流程
 date: 2023-01-22
-cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/077F38C0-99FA-11ED-8818-40F02F6F7A43.png
+cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/077F38C0-99FA-11ED-8818-40F02F6F7A43.png?x-oss-process=image/format,webp
 tags:
 - 总结
 categories:
