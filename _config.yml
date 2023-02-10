@@ -104,7 +104,7 @@ feed:
   path: atom.xml
   limit: 20
 lazyload:
-  enable: true
+  enable: false
   isSPA: false
 theme: amane
 
