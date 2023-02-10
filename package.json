@@ -12,7 +12,7 @@
   "dependencies": {
     "bulma-stylus": "0.8.0",
     "hexo": "^6.2.0",
-    "hexo-component-inferno": "1.2.0",
+    "hexo-component-inferno": "^2.0.2",
     "hexo-deployer-git": "^4.0.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
@@ -28,7 +28,8 @@
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^3.0.0",
     "hexo-tag-aplayer": "^3.0.4",
-    "hexo-theme-icarus": "5.0.1",
+    "hexo-lazyload-image": "^1.0.13",
+    "hexo-theme-amane": "0.0.3",
     "inferno": "^8.0.1",
     "inferno-create-element": "^8.0.1"
   }
