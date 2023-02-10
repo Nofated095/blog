@@ -105,7 +105,7 @@ feed:
   limit: 20
 lazyload:
   enable: true
-  isSPA: false
+  onlypost: false
 theme: amane
 
 aplayer:
