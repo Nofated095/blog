@@ -3,7 +3,8 @@ abbrlink: ''
 categories:
 - 写 BUG 日常
 - 野生技术协会
-cover: https://imgsrc.baidu.com/super/pic/item/c8177f3e6709c93db0cd8232da3df8dcd100543c.jpg
+#cover: https://imgsrc.baidu.com/super/pic/item/c8177f3e6709c93db0cd8232da3df8dcd100543c.jpg
+cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/742E409E-A84C-11ED-AEC9-C03EBA168291.jpg?x-oss-process=image/format,webp
 date: '2023-01-20 00:00:00'
 tags:
 - Telegram

@@ -2,7 +2,7 @@
 title: 修改 Windows CMD 命令提示符字体
 date: 2022-11-30
 #cover: https://imgsrc.baidu.com/super/pic/item/8c1001e93901213f0488071f11e736d12e2e95be.jpg
-cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/6EAC5755-A84C-11ED-BDA3-C03EBA168291.png?x-oss-process=image/format,webp
+cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/7151D6CD-A84C-11ED-B700-C03EBA168291.jpg?x-oss-process=image/format,webp
 tags:
 - Windows
 categories:
