@@ -2,7 +2,8 @@
 title: 构建 VuePress 2.0.0 并部署到 Vercel
 date: 2022-01-31
 #cover: https://pic.rmb.bdstatic.com/bjh/0bcca2ae4fb6934fb9390def048d4740.png
-cover: https://imgsrc.baidu.com/super/pic/item/359b033b5bb5c9eae33d2a269039b6003bf3b32d.jpg
+# cover: https://imgsrc.baidu.com/super/pic/item/359b033b5bb5c9eae33d2a269039b6003bf3b32d.jpg
+cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/4708A2D8-A84C-11ED-89C6-C03EBA168291.png?x-oss-process=image/format,webp
 tags:
 - VuePress
 - Vercel
@@ -19,7 +20,7 @@ toc: true
 
 得益于 Vercel，你只需要点点按钮，就可以直接构建出来一个带有基础功能的 VuePress 文档。
 
-首先找到 [vuepress-examples](https://github.com/Nofated095/vuepress-examples)，拉到最后，你可以根据需要来选择构建方式，以及主题。
+首先找到 [vuepress-template](https://github.com/Nofated095/vuepress-template)，拉到最后，你可以根据需要来选择构建方式，以及主题。
 
 分为三个选项，保留 `docs` 目录的传统主题、 `theme-hope` 主题和无 `docs` 目录的选项，点击对应的按钮即可直接跳转到 Vercel 并构建。再根据后面的图片修改构建方式即可。
 

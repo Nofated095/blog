@@ -2,7 +2,7 @@
 title: 《心跳文学社》后的瞎扯
 date: 2022-02-18
 # cover: https://pic.rmb.bdstatic.com/bjh/8be69d6d8855c0040a9a5592e1e5f5ea.png
-cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/511FA67C-A84C-11ED-B76B-C03EBA168291.png?x-oss-process=image/format,webp
+cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/511FA67C-A84C-11ED-B76B-C03EBA168291.png?x-oss-process=image/resize,w_900/format,webp
 tags:
 - DDLC
 categories:
