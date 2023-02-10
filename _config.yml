@@ -106,7 +106,7 @@ feed:
 lazyload:
   enable: false
   isSPA: false
-theme: icarus
+theme: amane
 
 aplayer:
   meting: true
