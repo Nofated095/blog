@@ -343,7 +343,7 @@ plugins:
 providers:
     # Name or URL template of the JavaScript and/or stylesheet CDN provider
     # cdn: '[cdnjs]https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/${package}/${version}/${filename}'
-    cdn: '[cdnjs] https://cdn.staticfile.org/${package}/${version}/${filename}'
+    cdn: '[cdnjs]https://cdn.staticfile.org/${package}/${version}/${filename}'
     # Name or URL template of the webfont CDN provider
     fontcdn: 'https://fonts.sourcegcdn.com/${type}?family=${fontname}&display=swap'
     # Name or URL of the fontawesome icon font CDN provider
