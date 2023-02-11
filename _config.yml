@@ -97,8 +97,7 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-plugins:  hexo-generator-feed
+## Themes: https://hexo.io/themes
 feed:
   type: atom
   path: atom.xml
