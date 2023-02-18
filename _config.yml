@@ -105,7 +105,7 @@ feed:
 lazyload:
   enable: true
   onlypost: false
-theme: icaurs
+theme: icarus
 
 aplayer:
   meting: true
