@@ -46,7 +46,7 @@ updated: '2023-02-06 21:12:44'
 
 于是我尝试在 GitHub 搜索了一下，没想到就可以直接开始肝了（
 
-![](https://imgsrc.baidu.com/super/pic/item/377adab44aed2e739f6b04e9c201a18b86d6fa71.jpg)
+![](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/72E8539A-A84C-11ED-94C1-C03EBA168291.png)
 
 ### ❌ 脑瘫思路 —— Undefined
 
@@ -234,13 +234,13 @@ export default class SetupController {
 
 在构建 Image 完成后，我激动地~~关掉了 `v1` 的 Container~~ 在服务器上拉取并部署。
 
-![部署过程](https://imgsrc.baidu.com/super/pic/item/b58f8c5494eef01fa2599500a5fe9925bd317da2.jpg)
+![部署过程](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/732423D4-A84C-11ED-90BC-C03EBA168291.png)
 
-![正常工作的瞬间](https://imgsrc.baidu.com/super/pic/item/4e4a20a4462309f7af2920d7370e0cf3d6cad6b5.jpg)
+![正常工作的瞬间](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/737FB1A2-A84C-11ED-9FD7-C03EBA168291.png)
 
 ~~真是感动到让人落泪~~。
 
-![文件转发](https://imgsrc.baidu.com/super/pic/item/2cf5e0fe9925bc31c1e08c5d1bdf8db1ca1370b2.jpg)
+![文件转发](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/73E29376-A84C-11ED-BAFD-C03EBA168291.png)
 
 ## 后记
 
