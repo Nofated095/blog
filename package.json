@@ -29,7 +29,7 @@
     "hexo-server": "^3.0.0",
     "hexo-tag-aplayer": "^3.0.4",
     "hexo-clean-css": "2.0.0",
-    "hexo-theme-amane": "0.0.21",
+    "hexo-theme-amane": "0.0.22",
     "hexo-theme-icarus": "5.2.1",
     "inferno": "^8.0.1",
     "inferno-create-element": "^8.0.1"
