@@ -105,6 +105,9 @@ feed:
 lazyload:
   enable: true
   onlypost: false
+clean_css:
+  exclude: 
+    - '*.min.css'
 theme: amane
 
 aplayer:
