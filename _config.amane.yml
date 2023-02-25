@@ -304,7 +304,7 @@ plugins:
         # CNZZ website id
         web_id: 
     # Enable the lightGallery and Justified Gallery plugins
-    gallery: true
+    gallery: false
     # Google Analytics plugin settings
     # https://analytics.google.com
     google_analytics:
@@ -325,7 +325,7 @@ plugins:
     # http://outdatedbrowser.com/
     outdated_browser: false
     # Show a progress bar at top of the page on page loading
-    progressbar: true
+    progressbar: false
     # Statcounter statistics
     # https://statcounter.com/
     statcounter:
