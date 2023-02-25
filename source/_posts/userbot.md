@@ -56,7 +56,7 @@ updated: '2023-02-06 21:12:44'
 
 很容易猜到 `tgUser` 应该是在机器人第一次配置，也就是 `/setup` 的时候就被传参了，所以我就打算去 `SetupControlers.ts` 看看能不能在这里动动手脚，跳过里面地 User Bot 登录过程。
 
-```ts
+```ts SetupControlers.ts >folded
 import Telegram from '../client/Telegram';
 import SetupService from '../services/SetupService';
 import { Api } from 'telegram';
