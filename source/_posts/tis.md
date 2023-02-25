@@ -19,7 +19,7 @@ TIS Trinity Union
 
 ## 一周年
 
-<div class="justified-gallery">
+<!-- div class="justified-gallery" -->
 
 ![朝阳下的土楼](https://pic.rmb.bdstatic.com/bjh/be3635a7db53b391ffbdd9b73a917508.png)
 ![出生点空置域](https://pic.rmb.bdstatic.com/bjh/b8e2569cf8b28f69700a1e49da43848c.png)
@@ -90,11 +90,11 @@ TIS Trinity Union
 ![主世界猪人塔1](https://pic.rmb.bdstatic.com/bjh/a044d395677f94c1dd1382784a9cce06.png)
 ![主世界猪人塔2](https://pic.rmb.bdstatic.com/bjh/053bc6ac57609c897f273d645707bf0d.png)
 
-</div>
+<!-- /div -->
 
 ## 其它
 
-<div class="justified-gallery">
+<!-- div class="justified-gallery" -->
 
 ![末地村民工程](https://pic.rmb.bdstatic.com/bjh/06c4022b6db7cf5091f7a64f1141892f.jpeg)
 ![地狱盾构机（临时工程）](https://pic.rmb.bdstatic.com/bjh/95cdd887150a7f88c6b31ad18883b062.jpeg)
@@ -103,4 +103,4 @@ TIS Trinity Union
 ![将军亭](https://pic.rmb.bdstatic.com/bjh/91826c88f48b4f0688de90f542c582b7.jpeg)
 ![沙漠刷怪塔储存系统](https://pic.rmb.bdstatic.com/bjh/240f8ec8c6475fbdf211ff1c8f65324a.jpeg)
 
-</div>
+<!-- /div -->
