@@ -120,7 +120,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://cdn.jsdelivr.net/gh/Big-Cake-jpg/Image_For_My_Blog/tx.jpg">
+                            <img src="https://www.libravatar.org/avatar/636d113ce37111d08f08faee780ce9b8?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
