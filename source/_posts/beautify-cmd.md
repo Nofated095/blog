@@ -1,24 +1,26 @@
 ---
-title: 修改 Windows CMD 命令提示符字体
-date: 2022-11-30
-#cover: https://imgsrc.baidu.com/super/pic/item/8c1001e93901213f0488071f11e736d12e2e95be.jpg
-cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/7151D6CD-A84C-11ED-B700-C03EBA168291.jpg?x-oss-process=image/resize,w_900/format,webp
-tags:
-- Windows
+abbrlink: ''
 categories:
 - 写 BUG 日常
 - 野生技术协会
+cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/7151D6CD-A84C-11ED-B700-C03EBA168291.jpg?x-oss-process=image/resize,w_900/format,webp
+date: '2022-11-30'
+tags:
+- Windows
+title: 修改 Windows CMD 命令提示符字体
 toc: true
+updated: ''
 ---
 尽管有 Windows Terminal，也要让我的命令提示符变得好看！
+
 <!--more-->
 
 ## 前言
 
 2021 年，Microsoft 推出了全新的 Windows Terminal。漂亮的交互 UI 和易用的交互吸收了极多的用户。甚至在 Windows 11 中内置了 Windows Terminal，而最传统的 Windows CMD，即命令提示符的美化淡出了人们的视野。而我的系统是 Windows 10 21H2 LTSC，虽然安装了 Windows Terminal，可我还是更加偏爱~~启动速度极快，响应极快还小巧的~~命令提示符，所以在 2022 年，我重新拾起了它，去进行美化。
 
-![美化前](https://imgsrc.baidu.com/super/pic/item/738b4710b912c8fccb40bf0eb9039245d7882145.jpg)
-![美化后](https://imgsrc.baidu.com/super/pic/item/e850352ac65c1038f3cc8701f7119313b17e8947.jpg)
+![美化前](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/7029350D-A84C-11ED-8902-C03EBA168291.jpg)
+![美化后](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/705A0750-A84C-11ED-8F5C-C03EBA168291.jpg)
 
 ## 步骤
 
