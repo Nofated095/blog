@@ -1,22 +1,23 @@
 ---
-title: 构建 VuePress 2.0.0 并部署到 Vercel
-date: 2022-01-31
-#cover: https://pic.rmb.bdstatic.com/bjh/0bcca2ae4fb6934fb9390def048d4740.png
-# cover: https://imgsrc.baidu.com/super/pic/item/359b033b5bb5c9eae33d2a269039b6003bf3b32d.jpg
-cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/4708A2D8-A84C-11ED-89C6-C03EBA168291.png?x-oss-process=image/format,webp
-tags:
-- VuePress
-- Vercel
+abbrlink: ''
 categories:
 - 写 BUG 日常
 - 野生技术协会
+cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/4708A2D8-A84C-11ED-89C6-C03EBA168291.png?x-oss-process=image/format,webp
+date: '2022-01-31 00:00:00'
+tags:
+- VuePress
+- Vercel
+title: 构建 VuePress 2.0.0 并部署到 Vercel
 toc: true
+updated: '2023-03-12 08:59:05'
 ---
 使用 Vercel 来构建最新最热的 VuePress 2.0！
 把任务交给 CI，解放你的双手！
+
 <!--more-->
 
-## 使用 vuepress-examples 来构建（推荐）
+## 使用 vuepress-template 来构建
 
 得益于 Vercel，你只需要点点按钮，就可以直接构建出来一个带有基础功能的 VuePress 文档。
 
@@ -36,9 +37,9 @@ toc: true
 
 当然第二种方法就是手搓。这里将详细介绍（
 
-首先，在一个文件夹里，或者仓库里，创建`package.json`，并编辑。
+首先，在一个文件夹里，或者仓库里，创建 `package.json`，并编辑。
 
-``` json package.json
+```json
 {
   "name": "VuePress_example",
   "version": "1.0.0",
@@ -72,11 +73,11 @@ toc: true
 └─ package.json
 ```
 
-###  自定义文档
+### 自定义文档
 
 编辑 `/docs/.VuePress/config.ts`
 
-``` typescript /docs/.VuePress/config.ts
+```typescript
 import { defineUserConfig } from 'VuePress'
 import type { DefaultThemeOptions } from 'VuePress'
 
@@ -115,7 +116,7 @@ export default defineUserConfig<DefaultThemeOptions>({
 
 就可以像这样编辑 `/docs/.VuePress/config.ts` 加上 Navbar 和 Side
 
-``` typescript /docs/.VuePress/config.ts
+```typescript
 import { defineUserConfig } from ’VuePress‘
 import type { DefaultThemeOptions } from ’VuePress‘
 
@@ -158,7 +159,7 @@ export default defineUserConfig<DefaultThemeOptions>({
 
 更多配置详情还请参考 [VuePress 官方文档](https://v2.VuePress.vuejs.org/zh/guide/configuration.html)，文章里说的仅仅是 VuePress 中极小的一部分。
 
-##  部署到 Vercel
+## 部署到 Vercel
 
 [登录 Vercel](https://vercel.com/dashboard)，并把你上一步构建好的 VuePress 上传到 Github 仓库中（如果一开始就在仓库中编辑则无需此操作）
 
