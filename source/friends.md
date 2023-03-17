@@ -555,6 +555,27 @@ widgets:
             </footer>
         </div>
     </div>
+    <div class="column is-half">
+        <div class="card">
+            <div class="card-content">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-48x48">
+                            <img src="https://www.libravatar.org/avatar/5ebd9de183e6a8aefc891b9a45e31ef1?s=256">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p class="title is-4">DavidYR</p>
+                        <p class="subtitle is-6">一个屑医学生</p>
+                    </div>
+                </div>
+            </div>
+            <footer class="card-footer">
+                <a target="_blank" href="https://github.com/david222ddd" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://www.david03.top/" class="card-footer-item">Blog</a>
+            </footer>
+        </div>
+    </div>
 </div>
 
 欢迎和本站互换友情链接。要求如下
