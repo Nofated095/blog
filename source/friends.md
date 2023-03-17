@@ -561,7 +561,7 @@ widgets:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://www.libravatar.org/avatar/5ebd9de183e6a8aefc891b9a45e31ef1?s=256">
+                            <img src="https://cravatar.cn/avatar/5ebd9de183e6a8aefc891b9a45e31ef1?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -586,7 +586,7 @@ widgets:
 
 ``` yaml 我的站点信息
 title: Nofated's Blog
-slogan: Maybe we will never be together, but forever you will be in my heart.
+slogan: Forever you will be in my heart.
 link: https://blog.nofated.win
 avatar: https://cdn.nofated.win/avatar/256
 ```
