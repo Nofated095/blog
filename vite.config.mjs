@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite'
-import { resolve } from 'path'
+import { resolve, parse } from 'path'
+import fs from 'fs'
 
 const sourceDirectory = resolve(__dirname, 'public')
 
@@ -13,20 +14,20 @@ export default defineConfig({
     rollupOptions: {
       input: {
         ...(() => {
-          const scanFolder: (folder: string, accu: string[]) => void = (folder, accu) => {
+          const scanFolder = (folder, accu) => {
               const files = fs.readdirSync(folder).map(f => resolve(folder, f))
 
               files.filter(f => fs.lstatSync(f).isFile()).forEach(f => accu.push(f))
               files.filter(f => fs.lstatSync(f).isDirectory()).forEach(f => scanFolder(f, accu))
           }
 
-          const files: string[] = []
+          const files = []
           scanFolder('./public', files)
-          const output: any = {}
+          const output = {}
 
           for(const i of files.filter((it) => it.endsWith(".html"))) {
             output[parse(i).name] = i 
-          }
+          
 
           return output
         })()
