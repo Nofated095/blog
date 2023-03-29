@@ -102,12 +102,36 @@ feed:
   type: atom
   path: atom.xml
   limit: 20
+  
 lazyload:
   enable: true
   onlypost: true
+  
 clean_css:
   exclude: 
     - '*.min.css'
+    
+uglify:
+  mangle: true
+  output:
+  compress:
+  exclude:
+    - "sw.js"
+
+html_minifier:
+  exclude: 
+    - "/*.html"
+  html_minifier: 
+  collapseBooleanAttributes: true
+  collapseWhitespace: true
+  #ignoreCustomComments: [ !!js/regexp /^\s*more/]
+  removeComments: true
+  removeEmptyAttributes: true
+  removeScriptTypeAttributes: true
+  removeStyleLinkTypeAttributes: true
+  minifyJS: true
+  minifyCSS: true
+  
 theme: amane
 
 aplayer:
