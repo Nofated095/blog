@@ -34,6 +34,7 @@
     "hexo-theme-amane": "0.0.24",
     "hexo-theme-icarus": "5.2.1",
     "inferno": "^8.0.1",
-    "inferno-create-element": "^8.0.1"
+    "inferno-create-element": "^8.0.1",
+    "vite": "^4.1.0"
   }
 }
