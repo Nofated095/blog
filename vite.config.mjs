@@ -26,7 +26,8 @@ export default defineConfig({
           const output = {}
 
           for(const i of files.filter((it) => it.endsWith(".html"))) {
-            output[parse(i).name] = i 
+            output[parse(i).name] = i
+            console.log(`${i},,,,${parse(i).name}`)
           }
 
           return output
