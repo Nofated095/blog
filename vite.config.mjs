@@ -12,7 +12,7 @@ export default defineConfig({
     sourcemap: false,
     rollupOptions: {
       input: {
-        
+        'index.html': resolve(sourceDirectory, 'index.html')
       }
     }
   }
