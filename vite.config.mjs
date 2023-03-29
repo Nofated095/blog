@@ -27,7 +27,7 @@ export default defineConfig({
 
           for(const i of files.filter((it) => it.endsWith(".html"))) {
             output[parse(i).name] = i 
-          
+          }
 
           return output
         })()
