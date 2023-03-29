@@ -12,7 +12,24 @@ export default defineConfig({
     sourcemap: false,
     rollupOptions: {
       input: {
-        'index.html': resolve(sourceDirectory, 'index.html')
+        ...(() => {
+          const scanFolder: (folder: string, accu: string[]) => void = (folder, accu) => {
+              const files = fs.readdirSync(folder).map(f => resolve(folder, f))
+
+              files.filter(f => fs.lstatSync(f).isFile()).forEach(f => accu.push(f))
+              files.filter(f => fs.lstatSync(f).isDirectory()).forEach(f => scanFolder(f, accu))
+          }
+
+          const files: string[] = []
+          scanFolder('./public', files)
+          const output: any = {}
+
+          for(const i of files.filter((it) => it.endsWith(".html"))) {
+            output[parse(i).name] = i 
+          }
+
+          return output
+        })()
       }
     }
   }
