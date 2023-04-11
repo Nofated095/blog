@@ -30,12 +30,12 @@ updated: ''
 
 下载完成后，解压并安装其中的字体。此时再打开命令提示符，在「属性 > 字体」中即可选中并使用，建议将字体大小调高到 18。
 
-![](https://imgsrc.baidu.com/super/pic/item/4bed2e738bd4b31cd693dd78c2d6277f9f2ff842.jpg)
+![](https://imgsrc.baidu.com/forum/pic/item/4bed2e738bd4b31cd693dd78c2d6277f9f2ff842.jpg)
 
 ### 永久修改
 
 打开注册表编辑器，在 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont` 中编辑 `936` 字符串，将数值数据修改为 `*Microsoft YaHei Mono` 并保存。
 
-![](https://imgsrc.baidu.com/super/pic/item/5fdf8db1cb134954d6b0a1a7134e9258d0094a43.jpg)
+![](https://imgsrc.baidu.com/forum/pic/item/5fdf8db1cb134954d6b0a1a7134e9258d0094a43.jpg)
 
 至此便完成了修改。再次打开命令提示符和 Windows PowerShell，在计算机的任何环境中便都是 `*Microsoft YaHei Mono` 字体。
