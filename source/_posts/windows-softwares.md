@@ -22,7 +22,7 @@ toc: true
 |:-:|:-:|
 |Chrome|[官网下载](https://www.google.cn/chrome/) [64 位离线](https://www.google.cn/intl/zh-CN/chrome/thank-you.html?installdataindex=empty&standalone=1&statcb=0&defaultbrowser=0&platform=win64&installdataindex=defaultbrowser&extra=stablechannel) [32 位离线](https://www.google.cn/intl/zh-CN/chrome/thank-you.html?installdataindex=empty&standalone=1&statcb=0&defaultbrowser=0&platform=win&installdataindex=defaultbrowser&extra=stablechannel)|
 |Microsoft Edge|[官网下载](https://www.microsoft.com/zh-cn/edge) [商业版](https://www.microsoft.com/zh-CN/edge/business/download)|
-|Firefox|[官网下载](https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release) [64 位离线](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=zh-CN) [32 位离线](https://download.mozilla.org/?product=firefox-latest-ssl&os=win&lang=zh-CN)|
+|Firefox|[官网下载](https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release) [ESR](https://www.mozilla.org/zh-CN/firefox/enterprise/#download) [64 位离线](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=zh-CN) [32 位离线](https://download.mozilla.org/?product=firefox-latest-ssl&os=win&lang=zh-CN)|
 
 ## 解压缩
 
