@@ -195,7 +195,7 @@ widgets:
         # Author title
         author_title: 'Maybe we will never be together, but forever you will be in my heart.'
         # Author's current location
-        location: Beijing, China
+        location: CLOUDFLARE.COM
         # URL or path to the avatar image
         avatar: https://cdn.nofated.win/avatar/256
         # Whether show the rounded avatar image
