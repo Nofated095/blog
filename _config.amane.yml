@@ -169,22 +169,6 @@ comment:
     copyright: true                               # 可选填
     locale:                                       # 可选填
     placeholder: '来发评论吧！'
-# Donate plugin configurations
-# https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
-donates:
-    -
-        type: afdian
-        # 个人赞助页面的地址
-        url: https://afdian.net/@nofated
-    -
-        type: alipay
-        # Alipay qrcode image URL
-        qrcode: 'https://pic.rmb.bdstatic.com/bjh/e773e4c7da6f039ecbe0b3536ca16119.jpeg'
-    -
-        type: wechat
-        # Wechat qrcode image URL
-        # qrcode: 'https://pic.rmb.bdstatic.com/bjh/caae30e75d185555d0518690e5ea101a.png'
-        qrcode: 'https://imgsrc.baidu.com/forum/pic/item/9358d109b3de9c82a70a204a2981800a18d8438c.jpg'
 # Share plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/
 # Sidebar configurations.
@@ -233,7 +217,7 @@ widgets:
                 url: 'https://t.me/Nofated'
             Email:
                 icon: fas fa-envelope
-                url: 'mailto:i@nofated.win'
+                url: 'mailto:i@nof.moe'
             RSS:
                 icon: fas fa-rss
                 url: /atom.xml
