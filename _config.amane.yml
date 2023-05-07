@@ -251,8 +251,8 @@ widgets:
         position: right
         type: links
         links:
-            Nofated: 'https://nofated.win'
-            OneDrive: 'https://od.nofated.win'
+            Nofated: 'https://nof.moe'
+            OneDrive: 'https://o.nof.moe'
             LittleSkin: 'https://littleskin.cn'
             '萌 ICP 备 20232345 号': 'https://icp.gov.moe/?keyword=20232345'
             Travelling: 'https://www.travellings.cn/go.html'
@@ -329,6 +329,7 @@ providers:
     # cdn: '[cdnjs]https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/${package}/${version}/${filename}'
     cdn: '[cdnjs]https://cdn.staticfile.org/${package}/${version}/${filename}'
     # Name or URL template of the webfont CDN provider
-    fontcdn: 'https://fonts.sourcegcdn.com/${type}?family=${fontname}&display=swap'
+    # fontcdn: 'https://fonts.sourcegcdn.com/${type}?family=${fontname}&display=swap'
+    fontcdn: 'https://cdn.nofated.win/css/font-blog.css'
     # Name or URL of the fontawesome icon font CDN provider
     iconcdn: 'https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/css/all.min.css'
