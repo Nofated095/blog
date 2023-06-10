@@ -125,13 +125,13 @@ widgets:
                     </div>
                     <div class="media-content">
                         <p class="title is-4">Big_Cake</p>
-                        <p class="subtitle is-6">一个屑初三学生</p>
+                        <p class="subtitle is-6">也许我们会分别，但我们将永远不会忘记彼此</p>
                     </div>
                 </div>
             </div>
             <footer class="card-footer">
                 <a target="_blank" href="https://github.com/Big-Cake-jpg" class="card-footer-item">GitHub</a>
-                <a target="_blank" href="https://bigcake.cakemc.top" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://lihaoyu.cn" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
