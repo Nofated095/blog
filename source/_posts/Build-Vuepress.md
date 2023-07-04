@@ -3,7 +3,7 @@ abbrlink: ''
 categories:
 - 写 BUG 日常
 - 野生技术协会
-cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/4708A2D8-A84C-11ED-89C6-C03EBA168291.png?x-oss-process=image/format,webp
+cover: https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/4708A2D8-A84C-11ED-89C6-C03EBA168291.png?x-oss-process=image/format,webp
 date: '2022-01-31 00:00:00'
 tags:
 - VuePress

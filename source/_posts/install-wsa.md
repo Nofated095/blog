@@ -2,7 +2,7 @@
 title: Windows 11 安装 WSA
 date: 2022-05-31
 # cover: https://pic.rmb.bdstatic.com/bjh/060df44eb7a12a6ae2fcd8f2ebcdbb3e.png
-cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/6EAC5755-A84C-11ED-BDA3-C03EBA168291.png?x-oss-process=image/format,webp
+cover: https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/6EAC5755-A84C-11ED-BDA3-C03EBA168291.png?x-oss-process=image/format,webp
 tags:
 - Android
 - Windows
