@@ -8,7 +8,7 @@ logo:
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: https://cdn.nofated.win/mc
+    favicon: https://yuzu.cachefly.net/mc
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
@@ -197,7 +197,7 @@ widgets:
         # Author's current location
         location: CLOUDFLARE.COM
         # URL or path to the avatar image
-        avatar: https://cdn.nofated.win/avatar/256
+        avatar: https://yuzu.cachefly.net/avatar/256
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar
@@ -329,6 +329,6 @@ providers:
     cdn: '[cdnjs]https://cdn.staticfile.org/${package}/${version}/${filename}'
     # Name or URL template of the webfont CDN provider
     # fontcdn: 'https://fonts.sourcegcdn.com/${type}?family=${fontname}&display=swap'
-    fontcdn: 'https://cdn.nofated.win/css/font-blog.css'
+    fontcdn: 'https://yuzu.cachefly.net/css/font-blog.css'
     # Name or URL of the fontawesome icon font CDN provider
     iconcdn: 'https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/css/all.min.css'
