@@ -135,6 +135,27 @@ widgets:
             </footer>
         </div>
     </div>
+        <div class="column is-half">
+        <div class="card">
+            <div class="card-content">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-48x48">
+                            <img src="https://www.libravatar.org/avatar/dbb55a68d13cc526e80c4e720ece64eb?s=256">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p class="title is-4">凌莞</p>
+                        <p class="subtitle is-6">事凌莞姐姐！qwq</p>
+                    </div>
+                </div>
+            </div>
+            <footer class="card-footer">
+                <a target="_blank" href="https://github.com/Clansty" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://clansty.com/" class="card-footer-item">Home Page</a>
+            </footer>
+        </div>
+    </div>
     <div class="column is-half">
         <div class="card">
             <div class="card-content">
