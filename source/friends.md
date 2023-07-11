@@ -1,6 +1,6 @@
 ---
 title: 友情链接
-cover: https://littleskin.cn/background.jpg
+# cover: https://littleskin.cn/background.jpg
 date: 2020-10-01
 widgets:
 ---
