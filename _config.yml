@@ -4,7 +4,7 @@
 
 # Site
 title: Nofated's Blog
-subtitle: 'Maybe we will never be together, but forever you will be in my heart.'
+subtitle: 'Forever you will be in my heart.'
 description: 'Nofated Blog'
 keywords: Nofated, Nofated095, nof, nof095, NofatedBlog, Blog
 author: Nofated095
@@ -134,5 +134,5 @@ html_minifier:
   
 theme: amane
 
-aplayer:
-  meting: true
+#aplayer:
+#  meting: true

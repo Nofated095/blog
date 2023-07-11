@@ -154,8 +154,7 @@ comment:
     lang: zh-CN                                   # 可选填
     visitor: false                                # 可选填
     emoji:                                        # 可选填
-      - 'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji'
-      - 'https://unpkg.com/@waline/emojis@1.0.1/qq'
+#      - 'https://unpkg.com/@waline/emojis@1.0.1/tw-emoji'
     dark: auto                                    # 可选填
     meta: ["nick", "mail", "link"]                # 可选填
     required_meta: []                             # 可选填
