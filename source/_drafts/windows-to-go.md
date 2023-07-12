@@ -2,7 +2,7 @@
 title: Windows To Go 使用心得
 date: 2022-03-13
 # cover: https://pic.rmb.bdstatic.com/bjh/b091de2c1d546bbf6311fe5ca744014a.png
-cover: https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/51E7D6D4-A84C-11ED-B3E2-C03EBA168291.png?x-oss-process=image/format,webp
+cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/51E7D6D4-A84C-11ED-B3E2-C03EBA168291.png?x-oss-process=image/format,webp
 tags:
 - Windows
 - 总结

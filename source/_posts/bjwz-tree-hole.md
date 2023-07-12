@@ -1,7 +1,7 @@
 ---
 title: 记北京五中树洞项目全流程
 date: 2023-01-22
-cover: https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/077F38C0-99FA-11ED-8818-40F02F6F7A43.png?x-oss-process=image/format,webp
+cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/077F38C0-99FA-11ED-8818-40F02F6F7A43.png?x-oss-process=image/format,webp
 tags:
 - 总结
 categories:
@@ -17,7 +17,7 @@ toc: true
 
 今年 1 月份末，我在我们高中动漫社的微信群里水群的时候，一些同学提出了「表白墙」类似的话题，也就是一个类似于一个匿名的发帖站点。我马上就提出说这个东西可以做，然后马上脑子里面就想到了用 *Waline* 来做这个「表白墙」。同时也有一个同学（后称郑老师）想要来做树洞项目，于是他主动找到我 ~~（别问为什么是他找的我）~~，于是我们就开始着手开始做树洞项目。1 月 20 日，我在 *Vercel* 上部署了一个 *Waline* 实例。
 
-![树洞被命名（原本叫表白墙的，太直球了）](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/FF81AB61-99FA-11ED-84DE-40F02F6F7A43.png?x-oss-process=image/format,webp)
+![树洞被命名（原本叫表白墙的，太直球了）](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/FF81AB61-99FA-11ED-84DE-40F02F6F7A43.png?x-oss-process=image/format,webp)
 
 ## 关于消息推送的斟酌
 
@@ -25,7 +25,7 @@ toc: true
 
 所以这个让我头疼了好机会，因为 *Waline* 没有什么能够推送到微信的方法。一开始想的是微信公众号，但是根本不可能。于是后来郑老师搞了个企业微信，我便尝试通过企业微信来发消息推送。
 
-![企业微信机器人](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/FF5D28E2-99F9-11ED-B378-40F02F6F7A43.png?x-oss-process=image/format,webp)
+![企业微信机器人](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/FF5D28E2-99F9-11ED-B378-40F02F6F7A43.png?x-oss-process=image/format,webp)
 
 但是后来再想想，通过企业微信群推送，还是不太现实。因为同学们必须得再注册一个企业微信，再加入企业，非常麻烦，~~根本不符合微信的小而美。~~
 
@@ -37,7 +37,7 @@ toc: true
 
 最开始我想的是直接用 *Waline Example*，也就是他部署完在根目录默认会提供的一个评论区示例。这个方法使用了一段时间我的眼睛就受不了了，又是默认英文，还有各种不顺眼的地方，而且空空荡荡，过于简洁，无法自定义其他内容，属实令人难蚌。
 
-![Waline Example](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/FFC9A657-99F9-11ED-9E44-40F02F6F7A43.png?x-oss-process=image/format,webp)
+![Waline Example](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/FFC9A657-99F9-11ED-9E44-40F02F6F7A43.png?x-oss-process=image/format,webp)
 
 所以到最后，还是我出手写了前端，也不能算前端吧，就是一个 HTML 5 的页面，这样通过引入就可以实现固定内容 + 评论区这样的排版了。
 
@@ -45,14 +45,14 @@ toc: true
 
 在简单修改完后，我们的前端变得好看一些了。这个时候已经是 1 月 20 日。在完成前端后，郑老师找到我，说准备大年初一的凌晨正式上线树洞，也就是 1 月 21 日（除夕夜）的凌晨。
 
-![郑老师言辞拒绝](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/008491E8-99FA-11ED-A4BE-40F02F6F7A43.png?x-oss-process=image/format,webp)
+![郑老师言辞拒绝](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/008491E8-99FA-11ED-A4BE-40F02F6F7A43.png?x-oss-process=image/format,webp)
 
 在当时我其实有点想反对，因为在完成前端后，基本上就已经可以使用了。
 
 20 号夜里和郑老师在动漫社微信群里水了一下树洞的开发情况，说明了要大年初一上线后，一大群同学们听说~~表白墙~~搞完了，纷纷提出要~~内测资格~~。而且真的想体验的人还很多，于是乎，~~迫于无奈，~~ 郑老师官宣了树洞的网址，大家可以在微信里内置浏览器里直接发帖。
 
-![大家都在求内测资格](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/01DF18E1-99FA-11ED-800D-40F02F6F7A43.png?x-oss-process=image/format,webp)
-![放出入口](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/0338B55C-99FA-11ED-8EDD-40F02F6F7A43.png?x-oss-process=image/format,webp)
+![大家都在求内测资格](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/01DF18E1-99FA-11ED-800D-40F02F6F7A43.png?x-oss-process=image/format,webp)
+![放出入口](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/0338B55C-99FA-11ED-8EDD-40F02F6F7A43.png?x-oss-process=image/format,webp)
 
 ## 非同凡响的热度
 
@@ -64,13 +64,13 @@ toc: true
 
 当天晚上，评论就已经有 150 多条了，因为我基本上不需要再做什么调整，所以满怀着激动，安心了下来。
 
-![数据库统计的上线当天的评论总数](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/03F882F2-99FA-11ED-B149-40F02F6F7A43.png?x-oss-process=image/format,webp)
-![刚上线的评论节选](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/0416E04D-99FA-11ED-BC54-40F02F6F7A43.png?x-oss-process=image/format,webp)
-![火钳刘明！](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/042C643B-99FA-11ED-AFDF-40F02F6F7A43.png?x-oss-process=image/format,webp)
+![数据库统计的上线当天的评论总数](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/03F882F2-99FA-11ED-B149-40F02F6F7A43.png?x-oss-process=image/format,webp)
+![刚上线的评论节选](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/0416E04D-99FA-11ED-BC54-40F02F6F7A43.png?x-oss-process=image/format,webp)
+![火钳刘明！](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/042C643B-99FA-11ED-AFDF-40F02F6F7A43.png?x-oss-process=image/format,webp)
 
 令人捧腹的是，因为评论的数量太多，亲爱的郑老师当天晚上一直在非常崩溃地复制粘贴，工作量巨大。并且因为是一条评论一个朋友圈，所以他小号还顺便朋友圈刷屏了（笑。于是后来改成直接截评论的长图。
 
-![郑老师崩溃瞬间（乐](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/04E5F031-99FA-11ED-A6CA-40F02F6F7A43.png)
+![郑老师崩溃瞬间（乐](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/04E5F031-99FA-11ED-A6CA-40F02F6F7A43.png)
 
 ## 评论监测与审核
 
@@ -94,7 +94,7 @@ toc: true
 
 其实 20 号午夜我就在想，因为项目从第三方来看是郑老师发起的，所以我就让郑老师发我他的收款码，然后添加到了前端上。
 
-![赚米咯！](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/0645F558-99FA-11ED-A8C4-40F02F6F7A43.png?x-oss-process=image/format,webp)
+![赚米咯！](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/0645F558-99FA-11ED-A8C4-40F02F6F7A43.png?x-oss-process=image/format,webp)
 
 没有想到的是真的有人打钱了，~~不愧是北京高中生，v 我 50 看看实力。~~ 在最开始我是没想过赚米的，但是收到赞助真的是相当意外，我也突然意识到，这大概是我第一次将编程变现。
 
@@ -106,9 +106,9 @@ toc: true
 
 1 月 21 日（除夕）下午，整个项目的开发基本就进行到收尾阶段了，剩下的便是维护。于是我就利用不怎么用的 *095 Pages Archive*，仿照北京大学树洞的使用条款写了用户使用须知（写了好多正能量，希望以后老师不会把这个项目给封禁吧），自己又写了一些说明，完成这些基本上我就开发完了，剩下的就基本上剩下日常维护了。
 
-![用户使用须知](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/06FEE51D-99FA-11ED-9355-40F02F6F7A43.png?x-oss-process=image/format,webp)
-![「北京五中树洞最终的样子」](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/071C5826-99FA-11ED-9468-40F02F6F7A43.png?x-oss-process=image/format,webp)
-![评论节选](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/073907FA-99FA-11ED-9E9D-40F02F6F7A43.png?x-oss-process=image/format,webp)
+![用户使用须知](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/06FEE51D-99FA-11ED-9355-40F02F6F7A43.png?x-oss-process=image/format,webp)
+![「北京五中树洞最终的样子」](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/071C5826-99FA-11ED-9468-40F02F6F7A43.png?x-oss-process=image/format,webp)
+![评论节选](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/073907FA-99FA-11ED-9E9D-40F02F6F7A43.png?x-oss-process=image/format,webp)
 
 ## 后记
 

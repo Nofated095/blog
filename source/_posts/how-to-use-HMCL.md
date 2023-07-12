@@ -2,7 +2,7 @@
 title: 使用 HMCL 的正确的姿势
 date: 2022-02-18
 # cover: https://pic.rmb.bdstatic.com/bjh/b6cc5566db8c66501926c215fec27d58.jpeg
-cover: https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/4C12EB51-A84C-11ED-AB14-C03EBA168291.jpg?x-oss-process=image/resize,w_900/format,webp
+cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/4C12EB51-A84C-11ED-AB14-C03EBA168291.jpg?x-oss-process=image/resize,w_900/format,webp
 tags:
 - HMCL
 - 下载

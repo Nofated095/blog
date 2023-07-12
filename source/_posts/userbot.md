@@ -1,16 +1,14 @@
 ---
-abbrlink: ''
+title: 我是怎么把 User Bot 从 Q2TG 里面扬了的
+date: 2023-01-20
+#cover: https://imgsrc.baidu.com/super/pic/item/c8177f3e6709c93db0cd8232da3df8dcd100543c.jpg
+cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/742E409E-A84C-11ED-AEC9-C03EBA168291.jpg?x-oss-process=image/format,webp
+tags:
+- Telegram
 categories:
 - 写 BUG 日常
 - 野生技术协会
-#cover: https://imgsrc.baidu.com/super/pic/item/c8177f3e6709c93db0cd8232da3df8dcd100543c.jpg
-cover: https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/742E409E-A84C-11ED-AEC9-C03EBA168291.jpg?x-oss-process=image/format,webp
-date: '2023-01-20 00:00:00'
-tags:
-- Telegram
-title: 我是怎么把 User Bot 从 Q2TG 里面扬了的
 toc: true
-updated: '2023-02-06 21:12:44'
 ---
 记一次修改 Q2TG 源码使 Telegram 和 QQ 消息同步机器人去 User Bot 化的过程。
 
@@ -46,7 +44,7 @@ updated: '2023-02-06 21:12:44'
 
 于是我尝试在 GitHub 搜索了一下，没想到就可以直接开始肝了（
 
-![](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/72E8539A-A84C-11ED-94C1-C03EBA168291.png)
+![](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/72E8539A-A84C-11ED-94C1-C03EBA168291.png)
 
 ### ❌ 脑瘫思路 —— Undefined
 
@@ -234,13 +232,13 @@ export default class SetupController {
 
 在构建 Image 完成后，我激动地~~关掉了 `v1` 的 Container~~ 在服务器上拉取并部署。
 
-![部署过程](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/732423D4-A84C-11ED-90BC-C03EBA168291.png)
+![部署过程](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/732423D4-A84C-11ED-90BC-C03EBA168291.png)
 
-![正常工作的瞬间](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/737FB1A2-A84C-11ED-9FD7-C03EBA168291.png)
+![正常工作的瞬间](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/737FB1A2-A84C-11ED-9FD7-C03EBA168291.png)
 
 ~~真是感动到让人落泪~~。
 
-![文件转发](https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/73E29376-A84C-11ED-BAFD-C03EBA168291.png)
+![文件转发](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/73E29376-A84C-11ED-BAFD-C03EBA168291.png)
 
 ## 后记
 

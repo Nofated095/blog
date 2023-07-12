@@ -3,7 +3,7 @@ title: 亲历北京 2022 年中考与中考中招的经历与体会
 date: 2022-07-31
 #cover: https://pic.rmb.bdstatic.com/bjh/43e00788bd0dcf7e9c4eaab69026637d.png
 #cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/6FFD42F1-A84C-11ED-B6BE-C03EBA168291.png?x-oss-process=image/format,webp
-cover: https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/6FFD42F1-A84C-11ED-B6BE-C03EBA168291.png?x-oss-process=image/format,webp
+cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/6FFD42F1-A84C-11ED-B6BE-C03EBA168291.png?x-oss-process=image/format,webp
 tags:
 - 总结
 - 初中

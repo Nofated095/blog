@@ -1,16 +1,14 @@
 ---
-abbrlink: ''
-categories:
-- 写 BUG 日常
-- 野生技术协会
-cover: https://moenetwork.cachefly.net/43cb7c243eab49d55b481gb8/4708A2D8-A84C-11ED-89C6-C03EBA168291.png?x-oss-process=image/format,webp
-date: '2022-01-31 00:00:00'
+title: 构建 VuePress 2.0.0 并部署到 Vercel
+date: 2022-01-31
+cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/4708A2D8-A84C-11ED-89C6-C03EBA168291.png?x-oss-process=image/format,webp
 tags:
 - VuePress
 - Vercel
-title: 构建 VuePress 2.0.0 并部署到 Vercel
+categories:
+- 写 BUG 日常
+- 野生技术协会
 toc: true
-updated: '2023-03-12 08:59:05'
 ---
 使用 Vercel 来构建最新最热的 VuePress 2.0！
 把任务交给 CI，解放你的双手！
