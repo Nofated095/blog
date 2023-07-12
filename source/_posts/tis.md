@@ -53,7 +53,7 @@ TIS Trinity Union
 
 ## 二周年
 
-<div class="justified-gallery">
+<!-- div class="justified-gallery" -->
 
 ![冰船](https://pic.rmb.bdstatic.com/bjh/12597c0e0e05eb5ab0bc5bf3500cb690.png)
 ![出生点1](https://pic.rmb.bdstatic.com/bjh/693f89d2dc4556ed058f794b2d33b047.png)
