@@ -1,10 +1,9 @@
 ---
 title: I want a card | 我开的那些卡
-date: 2022-07-09
-cover: https://pic.rmb.bdstatic.com/bjh/4156538a3bac97884af904d5c47bd690.png
+date: 2022-07-12
+cover: https://imgsrc.baidu.com/forum/pic/item/9922720e0cf3d7ca6f03e2b9b71fbe096a63a90c.jpg
 tags:
 - 总结
-- 2022
 categories:
 - 日常生活
 - 总结
@@ -20,11 +19,13 @@ categories:
 
 因为独立开户是有年龄要求的，16 岁以下只能家长带着来开户。所以，到 16 之前只能自己干等着。
 
-当然，我也没闲着，先开了一张 招商银行 2233 花嫁的银联卡用着，拉着我妈来到招商银行的支行直接拿到了预知卡。
+当然，我也没闲着，先开了一张 招商银行 2233 花嫁的银联卡用着，拉着我妈来到招商银行的支行直接拿到了预制卡。
+
+![招商银行普卡银联 2233 花嫁](https://imgsrc.baidu.com/forum/pic/item/8601a18b87d6277f7733eff76d381f30e824fcd9.jpg)
 
 之后了解到美国运通，尝试网申，发现兴业银行和广发银行下卡没设置年龄要求，只是激活需要够 16，所以就拿到了这两个银行的美国运通借记卡，放手里但是没激活。
 
-在之后是了解到中国银行莫奈万事达世界借记卡在北京分行开户有资产要求，需要持有中行或其它行的万事达世界或 Visa Signature，所以我又申了一个中信银行的中国心万事达世界借记卡，也是放在手里没激活。
+在之后是了解到中国银行莫奈万事达世界借记卡在北京分行开户有资产要求，需要持有中行或其它行的万事达世界（mastercard world）或 Visa Signature，所以我又申了一个中信银行的中国心万事达世界借记卡，也是放在手里没激活。
 
 ## 北京银行，食之无味
 
@@ -32,15 +33,22 @@ categories:
 
 后来找了个时间就给销卡了，反正这卡纯废卡，没法网付，我也暂且没有电汇需求（这张卡免电汇费），真正的做到了鸡肋——食之无味，弃之可惜。
 
+![北京银行 Visa 悦行国际](https://imgsrc.baidu.com/forum/pic/item/962bd40735fae6cdcd4276ae4ab30f2443a70f0f.jpg)
+
 ## 中信银行，来挖墙脚
 
 刚够 16 岁的时候还在上海旅游，去上海交大参观的时候路上太热看到中信银行就进去了。顺便在那里做了中信银行中国心万事达世界卡激活。
 
 那时候，中信银行还只是带着卡和身份证就能来激活的，我甚至开到了手机银行。
 
-因为估计我这辈子都不会拿这张卡网付，而且据说拒付率还挺高，所以就开了二类，我也没再申可以用来购汇的银联一类，反正就用来挖中国银行莫奈的墙角，没实际购物要求。
+因为估计我这辈子都不会拿这张卡网付，虽然有 3ds 也能付款，但总体实用性比隔壁中国银行要大大降低，所以就开了二类，我也没再申可以用来购汇的银联一类，反正就用来挖中国银行莫奈的墙角，没实际购物要求。
+
+值得一提的是，这张卡的的确确是一张高端卡。
 
 后来又申请的美国运通金卡，不过一直在我包里。再去支行就被告知没有工作证明的在校学生必须带家长来激活。
+
+![中信银行中国心万事达世界](https://imgsrc.baidu.com/forum/pic/item/6609c93d70cf3bc70cf110239400baa1cc112a08.jpg)
+![中信银行美国运通金卡](https://imgsrc.baidu.com/forum/pic/item/7e3e6709c93d70cfa90a77c2bddcd100bba12b09.jpg)
 
 ## 招商银行，销户重开
 
@@ -52,7 +60,9 @@ categories:
 
 于是，~~我又开了一个新的 2233 花嫁~~，自己的卡拿在手里确实很舒服。
 
-不过说实话，2233 花嫁卡拿多了又觉得抽象了，大概是卡板问题，卡面特别容易划伤而且画面颜色也有点失，所以就同卡面换卡换了春日萌动。
+不过说实话，2233 花嫁卡用多了就觉得腻了，大概是卡板问题，卡面特别容易划伤而且画面颜色也有点失，所以就同卡面换卡换了春日萌动。不得不说，油画工艺真是好看，手感还特别好。
+
+![春日萌动](https://imgsrc.baidu.com/forum/pic/item/8435e5dde71190ef2b084f108b1b9d16fcfa600a.jpg)
 
 ## 中国银行，心之向往
 
@@ -68,6 +78,14 @@ categories:
 
 至此，北京大概是再也没有冬奥 Visa 了。
 
+<div class="justified-gallery">
+
+![中国银行长城冰雪借记卡](https://imgsrc.baidu.com/forum/pic/item/c2cec3fdfc03924576473cc0c294a4c27c1e250b.jpg)
+![中国银行莫奈日出万事达世界](https://imgsrc.baidu.com/forum/pic/item/3801213fb80e7bec0637de2e6a2eb9389a506b14.jpg)
+![中国银行冬奥 Visa Signature 异型卡](https://imgsrc.baidu.com/forum/pic/item/730e0cf3d7ca7bcb1f971ae0fb096b63f724a815.jpg)
+
+</div>
+
 ## 兴业银行，开还是不开
 
 兴业银行的美国运通蓝盒子是我最早拿到的卡之一，一直没有激活，而且听说群 u 开出来之后因为未成年直接非柜，所以一直对兴业印象不太好。
@@ -80,6 +98,13 @@ categories:
 
 兴业无界卡在云闪付消费有 cashback，所以就把他当作了我的小额付款卡咯。
 
+<div class="justified-gallery">
+
+![兴业银行银联无界卡](https://imgsrc.baidu.com/forum/pic/item/b7003af33a87e95004f82ea355385343faf2b416.jpg)
+![兴业银行美国运通蓝盒子](https://imgsrc.baidu.com/forum/pic/item/1f178a82b9014a90212a9b72ec773912b21beeee.jpg)
+
+</div>
+
 ## 广发银行，德才兼备
 
 广发银行的 lucky 美国运通一直是我认为最好看的卡面之一。而且据说网付起来很好用，所以就去了银行做了激活。
@@ -89,6 +114,13 @@ categories:
 于是我还有病一样开了两张 lucky，一张作一类，一张作二类，虽然没有卵用，但是我就是这么干了。因为不够 18 岁所以也没有手机银行之类的。
 
 值得一提的是如何给广发这张卡入金。中国银行手机银行可以给卡里面汇款，但是我不是很喜欢用中行手银。云闪付也没办法转账。所以最后选定了数字人民币。只有微众银行能绑定这张 lucky 卡。从别的行转到里面 0 手续费，非常爽。
+
+<div class="justified-gallery">
+
+![广发银行美国运通 lucky](https://imgsrc.baidu.com/forum/pic/item/faedab64034f78f03ee5473c3c310a55b2191c17.jpg)
+![第二张](https://imgsrc.baidu.com/forum/pic/item/5882b2b7d0a20cf47579231033094b36adaf9910.jpg)
+
+</div>
 
 ## 中国工商，共驱之
 
@@ -107,3 +139,10 @@ categories:
 试了试 Mid Journey（Stripe），Telegram Premium 和 Steam，都付款成功了，但是必须得有美元。
 
 Telegram Premium 和 Steam 虽然是美元出金，但是记账是人民币，也就是，相当于境外消费人民币了。
+
+<div class="justified-gallery">
+
+![工商银行银联故宫联名借记卡](https://imgsrc.baidu.com/forum/pic/item/7acb0a46f21fbe0973b61edb2e600c338644ad11.jpg)
+![牡丹国际借记卡](https://imgsrc.baidu.com/forum/pic/item/29381f30e924b89946d4a4f72b061d950b7bf612.jpg)
+
+</div>
