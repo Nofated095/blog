@@ -1,6 +1,6 @@
 ---
 title: I want a card | 我开的那些卡
-date: 2022-07-12
+date: 2023-07-12
 cover: https://imgsrc.baidu.com/forum/pic/item/9922720e0cf3d7ca6f03e2b9b71fbe096a63a90c.jpg
 tags:
 - 总结
