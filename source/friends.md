@@ -3,6 +3,7 @@ title: 朋友们
 # cover: https://littleskin.cn/background.jpg
 date: 2020-10-01
 widgets:
+comment:
 ---
 <center><a href="https://www.foreverblog.cn/" target="_blank" > <img src="https://img.foreverblog.cn/logo_en_default.png" alt="Forever" style="width:auto;height:32px;"> </a><a href="https://www.travellings.cn/go.html" target="_blank" > <img src="https://www.travellings.cn/assets/logo.svg" alt="Travelling" style="width:auto;height:32px;"> </a> <a href="https://www.foreverblog.cn/go.html" target="_blank"> <img src="https://img.foreverblog.cn/wormhole_2.gif" alt="" style="width:auto;height:32px;" title="穿梭虫洞-随机访问十年之约友链博客"></a></center>
 
@@ -598,6 +599,7 @@ widgets:
     </div>
 </div>
 
+<!-- 
 欢迎和本站互换友情链接。要求如下
 
 - 博客内容不得存在违反中华人民共和国，中华人民共和国香港特别行政区和美国加利福尼亚州相关法律的内容
@@ -619,3 +621,4 @@ type: Blog / Home Page
 link: https://blog.nofated.win
 需要在评论时填入邮箱以获取基于 Gravatar 的头像
 ```
+-->
