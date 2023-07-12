@@ -1,3 +1,11 @@
+---
+title: 关于
+# cover: https://littleskin.cn/background.jpg
+date: 2020-10-01
+widgets:
+comment:
+---
+
 {% meting "1398631166" "netease" "song" %}
 
 ## 关于博客

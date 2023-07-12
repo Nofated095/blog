@@ -103,7 +103,7 @@ navbar:
         首页: /
         归档: /archives
         友链: /friends.html
-        关于: /about.html
+#        关于: /about.html
 # Page footer configurations
 footer:
     # Links to be shown on the right of the footer section

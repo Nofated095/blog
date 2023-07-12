@@ -1,5 +1,5 @@
 ---
-title: 友情链接
+title: 朋友们
 # cover: https://littleskin.cn/background.jpg
 date: 2020-10-01
 widgets:
