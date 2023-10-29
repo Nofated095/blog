@@ -1,5 +1,5 @@
 ---
-title: 不仅是 outlook.com | 申请与众不同的 Outlook 邮箱
+title: 不仅是 outlook.com | 申请地区域名的 Outlook 邮箱
 date: 2021-08-28
 cover: https://pic.rmb.bdstatic.com/bjh/da66dc778eb58ee35adc1de5c5bdd323.png
 tags:
@@ -9,7 +9,7 @@ categories:
 - 野生技术协会
 toc: true
 ---
-不拘泥于传统 Outlook，申请一个与众不同的 Outlook.it/Outlook.ie/Outlook.fr 邮箱。
+通过修改语言注册 Outlook.it/Outlook.ie/Outlook.fr 等地区域名邮箱。
 <!--more-->
 可能你见惯了类似于 `abc@outlook.com` 的邮箱地址，都是千篇一律的 `outlook.com` 结尾，但是你看见过类似 `abc@outlook.it`, `abc@outlook.ie` 以地区域名为结尾的邮箱吗？现在微软官网开放注册特殊域名的邮箱可以申请注册。
 

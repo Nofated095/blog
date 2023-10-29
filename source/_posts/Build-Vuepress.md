@@ -39,17 +39,10 @@ toc: true
 
 ```json
 {
-  "name": "VuePress_example",
-  "version": "1.0.0",
-  "description": "An example of VuePress",
-  "main": "index.ts",
   "scripts": {
-    "docs:dev": "VuePress dev docs",
-    "docs:build": "VuePress build docs"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
-  "keywords": [],
-  "author": "Your Name Here",
-  "license": "CC BY-NC-SA 4.0",
   "devDependencies": {
     "VuePress": "^2.0.0-beta.35"
   }
@@ -163,7 +156,7 @@ export default defineUserConfig<DefaultThemeOptions>({
 
 [新建 Vercel 项目](https://vercel.com/new)，Import 你刚刚的仓库，但在 「Configure Project」 中要修改 「Build and Output Settings」。
 
-- 「BUILD COMMAND」 中填入 `yarn docs:build`（当然 `npm run docs:build` 也没问题）
+- 「BUILD COMMAND」 中填入 `yarn build`（当然 `npm run build` 也没问题）
 - 「OUTPUT DIRECTORY」 中填入 `docs/.vuepress/dist`
 
 点击「Deploy」即可完成部署！

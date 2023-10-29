@@ -1,5 +1,5 @@
 ---
-title: Ubuntu To Go 制作教程
+title: Ubuntu To Go 制作实践
 date: 2021-07-01
 cover: https://pic.rmb.bdstatic.com/bjh/bc4a3e70e1a4b7ddb9ce5a14d757ee86.png
 tags:
@@ -10,7 +10,7 @@ categories:
 - 野生技术协会
 toc: true
 ---
-把 Ubuntu 装进移动硬盘
+即插即用的 Ubuntu，将 Ubuntu 安装在便携式储存设备上。
 <!--more-->
 
 {% raw %}<article class="message is-success"><div class="message-body">{% endraw %}

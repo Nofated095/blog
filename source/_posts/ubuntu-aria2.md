@@ -11,7 +11,7 @@ categories:
 - 野生技术协会
 toc: true
 ---
-How to install aria2 onnn Ubuntu.
+Tutorial of installing aria2 on Ubuntu.
 <!--more-->
 {% raw %}<article class="message is-success"><div class="message-body">{% endraw %}
 You need root premission to intall aria2 by apt.

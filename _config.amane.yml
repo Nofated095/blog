@@ -193,9 +193,9 @@ widgets:
         # Author name
         author: Nofated
         # Author title
-        author_title: 'Forever you will be in my heart.'
+        # author_title: 'Forever you will be in my heart.'
         # Author's current location
-        location: CLOUDFLARE.COM
+        # location: CLOUDFLARE.COM
         # URL or path to the avatar image
         avatar: https://cdn.nofated.win/avatar/256
         # Whether show the rounded avatar image
@@ -203,7 +203,7 @@ widgets:
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        # follow_link: 'https://space.bilibili.com/351951550'
+        # follow_link: 'https://nof.moe'
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:

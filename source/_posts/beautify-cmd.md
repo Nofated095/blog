@@ -9,7 +9,7 @@ categories:
 - 野生技术协会
 toc: true
 ---
-尽管有 Windows Terminal，也要让我的命令提示符变得好看！
+将终端字体更换为 Microsoft Yahei Mono。
 
 <!--more-->
 

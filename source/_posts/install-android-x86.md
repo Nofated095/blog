@@ -10,7 +10,7 @@ categories:
 - 野生技术协会
 toc: true
 ---
-看到我的 Parallels Desktop ，发现好久好久没有用过了，今天刚好趁着国庆捣鼓亿下（但实际文章是国庆假期后月考完了写的）。
+在虚拟机中安装 android-x86。
 <!--more-->
 {% raw %}<article class="message is-success"><div class="message-body">{% endraw %}
 关于虚拟机的使用、创建我就直接跳过了。如果你不知道去哪里寻找需要的 android-x86，你可以点击[清华大学开源软件镜像站下载](https://mirrors.tuna.tsinghua.edu.cn) 或 [北京外国语大学开源软件镜像站下载](https://mirrors.bfsu.edu.cn) 右侧的`获取下载链接`，选择`操作系统`，再选择 `Android-x86`，然后你就可以选择适合你的版本进行下载。不同的版本可能操作方式不同
