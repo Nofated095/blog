@@ -14,7 +14,7 @@ toc: true
 <!--more-->
 
 {% raw %}<article class="message is-success"><div class="message-body">{% endraw %}
-本文安装系统为 Ubuntu 20.04.2 LTS
+We selected Ubuntu 20.04.2 LTS
 {% raw %}</div></article>{% endraw %}
 本文部分摘自
 

@@ -1,5 +1,5 @@
 ---
-title: 虚拟机安装 android-x86
+title: 安装 android-x86 实践
 date: 2020-10-01
 cover: https://pic.rmb.bdstatic.com/bjh/6eee36871b274cf30b3d34fc24d97784.png
 tags:

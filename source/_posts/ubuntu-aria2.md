@@ -11,10 +11,10 @@ categories:
 - 野生技术协会
 toc: true
 ---
-Ubuntu 安装了 [Motrix](https://motrix.app)，好用是真好用，但是缺点就是我电脑太卡，启动它老费劲了。所以在这里把安装 aria2 的过程分享出来供大家参考
+How to install aria2 onnn Ubuntu.
 <!--more-->
 {% raw %}<article class="message is-success"><div class="message-body">{% endraw %}
-本文章需要你有执行 sudo 的权限
+You need root premission to intall aria2 by apt.
 {% raw %}</div></article>{% endraw %}
 
 ## 安装
@@ -28,21 +28,16 @@ sudo apt-get install aria2
 ### 手动创建配置文件
 
 ``` BASH BASH
-sudo mkdir /etc/aria2    #新建文件夹 
-sudo touch /etc/aria2/aria2.session    #新建session文件
-sudo chmod 777 /etc/aria2/aria2.session    #设置aria2.session可写 
-sudo gedit /etc/aria2/aria2.conf    #创建配置文件
+sudo mkdir /etc/aria2    #创建环境目录
+sudo touch /etc/aria2/aria2.session    #新建 session 文件
+sudo chmod 777 /etc/aria2/aria2.session    #设置 aria2.session 可写 
+sudo touch /etc/aria2/aria2.conf    #创建配置文件
 ```
 
-当然你也可以用一键命令行（
-
-```  BASH BASH
-sudo mkdir /etc/aria2 && sudo touch /etc/aria2/aria2.session && sudo chmod 777 /etc/aria2/aria2.session && sudo gedit /etc/aria2/aria2.conf
-```
 
 ### 写入配置文件
 
-如果一切正常的话，你应该已经打开了 Ubuntu 自带的 gedit。现在添加如下配置信息，当然你也可以自定义。
+用 `vim` 或者 `nano` 之类的文本编辑器写入 aria2 的配置文件 `/etc/aria2/aria2.conf`。
 
 ``` path /etc/aria2/aria2.conf >folded
 ## 全局设置 ## ============================================================
@@ -213,4 +208,4 @@ sudo aria2c --conf-path=/etc/aria2/aria2.conf -D
 
 命令行肯定是不够的，所以这时候我们需要使用 aria2 的 RPC。
 
-你可以在这里下载 [AriaNg](https://github.com/mayswind/AriaNg/releases)，推荐 All-in-one，可以直接提取出来放在桌面。不出意外的话，打开之后就可以自动对接到 aria2。
+你可以使用 [AriaNg](https://github.com/mayswind/AriaNg/releases)，在 AriaNg 中配置好你设置的 RPC 端口，默认为 `6800`，即可使用
