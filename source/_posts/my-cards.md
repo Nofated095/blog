@@ -7,6 +7,7 @@ tags:
 categories:
 - 日常生活
 - 总结
+toc: true
 ---
 不知不觉，我成为了一个卡友。
 <!--more-->
