@@ -376,14 +376,14 @@ comment:
                         </figure>
                     </div>
                     <div class="media-content">
-                        <p class="title is-4">一刀斩</p>
-                        <p class="subtitle is-6">是一刀受哒</p>
+                        <p class="title is-4">斬風·千雪</p>
+                        <p class="subtitle is-6">浩繁星空下的一场稚嫩的梦</p>
                     </div>
                 </div>
             </div>
             <footer class="card-footer">
-                <a target="_blank" href="https://github.com/YidaozhanYa" class="card-footer-item">GitHub</a>
-                <a target="_blank" href="https://blog.yidaozhan.top/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/chiyuki0325" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://chyk.ink/" class="card-footer-item">Home Page</a>
             </footer>
         </div>
     </div>

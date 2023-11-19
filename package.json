@@ -32,7 +32,7 @@
     "hexo-clean-css": "2.0.0",
     "hexo-uglify": "^2.0.0",
     "hexo-html-minifier": "^1.0.0",
-    "hexo-theme-amane": "0.0.27",
+    "hexo-theme-amane": "0.0.28",
     "hexo-theme-icarus": "5.2.1",
     "inferno": "^8.0.1",
     "inferno-create-element": "^8.0.1",
