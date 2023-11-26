@@ -263,7 +263,7 @@ widgets:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
 plugins:
     # Enable page startup animations
-    animejs: false
+    animejs: true
     # Show the "back to top" button
     back_to_top: true
     # Baidu Analytics plugin settings
@@ -278,7 +278,7 @@ plugins:
         tracking_id: 18E1B8B1375D6D1603970E5998BE1077
     # BuSuanZi site/page view counter
     # https://busuanzi.ibruce.info
-    busuanzi: true
+    busuanzi: false
     # CNZZ statistics
     # https://www.umeng.com/web
     cnzz:
@@ -308,7 +308,7 @@ plugins:
     # http://outdatedbrowser.com/
     outdated_browser: false
     # Show a progress bar at top of the page on page loading
-    progressbar: false
+    progressbar: true
     # Statcounter statistics
     # https://statcounter.com/
     statcounter:
