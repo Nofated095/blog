@@ -263,7 +263,7 @@ widgets:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
 plugins:
     # Enable page startup animations
-    animejs: true
+    animejs: false
     # Show the "back to top" button
     back_to_top: true
     # Baidu Analytics plugin settings
@@ -308,7 +308,7 @@ plugins:
     # http://outdatedbrowser.com/
     outdated_browser: false
     # Show a progress bar at top of the page on page loading
-    progressbar: true
+    progressbar: false
     # Statcounter statistics
     # https://statcounter.com/
     statcounter:
