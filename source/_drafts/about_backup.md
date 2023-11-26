@@ -6,7 +6,7 @@ widgets:
 comment:
 ---
 
-{% meting "1398631166" "netease" "song" %}
+```{% meting "1398631166" "netease" "song" %}```
 
 ## 关于博客
 
