@@ -53,7 +53,7 @@ routing.registerRoute(
     })
 );
 
-registerRoute(
+routing.registerRoute(
     /.*xgjalbum\.oss-cn-hangzhou\.aliyuncs\.com/,
     new CacheFirst({
         cacheName: 'static-immutable' + cacheSuffixVersion,
