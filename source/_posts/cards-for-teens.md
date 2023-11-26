@@ -1,7 +1,7 @@
 ---
 title: 合法萝莉大陆开卡指北
 date: 2023-11-26
-cover: https://imgsrc.baidu.com/forum/pic/item/0b7b02087bf40ad1f849b6d5112c11dfa9ecce53.jpg
+cover: https://imgsrc.baidu.com/forum/pic/item/c2fdfc039245d68890f6c392e2c27d1ed21b240b.jpg
 tags:
 - 银行卡
 categories:
