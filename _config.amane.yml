@@ -251,7 +251,7 @@ widgets:
         position: right
         type: links
         links:
-            Nofated: 'https://nof.moe'
+            Amane: 'https://nof.moe'
             OneDrive: 'https://o.nof.moe'
             '萌 ICP 备 20232345 号': 'https://icp.gov.moe/?keyword=20232345'
             Travelling: 'https://www.travellings.cn/go.html'

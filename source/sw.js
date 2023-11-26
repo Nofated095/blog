@@ -139,23 +139,6 @@ routing.registerRoute(
 );
 
 routing.registerRoute(
-    /.*fonts\.googleapis\.cn/,
-    new CacheFirst({
-        cacheName: 'static-immutable' + cacheSuffixVersion,
-        fetchOptions: {
-            mode: 'cors',
-            credentials: 'omit'
-        },
-        plugins: [
-            new ExpirationPlugin({
-                maxAgeSeconds: 30 * 24 * 60 * 60,
-                purgeOnQuotaError: true
-            })
-        ]
-    })
-);
-
-routing.registerRoute(
     /.*fonts\.gstatic\.cn/,
     new CacheFirst({
         cacheName: 'static-immutable' + cacheSuffixVersion,
