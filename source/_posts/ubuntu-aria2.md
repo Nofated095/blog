@@ -5,9 +5,7 @@ cover: https://pic.rmb.bdstatic.com/bjh/292af82583715d0ded5a48f96944391e.png
 tags:
 - Ubuntu
 - aria2
-- 下载
 categories:
-- 写 BUG 日常
 - 野生技术协会
 toc: true
 ---

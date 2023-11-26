@@ -5,8 +5,8 @@ date: 2023-01-20
 cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/742E409E-A84C-11ED-AEC9-C03EBA168291.jpg?x-oss-process=image/format,webp
 tags:
 - Telegram
+- TypeScript
 categories:
-- 写 BUG 日常
 - 野生技术协会
 toc: true
 ---

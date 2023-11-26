@@ -3,20 +3,20 @@ title: 合法萝莉大陆开卡指北
 date: 2023-11-26
 cover: https://imgsrc.baidu.com/forum/pic/item/0823dd54564e9258cb78f7d8da82d158ccbf4eb3.jpg
 tags:
-- 卡
+- 银行卡
 categories:
-- 日常生活
-- 总结
+- 卡友日常
+- 银行卡
 toc: true
 ---
 年满十六岁但是还不到十八岁的小萝莉想要开一张银行卡来做日常使用，那么怪蜀黍会推荐给小萝莉什么样的卡呢？
 <!--more-->
 
-{% raw %}<div class="notification is-success">{% endraw %}
+{% raw %}<article class="message is-info"><div class="message-body">{% endraw %}
 本文写给一切**未满十八已满十六**的少男少女们。本文是一篇经验之谈，**不具有任何科学性价值**。时效性截止到 2023 年 11 月 26 日。
 {% raw %}</div>{% endraw %}
 
-{% raw %}<div class="notification is-warning">{% endraw %}
+{% raw %}<article class="message is-danger"><div class="message-body">{% endraw %}
 此文章并未成文，仍然需要补充。
 {% raw %}</div>{% endraw %}
 
@@ -81,15 +81,16 @@ toc: true
 一般来讲我会建议你先行到楼下进行实地考察。部分地区对于普卡是收取卡板费的。如果收取的话你可以参考下面。
 
 >**中国航空航天大学联名卡** [申请](https://ebiz.icbc.com.cn/icbc/ecams/debitcard/index/mail_debit_card_main.flowc?flowActionName=apply&i_apchannel=8&tranFlag=3&i_areaCode=0200&i_prodid=120010443780&i_allyno=02000092&i_employId=000892210) [微信公众号链接](https://mp.weixin.qq.com/s/vAdfyTgiOmUOFzTRB-yU3Q)
->
 >**中国政法大学联名卡** [申请](https://ebiz.icbc.com.cn/icbc/ecams/debitcard/index/mail_debit_card_main.flowc?flowActionName=apply&i_apchannel=8&tranFlag=3&i_areaCode=0200&i_prodid=120010404280&i_allyno=02000091&i_employId=001028770)  [微信公众号链接](https://mp.weixin.qq.com/s/CXhN6KHvaHHkHgM8bek7kA)
 >**华南师范大学联名卡** [微信公众号链接](https://mp.weixin.qq.com/s/qye_qcjkSQSBvISrhFUjKA)
->上面的三张大学联名卡均不需要卡板费即可办理。
+>
+>上面的三张大学联名卡均不需要卡板费即可办理，并且没有身份核验，理论有身份证就能办。
+>
 >如果你愿意花钱的话，也可以在**中国工商银行客户服务微信公众号** > 金融 > 业务大厅 > 储蓄卡专区 > 申请储蓄卡查看其它卡面。
 >
->申请进度查询 **中国工商银行客户服务微信公众号** > 金融 > 业务大厅 > 储蓄卡专区 > 申请进度查询 或 
+>申请进度查询 **中国工商银行客户服务微信公众号** > 金融 > 业务大厅 > 储蓄卡专区 > 申请进度查询。
 
-，并且没有身份核验，理论有身份证就能办。信息填写完毕后会出卡号，大概一周左右你会收到装有银行卡的信件，拿上信件中的卡持本人有效证件到线下网点激活即可。
+信息填写完毕后会出卡号，大概一周左右你会收到装有银行卡的信件，拿上信件中的卡持本人有效证件到线下网点激活即可。
 
 如果支行想要拒绝你，给你开二类，或者限制非柜你，建议换支行，一般来讲地区的分行开卡限制会较少，扯皮也会少很多。
 
@@ -104,7 +105,7 @@ toc: true
 
 ### 美国运通
 
-{% raw %}<div class="notification is-warning">{% endraw %}
+{% raw %}<article class="message is-danger"><div class="message-body">{% endraw %}
 美国运通借记卡是**人民币记账**的卡，**不是外币卡**。
 {% raw %}</div>{% endraw %}
 

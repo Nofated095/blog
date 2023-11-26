@@ -4,9 +4,8 @@ date: 2021-07-01
 cover: https://pic.rmb.bdstatic.com/bjh/bc4a3e70e1a4b7ddb9ce5a14d757ee86.png
 tags:
 - Ubuntu
-- 虚拟机
+- VM
 categories:
-- 写 BUG 日常
 - 野生技术协会
 toc: true
 ---
