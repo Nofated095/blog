@@ -1,7 +1,7 @@
 ---
 title: 合法萝莉大陆开卡指北
 date: 2023-11-26
-cover: https://imgsrc.baidu.com/forum/pic/item/0823dd54564e9258cb78f7d8da82d158ccbf4eb3.jpg
+cover: https://imgsrc.baidu.com/forum/pic/item/0b7b02087bf40ad1f849b6d5112c11dfa9ecce53.jpg
 tags:
 - 银行卡
 categories:
@@ -14,11 +14,11 @@ toc: true
 
 {% raw %}<article class="message is-info"><div class="message-body">{% endraw %}
 本文写给一切**未满十八已满十六**的少男少女们。本文是一篇经验之谈，**不具有任何科学性价值**。时效性截止到 2023 年 11 月 26 日。
-{% raw %}</div>{% endraw %}
+{% raw %}</div></article>{% endraw %}
 
 {% raw %}<article class="message is-danger"><div class="message-body">{% endraw %}
 此文章并未成文，仍然需要补充。
-{% raw %}</div>{% endraw %}
+{% raw %}</div></article>{% endraw %}
 
 欢迎任何想要入门银行卡的朋友们，在阅读本文之前，请先确认你已经准备好了下面的工作
 
@@ -107,7 +107,7 @@ toc: true
 
 {% raw %}<article class="message is-danger"><div class="message-body">{% endraw %}
 美国运通借记卡是**人民币记账**的卡，**不是外币卡**。
-{% raw %}</div>{% endraw %}
+{% raw %}</div></article>{% endraw %}
 
 兴业银行已经拒绝为未成年客户线上领卡，所以只能打电话给线下碰运气了。一般建议寻找大网点碰运气。实在找不到就只能 give up 了。
 
