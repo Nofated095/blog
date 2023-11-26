@@ -1,7 +1,7 @@
-importScripts('https://cdn.jsdelivr.net/npm/workbox-cdn@5.1.4/workbox/workbox-sw.js');
+importScripts('/js/workbox/workbox-sw.js');
 
 workbox.setConfig({
-    modulePathPrefix: 'https://cdn.jsdelivr.net/npm/workbox-cdn@5.1.4/workbox/'
+    modulePathPrefix: '/js/workbox/'
 });
 
 const { core, precaching, routing, strategies, expiration, cacheableResponse, backgroundSync } = workbox;
@@ -9,7 +9,7 @@ const { CacheFirst, NetworkFirst, NetworkOnly, StaleWhileRevalidate } = strategi
 const { ExpirationPlugin } = expiration;
 const { CacheableResponsePlugin } = cacheableResponse;
 
-const cacheSuffixVersion = '-231126',
+const cacheSuffixVersion = '-231126a',
     // precacheCacheName = core.cacheNames.precache,
     // runtimeCacheName = core.cacheNames.runtime,
     maxEntries = 100;
@@ -18,8 +18,8 @@ self.addEventListener('activate', (event) => {
     event.waitUntil(
         caches.keys().then((keys) => {
             return Promise.all(keys.map((key) => {
-                if (key.includes('disqus-cdn-cache')) return caches.delete(key);
-                if (key.includes('disqus-img-cache')) return caches.delete(key);
+                if (key.includes('waline-cdn-cache')) return caches.delete(key);
+                if (key.includes('waline-img-cache')) return caches.delete(key);
                 if (!key.includes(cacheSuffixVersion)) return caches.delete(key);
             }));
         })
@@ -203,10 +203,10 @@ routing.registerRoute(
 );
 
 routing.registerRoute(
-    new RegExp('disqus'),
+    new RegExp('waline'),
     new NetworkFirst({
         plugins: [
-            new backgroundSync.BackgroundSyncPlugin('disqus', {
+            new backgroundSync.BackgroundSyncPlugin('waline', {
                 maxRetentionTime: 12 * 60
             }),
         ]

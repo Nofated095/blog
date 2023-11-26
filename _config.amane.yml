@@ -197,7 +197,7 @@ widgets:
         # Author's current location
         # location: CLOUDFLARE.COM
         # URL or path to the avatar image
-        avatar: https://cdn.nofated.win/avatar/256
+        avatar: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/623fec2f97df7d3eee768933/AC1BFF0F-E891-41D0-8BB7-08C4DDB70CA9.png?x-oss-process=image/resize,m_fill,h_256,w_256,limit_0/format,webp
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar
