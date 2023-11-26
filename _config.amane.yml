@@ -4,7 +4,7 @@ version: 6.2.0
 variant: default
 # Path or URL to the website's logo
 logo: 
-    text: Nofated's Blog
+    text: Amane's Blog
 # Page metadata configurations
 head:
     # URL or path to the website's icon
@@ -191,7 +191,7 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Nofated
+        author: Amane
         # Author title
         # author_title: 'Forever you will be in my heart.'
         # Author's current location
