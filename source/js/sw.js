@@ -54,6 +54,23 @@ routing.registerRoute(
 );
 
 routing.registerRoute(
+    /.*blog\.nofated\.win/,
+    new CacheFirst({
+        cacheName: 'static-immutable' + cacheSuffixVersion,
+        fetchOptions: {
+            mode: 'cors',
+            credentials: 'omit'
+        },
+        plugins: [
+            new ExpirationPlugin({
+                maxAgeSeconds: 30 * 24 * 60 * 60,
+                purgeOnQuotaError: true
+            })
+        ]
+    })
+);
+
+routing.registerRoute(
     /.*xgjalbum\.oss-cn-hangzhou\.aliyuncs\.com/,
     new CacheFirst({
         cacheName: 'static-immutable' + cacheSuffixVersion,
