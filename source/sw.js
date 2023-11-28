@@ -105,6 +105,23 @@ routing.registerRoute(
 );
 
 routing.registerRoute(
+    /.*comment\.9595095\.xyz/,
+    new CacheFirst({
+        cacheName: 'static-immutable' + cacheSuffixVersion,
+        fetchOptions: {
+            mode: 'cors',
+            credentials: 'omit'
+        },
+        plugins: [
+            new ExpirationPlugin({
+                maxAgeSeconds: 30 * 24 * 60 * 60,
+                purgeOnQuotaError: true
+            })
+        ]
+    })
+);
+
+routing.registerRoute(
     /.*cdn\.jsdelivr\.net/,
     new CacheFirst({
         cacheName: 'static-immutable' + cacheSuffixVersion,
@@ -211,6 +228,13 @@ routing.registerRoute(
 routing.registerRoute(
     // Cache CSS files
     /.*\.(css|js)/,
+    // Use cache but update in the background ASAP
+    StaleWhileRevalidateInstance
+);
+
+routing.registerRoute(
+    // Cache CSS files
+    /.*\.(json)/,
     // Use cache but update in the background ASAP
     StaleWhileRevalidateInstance
 );
