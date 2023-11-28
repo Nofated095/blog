@@ -329,6 +329,6 @@ providers:
     cdn: '[cdnjs]https://cdn.staticfile.org/${package}/${version}/${filename}'
     # Name or URL template of the webfont CDN provider
     # fontcdn: 'https://fonts.sourcegcdn.com/${type}?family=${fontname}&display=swap'
-    fontcdn: 'https://fonts.googleapis.cn/css2?family=Ubuntu:wght@400;600&family=Source+Code+Pro&display=swap'
+    fontcdn: 'https://fonts.googleapis.cn/css2?family=Ubuntu:wght@400;700&family=JetBrains+Mono&display=swap'
     # Name or URL of the fontawesome icon font CDN provider
     iconcdn: 'https://cdn.staticfile.org/font-awesome/6.4.2/css/all.min.css'
