@@ -9,7 +9,7 @@ const { CacheFirst, NetworkFirst, NetworkOnly, StaleWhileRevalidate } = strategi
 const { ExpirationPlugin } = expiration;
 const { CacheableResponsePlugin } = cacheableResponse;
 
-const cacheSuffixVersion = '-231126a',
+const cacheSuffixVersion = '-231130a',
     // precacheCacheName = core.cacheNames.precache,
     // runtimeCacheName = core.cacheNames.runtime,
     maxEntries = 100;
@@ -35,23 +35,6 @@ core.setCacheNameDetails({
 core.skipWaiting();
 core.clientsClaim();
 precaching.cleanupOutdatedCaches();
-
-routing.registerRoute(
-    /.*lf3-cdn-tos\.bytecdntp\.com/,
-    new CacheFirst({
-        cacheName: 'static-immutable' + cacheSuffixVersion,
-        fetchOptions: {
-            mode: 'cors',
-            credentials: 'omit'
-        },
-        plugins: [
-            new ExpirationPlugin({
-                maxAgeSeconds: 30 * 24 * 60 * 60,
-                purgeOnQuotaError: true
-            })
-        ]
-    })
-);
 
 routing.registerRoute(
     /.*xgjalbum\.oss-cn-hangzhou\.aliyuncs\.com/,
@@ -89,23 +72,6 @@ routing.registerRoute(
 
 routing.registerRoute(
     /.*cdn\.nofated\.win/,
-    new CacheFirst({
-        cacheName: 'static-immutable' + cacheSuffixVersion,
-        fetchOptions: {
-            mode: 'cors',
-            credentials: 'omit'
-        },
-        plugins: [
-            new ExpirationPlugin({
-                maxAgeSeconds: 30 * 24 * 60 * 60,
-                purgeOnQuotaError: true
-            })
-        ]
-    })
-);
-
-routing.registerRoute(
-    /.*comment\.9595095\.xyz/,
     new CacheFirst({
         cacheName: 'static-immutable' + cacheSuffixVersion,
         fetchOptions: {
@@ -233,8 +199,8 @@ routing.registerRoute(
 );
 
 routing.registerRoute(
-    // Cache CSS files
-    /.*\.(json)/,
+    // Cache fonts files
+    /.*\.(woff2|woff)/,
     // Use cache but update in the background ASAP
     StaleWhileRevalidateInstance
 );
