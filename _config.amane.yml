@@ -123,7 +123,7 @@ article:
     highlight:
         # Code highlight themes
         # https://github.com/highlightjs/highlight.js/tree/master/src/styles
-        theme: atom-one-light
+        theme: github
         # Show copy code button
         clipboard: true
         # Default folding status of the code blocks. Can be "", "folded", "unfolded"
@@ -145,7 +145,7 @@ article:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Search/
 search:
     type: insight
-    include_pages: true
+    include_pages: false
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 comment:
@@ -168,7 +168,7 @@ comment:
     math_tag_support: false                       # 可选填
     copyright: true                               # 可选填
     locale:                                       # 可选填
-    placeholder: '来发评论吧！'
+    placeholder: 'Send your comments!'
 # Share plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/
 # Sidebar configurations.

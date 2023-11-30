@@ -54,7 +54,7 @@ toc: true
 
 [下载](https://pilot.app.ecny.pbcdci.cn/download/index.html)
 
-## Magisk Delta
+### Magisk Delta
 
 如果你是安卓手机并且还有 root 需求的话，我建议使用 Magisk Delta 来 root，这样可使用 Magisk Delta 中的 MagiskHide 功能，对于绝大部分银行 app 都可以有效屏蔽 root。
 

@@ -18,19 +18,19 @@ You need root premission to intall aria2 by apt.
 
 ## 安装
 
-``` BASH BASH
-sudo apt-get install aria2
+```shell SHELL
+$ sudo apt-get install aria2
 ```
 
 ## 配置
 
 ### 手动创建配置文件
 
-``` BASH BASH
-sudo mkdir /etc/aria2    #创建环境目录
-sudo touch /etc/aria2/aria2.session    #新建 session 文件
-sudo chmod 777 /etc/aria2/aria2.session    #设置 aria2.session 可写 
-sudo touch /etc/aria2/aria2.conf    #创建配置文件
+```shell SHELL
+$ sudo mkdir /etc/aria2    #创建环境目录
+$ sudo touch /etc/aria2/aria2.session    #新建 session 文件
+$ sudo chmod 777 /etc/aria2/aria2.session    #设置 aria2.session 可写 
+$ sudo touch /etc/aria2/aria2.conf    #创建配置文件
 ```
 
 
@@ -38,7 +38,7 @@ sudo touch /etc/aria2/aria2.conf    #创建配置文件
 
 用 `vim` 或者 `nano` 之类的文本编辑器写入 aria2 的配置文件 `/etc/aria2/aria2.conf`。
 
-``` path /etc/aria2/aria2.conf >folded
+```yaml path /etc/aria2/aria2.conf >folded
 ## 全局设置 ## ============================================================
 # 日志
 #log-level=warn
@@ -193,14 +193,14 @@ connect-timeout=120
 ```
 ## 启动
 
-``` BASH BASH
-sudo aria2c --conf-path=/etc/aria2/aria2.conf
+```shell SHELL
+$ sudo aria2c --conf-path=/etc/aria2/aria2.conf
 ```
 
 若没有报错证明安装成功，就可以 Ctrl+C 停止，将其转为后台运行
 
-``` BASH BASH
-sudo aria2c --conf-path=/etc/aria2/aria2.conf -D
+```shell SHELL
+$ sudo aria2c --conf-path=/etc/aria2/aria2.conf -D
 ```
 
 ## RPC

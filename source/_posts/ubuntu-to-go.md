@@ -41,7 +41,7 @@ window.onload=function(){
 
 ## 准备
 
-- 一个大于8GB的U盘或者移动硬盘
+- 一个大于 8 GB 的可移动储存设备
 - [Vmware Workstation](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)
 - Ubuntu [安装盘](https://mirrors.163.com/ubuntu-releases)
 - 一个可以联网的计算机
@@ -50,20 +50,18 @@ window.onload=function(){
 
 ### 准备虚拟机
 
-插入你的U盘
+插入你的储存设备
 ![打开 Vmware Workstation，创建新的虚拟机。选择「自定义」](https://pic.rmb.bdstatic.com/bjh/21efba4fbd06c5a2f2429ecf2e07f675.png)
 ![选择「稍后安装系统」，否则 Vmware 会自动启动快速安装](https://pic.rmb.bdstatic.com/bjh/41ba8fcb22db1a3781c2c49896c2252d.png)
 
-内存最好大一点，不然比较卡（
-
-接下来的磁盘设置就比较重要了。这是决定你的系统安装位置的设置项。
+接下来设置磁盘。这是决定你的系统安装位置的设置项。
 
 ![I/O 控制器种类选择 「LSI Logic」](https://pic.rmb.bdstatic.com/bjh/4425f0e6975422d6ae284da48c9dca85.png)
 ![磁盘类型选择 「SCSI」](https://pic.rmb.bdstatic.com/bjh/ac1f3199e0016a0358c7f3f04ab7643d.png)
 ![选择「物理磁盘」，使用情况选择「使用整个磁盘」](https://pic.rmb.bdstatic.com/bjh/5325cb4d3ca323b53b6697bd3453100e.png)
 这个时候就要小心一点了，因为要设置安装的硬盘。你可以根据你的电脑有几个实体硬盘来判断。比如只有一个实体硬盘的你新插入的U盘应该是 PhysicalDrive 1，如果有两个则是 PhysicalDrive 2。如果你不确定的话可以右键此电脑，选择「管理」，点击「磁盘管理」，查看盘号。
 ![](https://pic.rmb.bdstatic.com/bjh/9a13d49b24cfe407afa099eacd126304.png)
-如果 Vmware 没有识别到你的U盘，多半是因为你先打开的 Vmware 后插入的U盘，这个时候你需要关掉虚拟机重新打开。
+如果 Vmware 没有识别到你的储存设备，多半是因为先打开的 Vmware 后插入储存设备，这个时候你需要关掉 VMware 重新打开。
 ![点击「自定义配置」，在「新 CD/DVD」配置项中选择「使用 ISO 映像文件」并选择你下载好的 Ubuntu 系统安装镜像](https://pic.rmb.bdstatic.com/bjh/cba0505f26e76be20f4df8ceb997aa9b.png)
 
 ### 安装 Ubuntu
@@ -79,7 +77,7 @@ window.onload=function(){
 
 ![如图所示是上文的分区方式](https://pic.rmb.bdstatic.com/bjh/ebb54add4cd1845376fc2702f7d4ca76.png)
 
-如果你确定你做好了分区，那么就点击「现在安装」进行下一步的配置。一般来说也是一路 Next 下去，设置一下个人信息就好了。如果确认设置无误，可以正式开始安装。因为 U 盘的读写性能比较低而且虚拟机有性能损耗，安装过程会比较长，不过一般都会在一个小时内结束。（所以建议拿读写速度快的硬盘安装）
+如果你确定你做好了分区，那么就点击「现在安装」进行下一步的配置。一般来说也是一路 Next 下去，设置一下个人信息就好了。如果确认设置无误，可以正式开始安装。因为储存设备的读写性能比较低而且虚拟机有性能损耗，安装过程会比较长，不过一般都会在一个小时内结束。（所以建议拿读写速度快的硬盘安装）
 ![](https://pic.rmb.bdstatic.com/bjh/1351ecb335ec23b88b71797611c633af.png)
 ![安装完成后点击继续试用然后点击右上角关机](https://pic.rmb.bdstatic.com/bjh/11017f89f5246b1cc14eb2cc21d67f39.png)
 
@@ -92,36 +90,36 @@ window.onload=function(){
 
 在 LiveCD 中，打开终端
 
-``` bash 获取 root 权限
-sudo -s
+```shell 获取 root 权限
+$ sudo -s
 ```
-``` bash 查看分区
-fdisk -l
+```shell 查看分区
+$ fdisk -l
 ```
 ![如图，/dev/sda1 是格式为 FAT32 的 EFI 分区，/dev/sda2 是格式为 EXT4 的根分区](https://pic.rmb.bdstatic.com/bjh/049248ea48ab78f64d727a74b970a616.png)
-``` bash 挂载分区
-mount /dev/sda2 /mnt
-mount /dev/sda1 /mnt/boot/efi
-mount --options bind /dev /mnt/dev
-mount --options bind /proc /mnt/proc
-mount --options bind /sys /mnt/sys
-mount --options bind /run /mnt/run
+```shell 挂载分区
+$ mount /dev/sda2 /mnt
+$ mount /dev/sda1 /mnt/boot/efi
+$ mount --options bind /dev /mnt/dev
+$ mount --options bind /proc /mnt/proc
+$ mount --options bind /sys /mnt/sys
+$ mount --options bind /run /mnt/run
 # 如果你有划分其他分区，最好也挂载它们。如下指令为挂载 /dev/sda3 为 /home。
 # mount /dev/sda3 /mnt/home
 ```
 {% raw %}<div class="notification is-danger">{% endraw %}
-可能你和我的分区存在差异，只要将 sda1 或 sda2 更换成你的实际情况就好。在挂载时要先挂载根分区再挂载 EFI 分区
+可能你和我的分区存在差异，只要将 sda1 或 sda2 更换成你的实际情况就好。在挂载时要先挂载根分区再挂载 EFI 分区。
 {% raw %}</div>{% endraw %}
 
-``` bash 进入 Chroot 环境
-chroot /mnt
+```shell 进入 Chroot 环境
+$ chroot /mnt
 ```
 
-``` bash 安装 grub-efi
-apt-get install grub-efi
+```shell 安装 grub-efi
+$ apt-get install grub-efi
 ```
 
-``` bash 报错
+```shell 报错
 正在读取软件包列表...
 完成正在分析软件包的依赖关系树
 正在读取状态信息... 完成
@@ -134,44 +132,44 @@ E: 无法修正错误，因为您要求某些软件包保持现状，就是它�
 ```
 >如上，我在安装 `grub-efi` 时发生了报错，其实这个问题很好解决
 
-``` bash BASH
-sudo apt-get purge grub-common
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install grub-efi
+```shell BASH
+$ sudo apt-get purge grub-common
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install grub-efi
 ```
 通过这个指令一般可以解决依赖关系的问题。
-``` bash 换源
-cp /etc/apt/sources.list /etc/apt/sources.list.bak
-sed -i 's/archive.ubuntu.com/mirrors.163.com/g' /etc/apt/sources.list
+```shell 换源
+$ cp /etc/apt/sources.list /etc/apt/sources.list.bak
+$ sed -i 's/archive.ubuntu.com/mirrors.163.com/g' /etc/apt/sources.list
 # 你需要根据你的时区来更换 archive.ubuntu.com，比如中国的时区是 cn.archive.ubuntu.com
 ```
 
-``` bash 安装引导
-grub-install --target=x86_64-efi --boot-directory=/boot/efi --efi-directory=/boot/efi --removable
+```shell 安装引导
+$ grub-install --target=x86_64-efi --boot-directory=/boot/efi --efi-directory=/boot/efi --removable
 ```
 
-``` bash 退出 chroot
-umount /proc
-umount /dev
-umount /sys
-umount /run
-sync
-exit
+```shell 退出 chroot
+$ umount /proc
+$ umount /dev
+$ umount /sys
+$ umount /run
+$ sync
+$ exit
 ```
 
-``` 复制配置文件
-cp '/mnt/boot/grub/grub.cfg' '/mnt/boot/efi/grub'
+```shell 复制配置文件
+$ cp '/mnt/boot/grub/grub.cfg' '/mnt/boot/efi/grub'
 ```
 重启即可看到，已经引导到 Ubuntu To Go 启动而不是光驱了。你可以再次关机，更改虚拟机设置中的启动模式设置项来分别测试在 Legacy BIOS 和 EFI 下的运行情况。你也可以关闭物理机，然后在 BIOS 中将第一启动设备设为 Ubuntu To Go 系统盘，即可在实体机上运行 Ubuntu To Go 系统盘中的 Ubuntu。
 
->大功告成！欢迎使用 Ubuntu To Go！拔下你的 U 盘，插到其他电脑上试试吧！
+>大功告成！欢迎使用 Ubuntu To Go！拔下你的储存设备，插到其他电脑上试试吧！
 
 ![](https://pic.rmb.bdstatic.com/bjh/0218be0cd19f61fd98644c28a272dd6a.png)
 
 ## 一些小问题
 
-有的同志说开机之后执行了 `sudo apt-get upgrade` 导致重启后无法开机。我判断是 vmlinuz 更新导致了问题
+有的同志说开机之后执行了 `sudo apt-get upgrade` 导致重启后无法开机。我判断是 vmlinuz 更新导致了问题。
 
 ![开机后在这个页面按 e 键](https://pic.rmb.bdstatic.com/bjh/ac1c5579734fff0b15598a108786f6cc.png)
 
