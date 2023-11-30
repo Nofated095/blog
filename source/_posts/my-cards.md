@@ -3,10 +3,10 @@ title: I want a card | 我开的那些卡
 date: 2023-07-12
 cover: https://imgsrc.baidu.com/forum/pic/item/9922720e0cf3d7ca6f03e2b9b71fbe096a63a90c.jpg
 tags:
-- 银行卡
+- Cards
 categories:
-- 卡友日常
-- 银行
+- Finance
+- Cards
 toc: true
 ---
 不知不觉，我成为了一个卡友。

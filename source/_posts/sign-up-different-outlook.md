@@ -3,9 +3,9 @@ title: 不仅是 outlook.com | 申请地区域名的 Outlook 邮箱
 date: 2021-08-28
 cover: https://pic.rmb.bdstatic.com/bjh/da66dc778eb58ee35adc1de5c5bdd323.png
 tags:
-- Outlook
+- Email
 categories:
-- 野生技术协会
+- Technology
 toc: true
 ---
 通过修改语言注册 Outlook.it/Outlook.ie/Outlook.fr 等地区域名邮箱。

@@ -6,7 +6,8 @@ tags:
 - Ubuntu
 - VM
 categories:
-- 野生技术协会
+- Technology
+- Linux
 toc: true
 ---
 即插即用的 Ubuntu，将 Ubuntu 安装在便携式储存设备上。

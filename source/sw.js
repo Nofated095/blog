@@ -88,6 +88,23 @@ routing.registerRoute(
 );
 
 routing.registerRoute(
+    /.*www\.libravatar\.org/,
+    new CacheFirst({
+        cacheName: 'static-immutable' + cacheSuffixVersion,
+        fetchOptions: {
+            mode: 'cors',
+            credentials: 'omit'
+        },
+        plugins: [
+            new ExpirationPlugin({
+                maxAgeSeconds: 30 * 24 * 60 * 60,
+                purgeOnQuotaError: true
+            })
+        ]
+    })
+);
+
+routing.registerRoute(
     /.*cdn\.jsdelivr\.net/,
     new CacheFirst({
         cacheName: 'static-immutable' + cacheSuffixVersion,

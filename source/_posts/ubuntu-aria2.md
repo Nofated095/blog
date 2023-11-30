@@ -6,7 +6,8 @@ tags:
 - Ubuntu
 - aria2
 categories:
-- 野生技术协会
+- Technology
+- Linux
 toc: true
 ---
 Tutorial of installing aria2 on Ubuntu.

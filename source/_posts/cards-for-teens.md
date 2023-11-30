@@ -3,10 +3,10 @@ title: 合法萝莉大陆开卡指北
 date: 2023-11-26
 cover: https://imgsrc.baidu.com/forum/pic/item/c2fdfc039245d68890f6c392e2c27d1ed21b240b.jpg
 tags:
-- 银行卡
+- Cards
 categories:
-- 卡友日常
-- 银行卡
+- Finance
+- Cards
 toc: true
 ---
 年满十六岁但是还不到十八岁的小萝莉想要开一张银行卡来做日常使用，那么怪蜀黍会推荐给小萝莉什么样的卡呢？

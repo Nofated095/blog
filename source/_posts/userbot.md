@@ -7,7 +7,8 @@ tags:
 - Telegram
 - TypeScript
 categories:
-- 野生技术协会
+- Technology
+- Telegram
 toc: true
 ---
 记一次修改 Q2TG 源码使 Telegram 和 QQ 消息同步机器人去 User Bot 化的过程。

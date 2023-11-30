@@ -214,7 +214,7 @@ widgets:
                 url: 'https://twitter.com/nofated095'
             Telegram:
                 icon: fab fa-telegram
-                url: 'https://nofated.t.me'
+                url: 'https://t.me/s/Nofated'
             Email:
                 icon: fas fa-envelope
                 url: 'mailto:i@nof.moe'
