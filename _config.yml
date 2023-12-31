@@ -62,7 +62,7 @@ prismjs:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: '/'
+  path: ''
   per_page: 10
   order_by: -date
 
@@ -103,10 +103,6 @@ feed:
   path: atom.xml
   limit: 20
   
-lazyload:
-  enable: true
-  onlypost: true
-  
 clean_css:
   exclude: 
     - '*.min.css'
@@ -133,6 +129,6 @@ html_minifier:
 
 lazy_load:
   enable: true
-  all: true
+  all: false
   
 theme: amane
