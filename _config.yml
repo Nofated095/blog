@@ -133,6 +133,6 @@ html_minifier:
 
 lazy_load:
   enable: true
-  all: true
+  all: false
   
 theme: amane
