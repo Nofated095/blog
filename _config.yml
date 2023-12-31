@@ -130,5 +130,9 @@ html_minifier:
   removeStyleLinkTypeAttributes: true
   minifyJS: true
   minifyCSS: true
+
+lazy_load:
+  enable: true
+  all: true
   
 theme: amane
