@@ -1,7 +1,8 @@
 ---
 title: I want a card | 我开的那些卡
 date: 2023-07-12
-cover: https://imgsrc.baidu.com/forum/pic/item/9922720e0cf3d7ca6f03e2b9b71fbe096a63a90c.jpg
+#cover: https://imgsrc.baidu.com/forum/pic/item/9922720e0cf3d7ca6f03e2b9b71fbe096a63a90c.jpg
+cover: https://cfdn.nofated.win/blog/posts/my-cards/cover.webp
 tags:
 - Cards
 categories:
@@ -11,6 +12,8 @@ toc: true
 ---
 不知不觉，我成为了一个卡友。
 <!--more-->
+
+![先放一张全家福](https://cfdn.nofated.win/blog/posts/my-cards/01.webp)
 
 说实在，各种各样的银行卡我从今年 4 月份就开始馋了，看别人手里各种各样的银行卡，真是非常羡慕。
 
@@ -22,7 +25,7 @@ toc: true
 
 当然，我也没闲着，先开了一张 招商银行 2233 花嫁的银联卡用着，拉着我妈来到招商银行的支行直接拿到了预制卡。
 
-![招商银行普卡银联 2233 花嫁](https://imgsrc.baidu.com/forum/pic/item/8601a18b87d6277f7733eff76d381f30e824fcd9.jpg)
+![招商银行普卡银联 2233 花嫁](https://cfdn.nofated.win/blog/posts/my-cards/02.webp)
 
 之后了解到美国运通，尝试网申，发现兴业银行和广发银行下卡没设置年龄要求，只是激活需要够 16，所以就拿到了这两个银行的美国运通借记卡，放手里但是没激活。
 
@@ -34,7 +37,7 @@ toc: true
 
 后来找了个时间就给销卡了，反正这卡纯废卡，没法网付，我也暂且没有电汇需求（这张卡免电汇费），真正的做到了鸡肋——食之无味，弃之可惜。
 
-![北京银行 Visa 悦行国际](https://imgsrc.baidu.com/forum/pic/item/962bd40735fae6cdcd4276ae4ab30f2443a70f0f.jpg)
+![北京银行 Visa 悦行国际](https://cfdn.nofated.win/blog/posts/my-cards/03.webp)
 
 ## 中信银行，来挖墙脚
 
@@ -48,8 +51,8 @@ toc: true
 
 后来又申请的美国运通金卡，不过一直在我包里。再去支行就被告知没有工作证明的在校学生必须带家长来激活。
 
-![中信银行中国心万事达世界](https://imgsrc.baidu.com/forum/pic/item/6609c93d70cf3bc70cf110239400baa1cc112a08.jpg)
-![中信银行美国运通金卡](https://imgsrc.baidu.com/forum/pic/item/7e3e6709c93d70cfa90a77c2bddcd100bba12b09.jpg)
+![中信银行中国心万事达世界](https://cfdn.nofated.win/blog/posts/my-cards/04.webp)
+![中信银行美国运通金卡](https://cfdn.nofated.win/blog/posts/my-cards/05.webp)
 
 ## 招商银行，销户重开
 
@@ -63,7 +66,7 @@ toc: true
 
 不过说实话，2233 花嫁卡用多了就觉得腻了，大概是卡板问题，卡面特别容易划伤而且画面颜色也有点失，所以就同卡面换卡换了春日萌动。不得不说，油画工艺真是好看，手感还特别好。
 
-![春日萌动](https://imgsrc.baidu.com/forum/pic/item/8435e5dde71190ef2b084f108b1b9d16fcfa600a.jpg)
+![春日萌动](https://cfdn.nofated.win/blog/posts/my-cards/06.webp)
 
 ## 中国银行，心之向往
 
@@ -75,15 +78,15 @@ toc: true
 
 没有拿到冬奥标准 Visa 的我有些不甘心，又在一个周日前往了京分再去碰瓷。结果就是，他真的没有了。
 
-但是标准卡没了，我开到了异型卡，也就是那个滑板卡，那真的是整个京分最后一张。拿来收藏和网付都挺不错的。
+但是标准卡没了，我开到了异型卡，也就是那个滑板卡。当冤大头花了 50 cny，拿来收藏和网付都挺不错的。
 
 至此，北京大概是再也没有冬奥 Visa 了。
 
 <div class="justified-gallery">
 
-![中国银行长城冰雪借记卡](https://imgsrc.baidu.com/forum/pic/item/c2cec3fdfc03924576473cc0c294a4c27c1e250b.jpg)
-![中国银行莫奈日出万事达世界](https://imgsrc.baidu.com/forum/pic/item/3801213fb80e7bec0637de2e6a2eb9389a506b14.jpg)
-![中国银行冬奥 Visa Signature 异型卡](https://imgsrc.baidu.com/forum/pic/item/730e0cf3d7ca7bcb1f971ae0fb096b63f724a815.jpg)
+![中国银行长城冰雪借记卡](https://cfdn.nofated.win/blog/posts/my-cards/07.webp)
+![中国银行莫奈日出万事达世界](https://cfdn.nofated.win/blog/posts/my-cards/08.webp)
+![中国银行冬奥 Visa Signature 异型卡](https://cfdn.nofated.win/blog/posts/my-cards/09.webp)
 
 </div>
 
@@ -101,8 +104,8 @@ toc: true
 
 <div class="justified-gallery">
 
-![兴业银行银联无界卡](https://imgsrc.baidu.com/forum/pic/item/b7003af33a87e95004f82ea355385343faf2b416.jpg)
-![兴业银行美国运通蓝盒子](https://imgsrc.baidu.com/forum/pic/item/1f178a82b9014a90212a9b72ec773912b21beeee.jpg)
+![兴业银行银联无界卡](https://cfdn.nofated.win/blog/posts/my-cards/10.webp)
+![兴业银行美国运通蓝盒子](https://cfdn.nofated.win/blog/posts/my-cards/11.webp)
 
 </div>
 
@@ -118,8 +121,8 @@ toc: true
 
 <div class="justified-gallery">
 
-![广发银行美国运通 lucky](https://imgsrc.baidu.com/forum/pic/item/faedab64034f78f03ee5473c3c310a55b2191c17.jpg)
-![第二张](https://imgsrc.baidu.com/forum/pic/item/5882b2b7d0a20cf47579231033094b36adaf9910.jpg)
+![广发银行美国运通 lucky](https://cfdn.nofated.win/blog/posts/my-cards/12.webp)
+![第二张](https://cfdn.nofated.win/blog/posts/my-cards/13.webp)
 
 </div>
 
@@ -141,7 +144,7 @@ toc: true
 
 <div class="justified-gallery">
 
-![工商银行银联故宫联名借记卡](https://imgsrc.baidu.com/forum/pic/item/7acb0a46f21fbe0973b61edb2e600c338644ad11.jpg)
-![牡丹国际借记卡](https://imgsrc.baidu.com/forum/pic/item/29381f30e924b89946d4a4f72b061d950b7bf612.jpg)
+![工商银行银联故宫联名借记卡](https://cfdn.nofated.win/blog/posts/my-cards/14.webp)
+![牡丹国际借记卡](https://cfdn.nofated.win/blog/posts/my-cards/15.webp)
 
 </div>
