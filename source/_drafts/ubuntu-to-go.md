@@ -52,42 +52,42 @@ window.onload=function(){
 ### 准备虚拟机
 
 插入你的储存设备
-![打开 Vmware Workstation，创建新的虚拟机。选择「自定义」](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/01.webp)
-![选择「稍后安装系统」，否则 Vmware 会自动启动快速安装](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/02.webp)
+![打开 Vmware Workstation，创建新的虚拟机。选择「自定义」](https://pic.rmb.bdstatic.com/bjh/21efba4fbd06c5a2f2429ecf2e07f675.png)
+![选择「稍后安装系统」，否则 Vmware 会自动启动快速安装](https://pic.rmb.bdstatic.com/bjh/41ba8fcb22db1a3781c2c49896c2252d.png)
 
 接下来设置磁盘。这是决定你的系统安装位置的设置项。
 
-![I/O 控制器种类选择 「LSI Logic」](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/03.webp)
-![磁盘类型选择 「SCSI」](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/04.webp)
-![选择「物理磁盘」，使用情况选择「使用整个磁盘」](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/05.webp)
+![I/O 控制器种类选择 「LSI Logic」](https://pic.rmb.bdstatic.com/bjh/4425f0e6975422d6ae284da48c9dca85.png)
+![磁盘类型选择 「SCSI」](https://pic.rmb.bdstatic.com/bjh/ac1f3199e0016a0358c7f3f04ab7643d.png)
+![选择「物理磁盘」，使用情况选择「使用整个磁盘」](https://pic.rmb.bdstatic.com/bjh/5325cb4d3ca323b53b6697bd3453100e.png)
 这个时候就要小心一点了，因为要设置安装的硬盘。你可以根据你的电脑有几个实体硬盘来判断。比如只有一个实体硬盘的你新插入的U盘应该是 PhysicalDrive 1，如果有两个则是 PhysicalDrive 2。如果你不确定的话可以右键此电脑，选择「管理」，点击「磁盘管理」，查看盘号。
-![](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/06.webp)
+![](https://pic.rmb.bdstatic.com/bjh/9a13d49b24cfe407afa099eacd126304.png)
 如果 Vmware 没有识别到你的储存设备，多半是因为先打开的 Vmware 后插入储存设备，这个时候你需要关掉 VMware 重新打开。
-![点击「自定义配置」，在「新 CD/DVD」配置项中选择「使用 ISO 映像文件」并选择你下载好的 Ubuntu 系统安装镜像](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/07.webp)
+![点击「自定义配置」，在「新 CD/DVD」配置项中选择「使用 ISO 映像文件」并选择你下载好的 Ubuntu 系统安装镜像](https://pic.rmb.bdstatic.com/bjh/cba0505f26e76be20f4df8ceb997aa9b.png)
 
 ### 安装 Ubuntu
 
-![先不要开机，点击小三角并选择「打开电源时进入固件」](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/08.webp)
-![将光驱调到硬盘之前，并 F10 保存退出](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/09.webp)
+![先不要开机，点击小三角并选择「打开电源时进入固件」](https://pic.rmb.bdstatic.com/bjh/227eaf1427d525c1109ff20381ca4a32.png)
+![将光驱调到硬盘之前，并 F10 保存退出](https://pic.rmb.bdstatic.com/bjh/b0aaca023b8267c257355aa33d973bba.png)
 在安装界面选择「试用 Ubuntu」
 
-![进入 LiveCD 后先点击右上角，选择「系统设置」，然后点击「显示」，把分辨率调整到一个合适的大小，否则因为安装时你八成不会看到完整的分区界面](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/10.webp)
+![进入 LiveCD 后先点击右上角，选择「系统设置」，然后点击「显示」，把分辨率调整到一个合适的大小，否则因为安装时你八成不会看到完整的分区界面](https://pic.rmb.bdstatic.com/bjh/19e9bdac7e4beb9e2e33e852d29c4ff4.png)
 点击桌面的安装程序进行常规安装。在选择安装类型的时候要选「其他选项」。我们要对硬盘进行分区。
 
 >一般来说全新的 U 盘都会有一个 FAT32/NTFS/exFAT 分区，把这个分区删掉。在磁盘前部建立一个大小为 200MB 的 FAT32 分区作为 EFI 分区，必须是主分区，挂载点为 /boot/efi。然后建立根分区（挂载点为 /），这个分区也必须是主分区。你可以按你的喜好来配置根分区，我的建议是分区大小不小于 10GB，分区格式为 EXT4。你也可以按照个人喜好给 /usr，/home，/var，/tmp 等目录单独划分分区。如果你的 U 盘容量比较大，可以在磁盘后部留下一点空闲的空间，安装完成后把这部分空间单独划分出一个 NTFS 分区来，你的 Ubuntu To Go 系统盘还能继续当 U 盘使。————摘自[《Ubuntu To Go | 制作属于你的随身 Ubuntu 系统盘 | DreamCity》](https://www.littleqiu.net/ubuntu-to-go/)
 
-![如图所示是上文的分区方式](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/11.webp)
+![如图所示是上文的分区方式](https://pic.rmb.bdstatic.com/bjh/ebb54add4cd1845376fc2702f7d4ca76.png)
 
 如果你确定你做好了分区，那么就点击「现在安装」进行下一步的配置。一般来说也是一路 Next 下去，设置一下个人信息就好了。如果确认设置无误，可以正式开始安装。因为储存设备的读写性能比较低而且虚拟机有性能损耗，安装过程会比较长，不过一般都会在一个小时内结束。（所以建议拿读写速度快的硬盘安装）
-![](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/12.webp)
-![安装完成后点击继续试用然后点击右上角关机](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/13.webp)
+![](https://pic.rmb.bdstatic.com/bjh/1351ecb335ec23b88b71797611c633af.png)
+![安装完成后点击继续试用然后点击右上角关机](https://pic.rmb.bdstatic.com/bjh/11017f89f5246b1cc14eb2cc21d67f39.png)
 
 对于 `21.04` 及以上版本的 Ubuntu，你已经完成了安装，此时可以拔下 U 盘启动到 Ubuntu To Go，但对于 `21.04` 以下的版本，请参照下面的内容继续安装 `grub-efi`。
 
 ### 安装 grub-efi
 
-![关机后打开虚拟机设置，将「选项」/「高级」设置项中的「固件类型」选择「UEFI」，然后点击「确定」](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/14.webp)
-![重新开启虚拟机，点击「Enter」](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/15.webp)
+![关机后打开虚拟机设置，将「选项」/「高级」设置项中的「固件类型」选择「UEFI」，然后点击「确定」](https://pic.rmb.bdstatic.com/bjh/6a25900f15bc86dbbf74948d4d38d5d3.png)
+![重新开启虚拟机，点击「Enter」](https://pic.rmb.bdstatic.com/bjh/1cee303d98eed696ec54d6ae22a79257.png)
 
 在 LiveCD 中，打开终端
 
@@ -97,7 +97,7 @@ $ sudo -s
 ```shell 查看分区
 $ fdisk -l
 ```
-![如图，/dev/sda1 是格式为 FAT32 的 EFI 分区，/dev/sda2 是格式为 EXT4 的根分区](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/16.webp)
+![如图，/dev/sda1 是格式为 FAT32 的 EFI 分区，/dev/sda2 是格式为 EXT4 的根分区](https://pic.rmb.bdstatic.com/bjh/049248ea48ab78f64d727a74b970a616.png)
 ```shell 挂载分区
 $ mount /dev/sda2 /mnt
 $ mount /dev/sda1 /mnt/boot/efi
@@ -166,12 +166,12 @@ $ cp '/mnt/boot/grub/grub.cfg' '/mnt/boot/efi/grub'
 
 >大功告成！欢迎使用 Ubuntu To Go！拔下你的储存设备，插到其他电脑上试试吧！
 
-![](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/17.webp)
+![](https://pic.rmb.bdstatic.com/bjh/0218be0cd19f61fd98644c28a272dd6a.png)
 
 ## 一些小问题
 
 有的同志说开机之后执行了 `sudo apt-get upgrade` 导致重启后无法开机。我判断是 vmlinuz 更新导致了问题。
 
-![开机后在这个页面按 e 键](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/18.webp)
+![开机后在这个页面按 e 键](https://pic.rmb.bdstatic.com/bjh/ac1c5579734fff0b15598a108786f6cc.png)
 
-![将这两个文件名命名为 /boot 下对应的文件名](https://cfdn.nofated.win/blog/posts/ubuntu-to-go/19.webp)
+![将这两个文件名命名为 /boot 下对应的文件名](https://pic.rmb.bdstatic.com/bjh/3c9de21f40ecd6724826fec1cf318669.png)
