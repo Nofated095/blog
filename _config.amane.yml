@@ -191,11 +191,11 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Amane
+        author: 谷風 あまね
         # Author title
-        # author_title: 'Forever you will be in my heart.'
+        author_title: '什么啊这个反应。明明你可爱的妹妹都在用甜言蜜语讨好你了，只咂两下嘴算怎么回事啊？'
         # Author's current location
-        # location: CLOUDFLARE.COM
+        location: Tokyo, Japan
         # URL or path to the avatar image
         avatar: https://cfdn.nofated.win/avatars/avatar.webp
         # Whether show the rounded avatar image
