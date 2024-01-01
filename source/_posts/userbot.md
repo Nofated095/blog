@@ -2,7 +2,8 @@
 title: 我是怎么把 User Bot 从 Q2TG 里面扬了的
 date: 2023-01-20
 #cover: https://imgsrc.baidu.com/super/pic/item/c8177f3e6709c93db0cd8232da3df8dcd100543c.jpg
-cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/742E409E-A84C-11ED-AEC9-C03EBA168291.jpg?x-oss-process=image/format,webp
+#cover: https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/742E409E-A84C-11ED-AEC9-C03EBA168291.jpg?x-oss-process=image/format,webp
+cover: https://cfdn.nofated.win/blog/posts/userbot/cover.webp
 tags:
 - Telegram
 - TypeScript
@@ -45,7 +46,7 @@ toc: true
 
 于是我尝试在 GitHub 搜索了一下，没想到就可以直接开始肝了（
 
-![](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/72E8539A-A84C-11ED-94C1-C03EBA168291.png)
+![](https://cfdn.nofated.win/blog/posts/userbot/01.webpg)
 
 ### ❌ 脑瘫思路 —— Undefined
 
@@ -233,13 +234,13 @@ export default class SetupController {
 
 在构建 Image 完成后，我激动地~~关掉了 `v1` 的 Container~~ 在服务器上拉取并部署。
 
-![部署过程](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/732423D4-A84C-11ED-90BC-C03EBA168291.png)
+![部署过程](https://cfdn.nofated.win/blog/posts/userbot/02.webp)
 
-![正常工作的瞬间](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/737FB1A2-A84C-11ED-9FD7-C03EBA168291.png)
+![正常工作的瞬间](https://cfdn.nofated.win/blog/posts/userbot/03.webp)
 
 ~~真是感动到让人落泪~~。
 
-![文件转发](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/73E29376-A84C-11ED-BAFD-C03EBA168291.png)
+![文件转发](https://cfdn.nofated.win/blog/posts/userbot/04.webp)
 
 ## 后记
 

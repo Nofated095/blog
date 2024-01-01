@@ -1,7 +1,8 @@
 ---
 title: 合法萝莉大陆开卡指北
 date: 2023-11-26
-cover: https://imgsrc.baidu.com/forum/pic/item/c2fdfc039245d68890f6c392e2c27d1ed21b240b.jpg
+#cover: https://imgsrc.baidu.com/forum/pic/item/c2fdfc039245d68890f6c392e2c27d1ed21b240b.jpg
+cover:https://cfdn.nofated.win/blog/posts/cards-for-teens/cover.webp
 tags:
 - Cards
 categories:
