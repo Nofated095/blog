@@ -251,8 +251,7 @@ widgets:
         position: right
         type: links
         links:
-            Amane: 'https://nof.moe'
-            OneDrive: 'https://o.nof.moe'
+            Amane's Intro: 'https://nof.moe'
             '萌 ICP 备 20232345 号': 'https://icp.gov.moe/?keyword=20232345'
             Travelling: 'https://www.travellings.cn/go.html'
             十年之约: 'https://www.foreverblog.cn/'
