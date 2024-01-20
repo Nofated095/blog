@@ -351,7 +351,7 @@ comment:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://blog.smallxu.com/g.jpg">
+                            <img src="https://www.libravatar.org/gravatarproxy/4e1cc36350d6e75cfe035d811011c931?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -362,7 +362,7 @@ comment:
             </div>
             <footer class="card-footer">
                 <a target="_blank" href="https://github.com/1264822519" class="card-footer-item">GitHub</a>
-                <a target="_blank" href="https://blog.smallxu.com/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://blog.imnifeng.com/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
