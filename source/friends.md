@@ -225,18 +225,18 @@ comment:
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="https://www.libravatar.org/gravatarproxy/1e45107097e38e8813f343834dd63f8e?s=256">
+                            <img src="https://www.libravatar.org/gravatarproxy/5c8880ba20fc32f67b35c4876112bb98?s=256">
                         </figure>
                     </div>
                     <div class="media-content">
                         <p class="title is-4">Restent Ou</p>
-                        <p class="subtitle is-6">遇见你是我一生最幸运的事</p>
+                        <p class="subtitle is-6">静寂に問う 答えを求めて</p>
                     </div>
                 </div>
             </div>
             <footer class="card-footer">
-                <a target="_blank" href="https://github.com/Restent" class="card-footer-item">GitHub</a>
-                <a target="_blank" href="https://blog.restent.win/" class="card-footer-item">Blog</a>
+                <a target="_blank" href="https://github.com/gxres042" class="card-footer-item">GitHub</a>
+                <a target="_blank" href="https://www.gxres.net/" class="card-footer-item">Blog</a>
             </footer>
         </div>
     </div>
