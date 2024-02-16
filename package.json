@@ -33,7 +33,7 @@
     "hexo-html-minifier": "^1.0.0",
     "hexo-native-lazy-load": "1.1.2",
     "hexo-theme-amane": "1.0.48",
-    "hexo-theme-icarus": "5.3.0",
+    "hexo-theme-icarus": "6.0.0",
     "inferno": "^8.0.1",
     "inferno-create-element": "^8.0.1",
     "vite": "^5.0.4"
