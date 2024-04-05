@@ -46,7 +46,7 @@ toc: true
 
 于是我尝试在 GitHub 搜索了一下，没想到就可以直接开始肝了（
 
-![](https://cfdn.nofated.win/blog/posts/userbot/01.webpg)
+![](https://cfdn.nofated.win/blog/posts/userbot/01.webp)
 
 ### ❌ 脑瘫思路 —— Undefined
 
