@@ -6,4 +6,4 @@ hexo.extend.injector.register('body_end', '<script async src="/js/quicklink.js">
 
 hexo.extend.injector.register('body_end', '<script src="/js/pjax.min.js"></script>', 'default');
 
-hexo.extend.injector.register('body_end', '<script>var pjax=new Pjax({selectors:["title", ".order-2", ".column-left", ".column-right", ".navbar-menu"]});</script>', 'default');
+hexo.extend.injector.register('body_end', '<script>var pjax=new Pjax({selectors:["title", ".section", ".navbar-menu"]});</script>', 'default');
